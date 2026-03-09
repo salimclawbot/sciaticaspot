@@ -1,5 +1,6 @@
 import fs from "fs";
 import path from "path";
+import matter from "gray-matter";
 import { remark } from "remark";
 import html from "remark-html";
 
@@ -13,81 +14,72 @@ export interface Article {
   date: string;
   dateModified: string;
   category: string;
+  author: string;
+  faqSchema?: Record<string, unknown> | null;
+  articleSchema?: Record<string, unknown> | null;
 }
 
 const CONTENT_DIR = path.join(process.cwd(), "content");
 
-const articleMeta: Record<
-  string,
-  {
-    title: string;
-    description: string;
-    category: string;
-    date: string;
-    dateModified: string;
+function parseJsonField(value: unknown): Record<string, unknown> | null {
+  if (!value || typeof value !== "string") return null;
+  try {
+    return JSON.parse(value);
+  } catch {
+    return null;
   }
-> = {
-  "best-air-purifier-asthma": {
-    title: "Best Air Purifier for Asthma (2026)",
-    description:
-      "Placeholder guide: top air purifiers for asthma-sensitive households, focused on CADR, HEPA filtration, and real-world noise levels.",
-    category: "Health Guide",
-    date: "2026-03-10",
-    dateModified: "2026-03-10",
-  },
-  "best-air-purifier-mold": {
-    title: "Best Air Purifier for Mold (2026)",
-    description:
-      "Placeholder guide: mold-focused air purifier picks with strong particulate capture and practical room-sizing recommendations.",
-    category: "Problem-Solution",
-    date: "2026-03-10",
-    dateModified: "2026-03-10",
-  },
-  "best-air-purifier-baby-room": {
-    title: "Best Air Purifier for Baby Room (2026)",
-    description:
-      "Placeholder guide: quiet, low-emission air purifier recommendations for nurseries and small bedrooms.",
-    category: "Family Guide",
-    date: "2026-03-10",
-    dateModified: "2026-03-10",
-  },
-};
+}
 
 function processContent(raw: string): string {
   let processed = raw;
   processed = processed.replace(/^#\s+.*\n+/, "");
+  processed = processed.replace(/\[INTERNAL:\s*([\w-]+)\]\((.*?)\)/g, "[$2](/$1)");
+  processed = processed.replace(/\[INTERNAL:\s*([\w-]+)\]/g, "[$1](/$1)");
   return processed;
 }
 
 export async function getArticle(slug: string): Promise<Article | null> {
-  const meta = articleMeta[slug];
-  if (!meta) return null;
-
   const filePath = path.join(CONTENT_DIR, `${slug}.md`);
   if (!fs.existsSync(filePath)) return null;
 
   const raw = fs.readFileSync(filePath, "utf-8");
-  const processed = processContent(raw);
-  const result = await remark().use(html, { sanitize: false }).process(processed);
+  const parsed = matter(raw);
+  const data = parsed.data as Record<string, unknown>;
 
-  const excerptMatch = raw.match(/\*\*(.*?)\*\*/);
-  const excerpt = excerptMatch ? excerptMatch[1].trim() : meta.description;
+  const content = processContent(parsed.content);
+  const result = await remark().use(html, { sanitize: false }).process(content);
+
+  const title = (data.title as string) || slug;
+  const description = (data.meta_description as string) || "Air purifier guide article.";
+  const author = (data.author as string) || "Dr. Alex Chen";
+  const date = (data.datePublished as string) || "2026-03-10";
+  const dateModified = (data.dateModified as string) || date;
+  const category = "Guide";
+
+  const excerptMatch = parsed.content.match(/\*\*(.*?)\*\*/);
+  const excerpt = excerptMatch ? excerptMatch[1].trim() : description;
 
   return {
     slug,
-    title: meta.title,
-    description: meta.description,
+    title,
+    description,
     excerpt,
-    content: processed,
+    content,
     htmlContent: result.toString(),
-    date: meta.date,
-    dateModified: meta.dateModified,
-    category: meta.category,
+    date,
+    dateModified,
+    category,
+    author,
+    faqSchema: parseJsonField(data.faq_schema),
+    articleSchema: parseJsonField(data.article_schema),
   };
 }
 
 export function getAllSlugs(): string[] {
-  return Object.keys(articleMeta);
+  return fs
+    .readdirSync(CONTENT_DIR)
+    .filter((f) => f.endsWith(".md"))
+    .map((f) => f.replace(/\.md$/, ""));
 }
 
 export async function getAllArticles(): Promise<Article[]> {
