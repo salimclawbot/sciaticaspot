@@ -17,6 +17,9 @@ const guides = [
   { slug: "best-air-purifier-asthma", title: "Best Air Purifier for Asthma", description: "HEPA-first picks for asthma-sensitive homes.", category: "Health Guide" },
   { slug: "best-air-purifier-mold", title: "Best Air Purifier for Mold", description: "Filter strategy and model picks for mold-prone spaces.", category: "Problem-Solution" },
   { slug: "best-air-purifier-baby-room", title: "Best Air Purifier for Baby Room", description: "Quiet and nursery-friendly purification options.", category: "Family Guide" },
+  { slug: "levoit-vs-winix-air-purifier", title: "Levoit vs Winix Air Purifier", description: "Head-to-head comparison on CADR, noise, smart features, and filter costs.", category: "Brand Comparison" },
+  { slug: "coway-vs-levoit-air-purifier", title: "Coway vs Levoit Air Purifier", description: "Which brand wins on value, airflow, and long-term ownership cost.", category: "Brand Comparison" },
+  { slug: "true-hepa-vs-hepa-type", title: "True HEPA vs HEPA-Type", description: "A standards-first guide to filter grades and what actually protects respiratory health.", category: "Education" },
 ];
 
 export default function HomePage() {
