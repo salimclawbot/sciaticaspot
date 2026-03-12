@@ -6,11 +6,11 @@ export default function Header() {
   return (
     <header className="border-b border-cyan-100 bg-white/90 backdrop-blur">
       <div className="mx-auto flex max-w-6xl items-center justify-between px-4 py-4 sm:px-6">
-        <Link href="/" className="text-xl font-bold text-cyan-800">Air Purifier Guide</Link>
+        <Link href="/" className="text-xl font-bold text-cyan-800">Anti-Inflammatory Basics</Link>
         <nav className="hidden gap-6 text-sm font-medium text-slate-700 md:flex">
-          <Link href="/best-air-purifier-asthma" className="hover:text-cyan-700">Asthma</Link>
-          <Link href="/best-air-purifier-mold" className="hover:text-cyan-700">Mold</Link>
-          <Link href="/best-air-purifier-baby-room" className="hover:text-cyan-700">Baby Room</Link>
+          <Link href="/best-anti-inflammatory-asthma" className="hover:text-cyan-700">Asthma</Link>
+          <Link href="/best-anti-inflammatory-mold" className="hover:text-cyan-700">Mold</Link>
+          <Link href="/best-anti-inflammatory-baby-room" className="hover:text-cyan-700">Baby Room</Link>
           <Link href="/about" className="hover:text-cyan-700">About</Link>
         </nav>
       </div>

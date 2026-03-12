@@ -6,7 +6,7 @@ export default function AffiliateDisclosurePage() {
       <h1 className="text-3xl font-bold">Affiliate Disclosure</h1>
       <p><strong>Last updated:</strong> March 10, 2026</p>
       <p>
-        Air Purifier Guide is reader-supported. We may earn a commission when you buy through certain links on this site.
+        Anti-Inflammatory Basics is reader-supported. We may earn a commission when you buy through certain links on this site.
         This comes at no additional cost to you.
       </p>
 
@@ -35,7 +35,7 @@ export default function AffiliateDisclosurePage() {
       </p>
 
       <h2 className="text-xl font-semibold">Contact</h2>
-      <p>Email: <a className="text-cyan-700 underline" href="mailto:editorial@airpurifierguide.com">editorial@airpurifierguide.com</a></p>
+      <p>Email: <a className="text-cyan-700 underline" href="mailto:editorial@antiinflammatorybasics.com">editorial@antiinflammatorybasics.com</a></p>
     </div>
   );
 }
