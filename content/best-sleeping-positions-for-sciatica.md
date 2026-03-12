@@ -116,7 +116,7 @@ Clinicians frequently observe that sciatica patients report their worst pain bet
 
 Cortisol, your body's primary anti-inflammatory hormone, follows a circadian rhythm. Levels drop to their lowest point between midnight and 4 AM, which means your body's natural inflammation suppression is at its weakest precisely when you are lying still in bed. For inflammatory sciatica — such as that caused by chemical radiculitis from a disc herniation — this creates a predictable window of increased pain.
 
-![Cross-sectional medical illustration of lumbar spine showing a bulging disc pressing on the sciatic nerve root during sleep](sciatica-night-spine-anatomy.jpg)
+![Cross-sectional medical illustration of lumbar spine showing a bulging disc pressing on the sciatic nerve root during sleep](/images/articles/sciatica-spine-night-illustration.png)
 <!-- NANO_BANANA_PROMPT: A detailed cross-sectional medical illustration showing the lumbar spine at night. The scene depicts a person lying on their side in bed in a dark bedroom with moonlight coming through the window. A zoomed-in anatomical cutaway reveals the L4-L5 vertebrae with a bulging disc pressing on the sciatic nerve root. Arrows indicate disc rehydration fluid flow increasing disc height. The illustration uses soft blue and purple tones for the nighttime atmosphere with warm anatomical colors for the spine detail. Clean medical illustration style with labels pointing to the sciatic nerve, herniated disc material, and nerve root compression point. -->
 
 ---
@@ -199,7 +199,7 @@ The modified fetal position — side-lying with hips and knees gently flexed —
 
 **Important caveat:** This position is *not recommended* for sciatica caused by disc herniation. Spinal flexion increases intradiscal pressure and can push disc material further into the neural foramen, worsening nerve compression. Know the cause of your sciatica before adopting this position.
 
-![Infographic showing four recommended sleeping positions for sciatica: back with knee support, side with knee pillow, legs elevated, and modified fetal position](sciatica-sleeping-positions-infographic.jpg)
+![Infographic showing four recommended sleeping positions for sciatica: back with knee support, side with knee pillow, legs elevated, and modified fetal position](/images/articles/sciatica-sleeping-positions-infographic.png)
 <!-- NANO_BANANA_PROMPT: A clean, modern infographic showing four sleeping positions for sciatica arranged in a 2x2 grid. Top-left: person lying on back with pillow under knees, labeled "Best Overall - Back with Knee Support." Top-right: person lying on their side with pillow between knees, labeled "Best for Side Sleepers." Bottom-left: person lying on back with legs elevated on a chair at 90 degrees, labeled "Best for Acute Flares." Bottom-right: person in modified fetal position on their side with knees gently drawn up, labeled "Best for Spinal Stenosis." Each position has a green checkmark and a pain relief rating out of 10. A small spine diagram next to each shows the lumbar alignment in that position. Color scheme uses calming blues and whites with medical illustration style. Text at top reads "4 Best Sleeping Positions for Sciatica." -->
 
 ---
@@ -255,7 +255,7 @@ A rolled towel (5–8 cm diameter) or commercial lumbar roll placed in the small
 
 An often-overlooked detail: if you use a knee pillow but let your ankles rest directly on each other, the bony contact between medial malleoli can be painful and cause you to unconsciously shift positions. Extend the knee pillow down to ankle level, or use a separate thin pillow between your ankles.
 
-![Person sleeping on their side with a contoured knee pillow, body pillow, and lumbar roll properly positioned for sciatica relief](sciatica-pillow-placement-bedroom.jpg)
+![Person sleeping on their side with a contoured knee pillow, body pillow, and lumbar roll properly positioned for sciatica relief](/images/articles/sciatica-pillow-setup-bedroom.png)
 <!-- NANO_BANANA_PROMPT: A realistic bedroom scene photographed from a slightly elevated angle showing a person lying on their side on a medium-firm mattress with white sheets. The person is a middle-aged adult wearing comfortable sleepwear. A thick memory foam contoured knee pillow is clearly visible between their knees, and a body pillow runs along their front for arm support. A small lumbar roll is tucked behind their lower back. Overlay arrows and labels in clean sans-serif font point to each pillow with text: "Contoured knee pillow (10-12cm firm memory foam)," "Body pillow for arm and chest support," "Lumbar roll to maintain spinal curve." The bedroom is warmly lit with a bedside lamp creating a soft amber glow. Calm, editorial photography style with clinical accuracy. -->
 
 ---
@@ -298,7 +298,7 @@ The mattress industry does not use a standardized firmness scale, which makes sh
 - **Too firm:** You feel pressure points at your hip and shoulder. There is a visible gap between your waist and the mattress when side-lying.
 - **Medium-firm (ideal):** Your spine maintains a straight horizontal line when side-lying. Your hip sinks slightly (2–3 cm) but not enough to create lateral spinal flexion.
 
-![Side view of a person lying on a medium-firm mattress showing proper spinal alignment with the hip sinking slightly into the surface](sciatica-mattress-firmness-spinal-alignment.jpg)
+![Side view of a person lying on a medium-firm mattress showing proper spinal alignment with the hip sinking slightly into the surface](/images/articles/sciatica-mattress-alignment.png)
 <!-- NANO_BANANA_PROMPT: A realistic side-view photograph of a person lying on their side on a medium-firm mattress in a clean, well-lit bedroom. The person is wearing light sleepwear and their spine is visibly straight and horizontal, demonstrating ideal alignment. A subtle translucent overlay shows the spine line from neck to pelvis in a straight horizontal line. The mattress surface shows a slight compression of 2-3 cm at the hip and shoulder but maintains overall support. The bed has neutral white bedding. Soft natural daylight fills the room. A small inset comparison in the corner shows two incorrect examples: one with a too-soft mattress where the hip sinks deeply causing the spine to curve downward, and one with a too-firm mattress showing a visible gap at the waist. Labels in clean sans-serif font read "Medium-Firm: Correct Alignment" for the main image and "Too Soft" and "Too Firm" for the inset examples. Editorial product photography style with clinical precision. -->
 
 ### Mattress Type Considerations
@@ -458,7 +458,7 @@ A 2015 study in the *Journal of Clinical Sleep Medicine* (Finan et al.) found th
 
 Place your pillows, knee bolster, and any heating pads on the bed before you need them. Having to reach, twist, or search for supplies after you have gotten into bed defeats the purpose of a careful entry technique. Keep a small pillow on each side of the bed so you have support no matter which direction you roll during the night.
 
-![Step-by-step bedtime routine infographic for sciatica relief, from heat application to optimal sleeping position](sciatica-bedtime-routine-infographic.jpg)
+![Step-by-step bedtime routine infographic for sciatica relief, from heat application to optimal sleeping position](/images/articles/sciatica-bedtime-routine-infographic.png)
 <!-- NANO_BANANA_PROMPT: A detailed infographic titled "Complete Bedtime Routine for Sciatica Relief" with a vertical timeline format showing steps from 60 minutes before bed to lights out. Steps include: "60 min before: Apply heat pad to lower back and piriformis (15-20 min)," "45 min before: Take evening pain medication if prescribed," "30 min before: Gentle piriformis stretch, knee-to-chest stretch, and sciatic nerve glide (10 min)," "15 min before: Prepare bed with knee pillow, lumbar roll, and ankle support," "Bedtime: Use log-roll technique to enter bed, adopt optimal sleeping position." Each step has a small icon illustration. The infographic uses a gradient background from warm amber at top to cool navy blue at bottom representing the transition to sleep. Stats and clinical references are noted beside each step. Clean modern design with sans-serif typography. -->
 
 ---
