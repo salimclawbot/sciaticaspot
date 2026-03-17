@@ -3,6 +3,9 @@ import { notFound } from "next/navigation";
 import SciaticaVideo from "@/components/SciaticaVideo";
 import { getArticle, getAllSlugs } from "@/lib/articles";
 import ReactMarkdown from "react-markdown";
+import rehypeRaw from "rehype-raw";
+import rehypeSlug from "rehype-slug";
+import rehypeAutolinkHeadings from "rehype-autolink-headings";
 import remarkGfm from "remark-gfm";
 
 interface PageProps { params: { slug: string } }
@@ -95,12 +98,25 @@ export default async function ArticlePage({ params }: PageProps) {
       <div className="prose prose-slate max-w-none mt-8">
         <ReactMarkdown
           remarkPlugins={[remarkGfm]}
+          rehypePlugins={[rehypeRaw, rehypeSlug, rehypeAutolinkHeadings]}
           components={{
             img: ({ src, alt }) => (
               <figure className="my-6">
                 <img src={src} alt={alt || ""} className="rounded-lg shadow-md w-full" loading="lazy" />
                 {alt && <figcaption className="text-center text-sm text-gray-500 mt-2">{alt}</figcaption>}
               </figure>
+            ),
+            table: ({ children }) => (
+              <div style={{ overflowX: "auto", width: "100%", marginBottom: "1.5rem" }}>
+                <table style={{ minWidth: "600px", width: "100%", borderCollapse: "collapse" }}>
+                  {children}
+                </table>
+              </div>
+            ),
+            a: ({ href, children }) => (
+              <a href={href} target={href?.startsWith("http") ? "_blank" : undefined} rel={href?.startsWith("http") ? "noopener noreferrer" : undefined}>
+                {children}
+              </a>
             ),
           }}
         >
