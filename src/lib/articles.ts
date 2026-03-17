@@ -114,3 +114,9 @@ export function getAllSlugs(): string[] {
     .filter((f) => f.endsWith(".md"))
     .map((f) => f.replace(/\.md$/, ""));
 }
+
+export async function getAllArticles(): Promise<Article[]> {
+  const slugs = getAllSlugs();
+  const articles = await Promise.all(slugs.map((slug) => getArticle(slug)));
+  return articles.filter(Boolean) as Article[];
+}

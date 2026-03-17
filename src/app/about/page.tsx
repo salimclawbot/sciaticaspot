@@ -3,8 +3,8 @@ export const metadata = { title: "About" };
 export default function AboutPage() {
   return (
     <div className="max-w-3xl mx-auto px-4 sm:px-6 py-10 space-y-4">
-      <h1 className="text-3xl font-bold">About Anti-Inflammatory Basics</h1>
-      <p>Anti-Inflammatory Basics publishes practical reviews and comparisons to help people choose effective air cleaners for real homes and real budgets.</p>
+      <h1 className="text-3xl font-bold">About Sciatica Spot</h1>
+      <p>Sciatica Spot publishes practical reviews and comparisons to help people choose effective air cleaners for real homes and real budgets.</p>
       <p>Our editorial lead is <strong>Dr. Sarah Mitchell</strong>. We focus on filtration quality, room-size matching, noise, and long-term ownership cost.</p>
     </div>
   );

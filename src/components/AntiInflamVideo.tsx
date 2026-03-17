@@ -58,7 +58,7 @@ export default function AntiInflamVideo({ variant }: { variant: "foods" | "mealp
           <p className="text-xl sm:text-3xl font-extrabold leading-tight max-w-2xl">{currentSlide.title}</p>
           <p className="mt-3 text-sm sm:text-base text-white/90 max-w-xl">{currentSlide.subtitle}</p>
         </div>
-        <div className="absolute bottom-3 right-4 text-xs text-white/50 font-mono">antiinflammatorybasics.com</div>
+        <div className="absolute bottom-3 right-4 text-xs text-white/50 font-mono">sciaticaspot.com</div>
       </div>
       <div className="mt-3 flex items-center gap-3">
         <button type="button" onClick={() => setIsPlaying((p) => !p)}

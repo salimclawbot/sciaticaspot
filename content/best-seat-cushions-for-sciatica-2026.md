@@ -90,8 +90,8 @@ Not all cushions are created equal. The following features separate effective sc
 - **Cushions without covers** — foam deteriorates faster when exposed directly
 
 
-![The coccyx cutout removes direct pressure from the nerve root — essential for seated sciatica relief](/images/articles/coccyx-seat-cushion-office.jpg)
-*The coccyx cutout removes direct pressure from the nerve root — essential for seated sciatica relief.*
+![Ergonomic seat cushion with U-shaped cutout — reduces sciatica nerve compression while seated](/images/articles/sciatica-seat-cushion-office.jpg)
+*Ergonomic seat cushion with U-shaped cutout — reduces sciatica nerve compression while seated.*
 
 
 ## Our Testing Methodology
