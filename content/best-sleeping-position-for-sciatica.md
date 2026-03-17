@@ -176,18 +176,26 @@ If you are changing from stomach sleeping to side or back sleeping, the transiti
 
 Not all pillows provide the right support for sciatica. After testing and reviewing the most popular options, here are my top picks for 2026. Each one is designed to maintain spinal alignment during sleep.
 
-<div style="overflow-x:auto;">
-
-| Product | Product Name | Type | Fill | Best For | Price Range | Buy Link |
-|---------|-------------|------|------|----------|-------------|----------|
-| ![Tempur-Pedic TEMPUR-Body Pillow](/images/articles/tempur-pedic-body-pillow.jpg) | **Tempur-Pedic TEMPUR-Body Pillow** | Full body | TEMPUR memory foam | Side sleepers wanting full-body support | $$$$ | <a href="https://www.amazon.com/s?k=Tempur-Pedic+TEMPUR+Body+Pillow&tag=theforge05-20">Check on Amazon</a> |
-| ![Leachco Snoogle Total Body Pillow](/images/articles/leachco-snoogle-body-pillow.jpg) | **Leachco Snoogle Total Body Pillow** | C-shaped body | Polyester fill | Full spinal alignment, transitioning sleepers | $$$ | <a href="https://www.amazon.com/s?k=Leachco+Snoogle+Total+Body+Pillow&tag=theforge05-20">Check on Amazon</a> |
-| ![Coop Home Goods Original Pillow](/images/articles/coop-home-goods-pillow.jpg) | **Coop Home Goods Original Pillow** | Head/neck | Adjustable shredded foam | Customisable loft for neck alignment | $$ | <a href="https://www.amazon.com/s?k=Coop+Home+Goods+Original+Pillow&tag=theforge05-20">Check on Amazon</a> |
-| ![PharMeDoc Full Body Pillow](/images/articles/pharmedoc-body-pillow.jpg) | **PharMeDoc Full Body Pillow** | U-shaped body | Polyfill | Back and side sleepers, all-around support | $$ | <a href="https://www.amazon.com/s?k=PharMeDoc+Full+Body+Pillow&tag=theforge05-20">Check on Amazon</a> |
-| ![Cushy Form Knee Pillow](/images/articles/cushy-form-knee-pillow.jpg) | **Cushy Form Knee Pillow** | Knee wedge | Memory foam | Targeted knee and hip alignment | $ | <a href="https://www.amazon.com/s?k=Cushy+Form+Knee+Pillow&tag=theforge05-20">Check on Amazon</a> |
-| ![Contour Legacy Leg & Knee Pillow](/images/articles/contour-legacy-knee-pillow.jpg) | **Contour Legacy Leg & Knee Pillow** | Contoured knee | Memory foam | Secure fit, stays in place all night | $$ | <a href="https://www.amazon.com/s?k=Contour+Legacy+Leg+Knee+Pillow&tag=theforge05-20">Check on Amazon</a> |
-
+<style>
+.product-cards { display: grid; grid-template-columns: 1fr; gap: 1.5rem; margin: 2rem 0; }
+@media(min-width:640px){ .product-cards { grid-template-columns: repeat(2, 1fr); } }
+.product-card { border: 1px solid #e2e8f0; border-radius: 12px; overflow: hidden; background: #fff; box-shadow: 0 1px 4px rgba(0,0,0,0.06); }
+.product-card img { width: 100%; height: 200px; object-fit: cover; }
+.product-card-info { padding: 1rem; }
+.product-card-info h4 { font-size: 1rem; font-weight: 700; color: #0f172a; margin: 0 0 0.5rem; }
+.product-card-info p { font-size: 0.875rem; color: #475569; margin: 0.25rem 0; }
+.amazon-btn { display: block; margin-top: 0.75rem; text-align: center; background: #0d9488; color: #fff; padding: 0.6rem 1rem; border-radius: 8px; text-decoration: none; font-weight: 600; font-size: 0.875rem; }
+.amazon-btn:hover { background: #0f766e; }
+</style>
+<div class="product-cards">
+  <div class="product-card"><img src="/images/articles/tempur-pedic-body-pillow.jpg" alt="Tempur-Pedic TEMPUR-Body Pillow" /><div class="product-card-info"><h4>Tempur-Pedic TEMPUR-Body Pillow</h4><p><strong>Type:</strong> Full body | <strong>Fill:</strong> TEMPUR memory foam</p><p><strong>Best for:</strong> Side sleepers wanting full-body support</p><p><strong>Price:</strong> $$$$</p><a href="https://www.amazon.com/s?k=Tempur-Pedic+TEMPUR+Body+Pillow&tag=theforge05-20" class="amazon-btn" target="_blank" rel="noopener">Check on Amazon →</a></div></div>
+  <div class="product-card"><img src="/images/articles/leachco-snoogle-body-pillow.jpg" alt="Leachco Snoogle Total Body Pillow" /><div class="product-card-info"><h4>Leachco Snoogle Total Body Pillow</h4><p><strong>Type:</strong> C-shaped body | <strong>Fill:</strong> Polyester</p><p><strong>Best for:</strong> Full spinal alignment, transitioning sleepers</p><p><strong>Price:</strong> $$$</p><a href="https://www.amazon.com/s?k=Leachco+Snoogle+Total+Body+Pillow&tag=theforge05-20" class="amazon-btn" target="_blank" rel="noopener">Check on Amazon →</a></div></div>
+  <div class="product-card"><img src="/images/articles/coop-home-goods-pillow.jpg" alt="Coop Home Goods Original Pillow" /><div class="product-card-info"><h4>Coop Home Goods Original Pillow</h4><p><strong>Type:</strong> Head/neck | <strong>Fill:</strong> Adjustable shredded foam</p><p><strong>Best for:</strong> Customisable loft for neck alignment</p><p><strong>Price:</strong> $$</p><a href="https://www.amazon.com/s?k=Coop+Home+Goods+Original+Pillow&tag=theforge05-20" class="amazon-btn" target="_blank" rel="noopener">Check on Amazon →</a></div></div>
+  <div class="product-card"><img src="/images/articles/pharmedoc-body-pillow.jpg" alt="PharMeDoc Full Body Pillow" /><div class="product-card-info"><h4>PharMeDoc Full Body Pillow</h4><p><strong>Type:</strong> U-shaped body | <strong>Fill:</strong> Polyfill</p><p><strong>Best for:</strong> Back and side sleepers, all-around support</p><p><strong>Price:</strong> $$</p><a href="https://www.amazon.com/s?k=PharMeDoc+Full+Body+Pillow&tag=theforge05-20" class="amazon-btn" target="_blank" rel="noopener">Check on Amazon →</a></div></div>
+  <div class="product-card"><img src="/images/articles/cushy-form-knee-pillow.jpg" alt="Cushy Form Knee Pillow" /><div class="product-card-info"><h4>Cushy Form Knee Pillow</h4><p><strong>Type:</strong> Knee wedge | <strong>Fill:</strong> Memory foam</p><p><strong>Best for:</strong> Targeted knee and hip alignment</p><p><strong>Price:</strong> $</p><a href="https://www.amazon.com/s?k=Cushy+Form+Knee+Pillow&tag=theforge05-20" class="amazon-btn" target="_blank" rel="noopener">Check on Amazon →</a></div></div>
+  <div class="product-card"><img src="/images/articles/contour-legacy-knee-pillow.jpg" alt="Contour Legacy Knee Pillow" /><div class="product-card-info"><h4>Contour Legacy Leg &amp; Knee Pillow</h4><p><strong>Type:</strong> Contoured knee | <strong>Fill:</strong> Memory foam</p><p><strong>Best for:</strong> Secure fit, stays in place all night</p><p><strong>Price:</strong> $$</p><a href="https://www.amazon.com/s?k=Contour+Legacy+Leg+Knee+Pillow&tag=theforge05-20" class="amazon-btn" target="_blank" rel="noopener">Check on Amazon →</a></div></div>
 </div>
+
 
 ### How I Evaluated These Pillows
 
