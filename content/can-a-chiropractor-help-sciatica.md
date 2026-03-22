@@ -1,5 +1,5 @@
 ---
-title: "Can a Chiropractor Help Sciatica? (What the Evidence Says 2026)"
+title: "Can a Chiropractor Help Sciatica? (What the Evidence"
 meta_description: "Can a chiropractor help sciatica? We review the latest clinical evidence on spinal manipulation for sciatic nerve pain, plus when to go and when to avoid it."
 slug: "can-a-chiropractor-help-sciatica"
 datePublished: 2026-03-17

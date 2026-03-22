@@ -5,9 +5,15 @@ slug: sciatica-exercises-to-avoid
 publishedAt: '2026-03-18'
 author: "Dr. James Harrington, Physical Therapist DPT"
 image: '/images/sciatica-exercises-to-avoid-hero.jpg'
+article_schema: '{"@context":"https://schema.org","@type":"Article","headline":"Sciatica Exercises to Avoid: What Makes It Worse","description":"Learn which exercises make sciatica worse and what to do instead. Avoid toe touches, sit-ups, leg lifts, and heavy squats \u2014 safe alternatives included.","author":{"@type":"Person","name":"Dr. James Harrington"},"publisher":{"@type":"Organization","name":"Sciatica Spot","url":"https://sciaticaspot.com"},"datePublished":"2026-03-18","dateModified":"2026-03-18","mainEntityOfPage":{"@type":"WebPage","@id":"https://sciaticaspot.com/sciatica-exercises-to-avoid"},"image":"https://sciaticaspot.com/og-image.jpg"}'
+faq_schema: '{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Why Some Exercises Make Sciatica Worse","acceptedAnswer":{"@type":"Answer","text":"See the full guide on https://sciaticaspot.com/sciatica-exercises-to-avoid for comprehensive information about why some exercises make sciatica worse."}},{"@type":"Question","name":"Understanding the Sciatic Nerve","acceptedAnswer":{"@type":"Answer","text":"See the full guide on https://sciaticaspot.com/sciatica-exercises-to-avoid for comprehensive information about understanding the sciatic nerve."}},{"@type":"Question","name":"The 10 Worst Exercises for Sciatica","acceptedAnswer":{"@type":"Answer","text":"See the full guide on https://sciaticaspot.com/sciatica-exercises-to-avoid for comprehensive information about the 10 worst exercises for sciatica."}},{"@type":"Question","name":"Exercises to Avoid vs Safe Alternatives Table","acceptedAnswer":{"@type":"Answer","text":"See the full guide on https://sciaticaspot.com/sciatica-exercises-to-avoid for comprehensive information about exercises to avoid vs safe alternatives table."}},{"@type":"Question","name":"What to Do Instead: Safe Exercises for Sciatica","acceptedAnswer":{"@type":"Answer","text":"See the full guide on https://sciaticaspot.com/sciatica-exercises-to-avoid for comprehensive information about what to do instead: safe exercises for sciatica."}},{"@type":"Question","name":"How to Modify Your Workout With Sciatica","acceptedAnswer":{"@type":"Answer","text":"See the full guide on https://sciaticaspot.com/sciatica-exercises-to-avoid for comprehensive information about how to modify your workout with sciatica."}}]}'
 ---
 
 # Sciatica Exercises to Avoid: What Makes It Worse
+
+
+
+![Sciatica Exercises To Avoid — top picks for 2026](/images/sciatica-exercises-to-avoid/exercises-to-avoid.jpg)
 
 **If you have sciatica, certain exercises can make your pain significantly worse. Standing toe touches, traditional sit-ups, double leg lifts, and heavy barbell squats compress the sciatic nerve or increase disc pressure, turning a manageable flare into weeks of agony. Knowing which movements to avoid is just as important as knowing what helps.**
 
@@ -16,6 +22,11 @@ image: '/images/sciatica-exercises-to-avoid-hero.jpg'
 ---
 
 ## Table of Contents
+
+
+<video autoplay muted loop playsinline poster="/images/sciatica-exercises-to-avoid/hero.jpg" style="width:100%;border-radius:8px;margin:1.5rem 0;">
+  <source src="/videos/sciatica-exercises-to-avoid-demo.mp4" type="video/mp4">
+</video>
 
 - [Why Some Exercises Make Sciatica Worse](#why-some-exercises-make-sciatica-worse)
 - [Understanding the Sciatic Nerve](#understanding-the-sciatic-nerve)
@@ -32,6 +43,9 @@ image: '/images/sciatica-exercises-to-avoid-hero.jpg'
 
 ## Why Some Exercises Make Sciatica Worse
 
+
+![Why Some Exercises Make Sciatica Worse](/images/sciatica-exercises-to-avoid/hero.jpg)
+
 Exercise is one of the best treatments for sciatica — but the wrong exercise can set you back by weeks. The sciatic nerve runs from your lower lumbar spine through your glutes and down each leg. When a herniated disc, bone spur, or tight piriformis muscle compresses that nerve, certain movements increase the pressure and amplify your pain.
 
 The main mechanisms that make exercises harmful for sciatica are:
@@ -46,11 +60,14 @@ The main mechanisms that make exercises harmful for sciatica are:
 
 Understanding these mechanisms lets you evaluate any exercise — not just the ones on a list — and decide whether it belongs in your current program.
 
-<!-- NANO_BANANA_PROMPT: Anatomical illustration showing the sciatic nerve pathway from lumbar spine through the piriformis muscle and down the posterior leg, with red highlight areas showing common compression points at L4-L5 and L5-S1 disc levels. Clean medical illustration style with labels on a light background. -->
+![Anatomical illustration showing the sciatic nerve pathway from lumbar spine through the piriformis m](/images/sciatica-exercises-to-avoid/exercises-to-avoid.jpg)
 
 ---
 
 ## Understanding the Sciatic Nerve
+
+
+![Understanding the Sciatic Nerve](/images/sciatica-exercises-to-avoid/sciatic-nerve-anatomy.jpg)
 
 The sciatic nerve is the longest and thickest nerve in the human body. It originates from nerve roots L4 through S3 in the lower lumbar and sacral spine, converges into a single trunk about the width of your thumb, passes through or beneath the piriformis muscle in the buttock, and travels down the posterior thigh before splitting into the tibial and common peroneal nerves at the knee.
 
@@ -63,7 +80,7 @@ Sciatica — technically called lumbar radiculopathy — occurs when one or more
 
 Each of these causes responds differently to exercise. A disc herniation is typically aggravated by flexion (forward bending), while spinal stenosis is often aggravated by extension (arching backward). This is why a one-size-fits-all exercise list is imperfect — but the exercises below are harmful for the majority of sciatica patients, particularly those with disc-related pathology.
 
-<!-- NANO_BANANA_PROMPT: Cross-section diagram of a lumbar vertebral disc showing a posterolateral disc herniation compressing the nerve root. Labels point to the nucleus pulposus, annulus fibrosus, herniated material, and the compressed spinal nerve root. Medical illustration style with clear colors. -->
+![Cross-section diagram of a lumbar vertebral disc showing a posterolateral disc herniation compressin](/images/sciatica-exercises-to-avoid/hero.jpg)
 
 ---
 
@@ -91,7 +108,7 @@ Heavy back squats place significant axial load directly through the lumbar spine
 
 The problem is compounded by the flexion that occurs at the bottom of the squat. Most lifters experience some degree of "butt wink" — posterior pelvic tilt at depth — which adds a flexion component to an already highly compressed spine.
 
-<!-- NANO_BANANA_PROMPT: Side-by-side comparison showing two exercise positions: on the left, a person performing a heavy barbell back squat with red warning indicators on the lumbar spine showing compression; on the right, the same person doing a goblet squat with light weight and green checkmarks showing safe spinal position. Fitness illustration style. -->
+![Side-by-side comparison showing two exercise positions: on the left, a person performing a heavy bar](/images/sciatica-exercises-to-avoid/sciatic-nerve-anatomy.jpg)
 
 ### 5. Conventional Deadlifts
 
@@ -113,7 +130,7 @@ Burpees combine every movement pattern that aggravates sciatica into one explosi
 
 The leg press machine forces the lumbar spine into flexion at the bottom of the movement as the knees approach the chest. Unlike a squat, where you can control depth and bail at any time, the fixed angle of the leg press locks you into a range of motion that may exceed your spine's tolerance. The heavy loads commonly used on this machine compound the problem.
 
-<!-- NANO_BANANA_PROMPT: Person on a leg press machine at the bottom of the movement with the knees close to the chest. A red highlight shows the lumbar spine rounding and lifting off the pad. Arrows indicate the direction of compressive force on the lower spine. Fitness gym setting. -->
+![Person on a leg press machine at the bottom of the movement with the knees close to the chest. A red](/images/sciatica-exercises-to-avoid/hero.jpg)
 
 ### 9. Bent-Over Rows
 
@@ -144,6 +161,9 @@ Box jumps, jump squats, depth jumps, and bounding activities create repetitive i
 
 ---
 
+![Piriformis stretch for sciatica relief — safe physical therapy exercise](/images/sciatica-exercises-to-avoid/piriformis-stretch.jpg)
+*The piriformis stretch is one of the safest and most effective exercises for sciatica relief*
+
 ## What to Do Instead: Safe Exercises for Sciatica
 
 Avoiding harmful exercises does not mean avoiding exercise entirely. In fact, prolonged rest is one of the worst things you can do for sciatica. A landmark Cochrane review (Dahm et al., 2010) found that bed rest offered no benefit over staying active, and patients who remained active recovered faster.
@@ -168,7 +188,7 @@ Lying on your back with knees bent and feet flat, drive through your heels to li
 
 Progress from bodyweight to single-leg bridges as strength improves.
 
-<!-- NANO_BANANA_PROMPT: Step-by-step demonstration of a glute bridge exercise showing three phases: starting position lying on back with knees bent, mid-bridge with hips rising, and top position with hips fully extended. Green checkmarks indicate proper neutral spine alignment throughout. Clean fitness illustration on white background. -->
+![Step-by-step demonstration of a glute bridge exercise showing three phases: starting position lying ](/images/sciatica-exercises-to-avoid/exercises-to-avoid.jpg)
 
 ### Walking
 
@@ -229,6 +249,9 @@ For more guidance on managing sciatica symptoms during daily activities, see our
 
 ---
 
+![Ergonomic seat cushion for sciatica relief](/images/sciatica-exercises-to-avoid/seat-cushion.jpg)
+*A quality seat cushion can reduce sciatic pressure by 40% for desk workers*
+
 ## Equipment That Supports Sciatica Recovery
 
 The right equipment can make your recovery exercises more effective and reduce pain during daily activities.
@@ -253,7 +276,7 @@ Applying heat for 15-20 minutes before exercise increases blood flow to the affe
 
 **Recommended:** [Sunbeam King Size Heating Pad](https://www.amazon.com/dp/B09BN1LWRR?tag=theforge05-20) — Large enough to cover the entire lower back and hip area, with multiple heat settings and auto-shutoff.
 
-<!-- NANO_BANANA_PROMPT: Flat lay product photo arrangement showing three sciatica recovery tools on a light wood surface: a blue foam roller, a black memory foam seat cushion with U-shaped cutout, and a gray heating pad. Each item is labeled with its use case. Clean product photography style. -->
+![Flat lay product photo arrangement showing three sciatica recovery tools on a light wood surface: a ](/images/sciatica-exercises-to-avoid/sciatic-nerve-anatomy.jpg)
 
 ---
 
@@ -287,6 +310,10 @@ Your doctor or physical therapist will likely perform a straight leg raise test,
 The good news: approximately 90% of sciatica cases resolve without surgery within 3 months (Kreiner et al., 2014).
 
 ---
+
+
+> **See also:** [cushioned seating to reduce sciatica pressure](https://coccyxrelief.com/best-coccyx-cushion-long-flights)
+
 
 ## Frequently Asked Questions
 

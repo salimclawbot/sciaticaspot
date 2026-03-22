@@ -48,6 +48,8 @@ function parseJsonField(value: string | null): Record<string, unknown> | null {
 
 function processContent(raw: string): string {
   let processed = raw;
+  // Strip heading ID syntax {#...}
+  processed = processed.replace(/\{#[^}]+\}/g, "");
   processed = processed.trimStart().replace(/^#\s+.*\n+/, "");
   processed = processed.replace(/\[INTERNAL:\s*([\w-]+)\]\((.*?)\)/g, "[$2](/$1)");
   processed = processed.replace(/\[INTERNAL:\s*([\w-]+)\]/g, "[$1](/$1)");

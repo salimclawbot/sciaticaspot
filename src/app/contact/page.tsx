@@ -1,4 +1,4 @@
-export const metadata = { title: "Contact" };
+export const metadata = { title: "Contact", alternates: { canonical: "https://sciaticaspot.com/contact" } };
 
 export default function ContactPage() {
   return (

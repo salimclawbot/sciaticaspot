@@ -1,4 +1,4 @@
-export const metadata = { title: "Affiliate Disclosure" };
+export const metadata = { title: "Affiliate Disclosure", alternates: { canonical: "https://sciaticaspot.com/affiliate-disclosure" } };
 
 export default function AffiliateDisclosurePage() {
   return (

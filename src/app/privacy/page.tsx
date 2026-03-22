@@ -1,4 +1,4 @@
-export const metadata = { title: "Privacy Policy" };
+export const metadata = { title: "Privacy Policy", alternates: { canonical: "https://sciaticaspot.com/privacy" } };
 
 export default function PrivacyPage() {
   return (

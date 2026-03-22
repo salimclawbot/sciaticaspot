@@ -98,7 +98,7 @@ export default async function ArticlePage({ params }: PageProps) {
       <div className="prose prose-slate max-w-none mt-8">
         <ReactMarkdown
           remarkPlugins={[remarkGfm]}
-          rehypePlugins={[rehypeRaw, rehypeSlug, rehypeAutolinkHeadings]}
+          rehypePlugins={[rehypeRaw, rehypeSlug, [rehypeAutolinkHeadings, { behavior: "wrap" }]]}
           components={{
             img: ({ src, alt }) => (
               <figure className="my-6">
