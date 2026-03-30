@@ -35,7 +35,7 @@ article_schema: '{"@context":"https://schema.org","@type":"Article","headline":"
 
 ---
 
-## What Is Sciatica During Pregnancy? {#what-is-sciatica-during-pregnancy}
+## What Is Sciatica During Pregnancy?
 
 Sciatica refers to pain that radiates along the path of the sciatic nerve — the longest nerve in your body. This nerve runs from your lower back, through your hips and buttocks, and down each leg. During pregnancy, changes in your body can compress or irritate this nerve, producing symptoms that range from a dull ache to sharp, shooting pain.
 
@@ -47,7 +47,7 @@ Regardless of the precise cause, the pain is real, and the treatment approaches 
 
 ---
 
-## Why Pregnancy Triggers Sciatica {#why-pregnancy-triggers-sciatica}
+## Why Pregnancy Triggers Sciatica
 
 Understanding what causes your pain helps you choose the right treatment. Several pregnancy-specific changes contribute to sciatic nerve irritation:
 
@@ -73,11 +73,11 @@ Increased blood volume and fluid retention during pregnancy can cause swelling a
 
 If you had a herniated or bulging disc before pregnancy, the postural and hormonal changes of pregnancy can exacerbate existing nerve compression. Women with a history of lower back problems are at higher risk for pregnancy sciatica.
 
-For a deeper understanding of how nerve compression works, our guide on [what causes sciatica](/what-causes-sciatica/) covers the full range of underlying mechanisms.
+For a deeper understanding of how nerve compression works, our guide on what causes sciatica covers the full range of underlying mechanisms.
 
 ---
 
-## Recognising the Symptoms {#recognising-the-symptoms}
+## Recognising the Symptoms
 
 Pregnancy sciatica typically presents as:
 
@@ -101,7 +101,7 @@ If your symptoms include leg weakness, loss of bladder or bowel control, or sudd
 
 ---
 
-## Safe Treatments by Trimester {#safe-treatments-by-trimester}
+## Safe Treatments by Trimester
 
 The cornerstone of treating sciatica during pregnancy is conservative, non-pharmaceutical management. Most healthcare providers recommend a combination of physical approaches tailored to your stage of pregnancy.
 
@@ -145,7 +145,7 @@ The third trimester is the peak period for pregnancy sciatica. The baby is at th
 - Acupuncture — evidence suggests it can be safe and effective in the third trimester
 - Transcutaneous electrical nerve stimulation (TENS), with your provider's approval
 
-Understanding the full range of [sciatica treatment options](/sciatica-treatment) can help you and your provider choose the safest approach for your stage of pregnancy.
+Understanding the full range of sciatica treatment options can help you and your provider choose the safest approach for your stage of pregnancy.
 
 ### What to Avoid During Pregnancy
 
@@ -157,11 +157,11 @@ Certain common sciatica treatments are not safe during pregnancy:
 - **Deep tissue massage** directly on the abdomen or certain acupressure points
 - **Inversion therapy** or any inverted positions after the first trimester
 
-If you experience sciatica alongside other musculoskeletal pain, you may find our [sciatica stretches and exercises guide](/sciatica-stretches/) helpful for additional safe movement options.
+If you experience sciatica alongside other musculoskeletal pain, you may find our [sciatica stretches and exercises guide](/sciatica-stretches-immediate-relief) helpful for additional safe movement options.
 
 ---
 
-## Best Exercises for Pregnancy Sciatica {#best-exercises-for-pregnancy-sciatica}
+## Best Exercises for Pregnancy Sciatica
 
 Movement is medicine for pregnancy sciatica. The following exercises are generally safe across all trimesters, though you should always clear new exercises with your prenatal care provider.
 
@@ -222,7 +222,7 @@ Tight hip flexors contribute to the exaggerated lumbar curve that triggers sciat
 
 ---
 
-## Sleep Positions That Reduce Sciatic Pain {#sleep-positions-that-reduce-sciatic-pain}
+## Sleep Positions That Reduce Sciatic Pain
 
 Sleep disturbance is one of the most frustrating aspects of pregnancy sciatica. Finding the right position can mean the difference between rest and misery.
 
@@ -247,7 +247,7 @@ For maximum relief, use a combination of pillows:
 
 ---
 
-## Recommended Products for Pregnancy Sciatica Relief {#recommended-products-for-pregnancy-sciatica-relief}
+## Recommended Products for Pregnancy Sciatica Relief
 
 The following products can complement your exercise and treatment routine. Each has been selected based on features relevant to pregnancy sciatica relief.
 
@@ -283,7 +283,7 @@ A compact side-sleeping pillow designed to support both belly and back simultane
 
 **Key features:** Machine washable cover, compact enough for shared beds, firm knee support panel
 
-[Check price on Amazon (US)](https://www.amazon.com/s?k=Boppy+Side+Sleeper+Pregnancy+Pillow&tag=theforge05-20) | [Amazon AU](https://www.amazon.com.au/s?k=Boppy+Side+Sleeper+Pregnancy+Pillow&tag=doublefury-22)
+[Check price on Amazon (US)](https://www.amazon.com/s?k=Boppy+Side+Sleeper+Pregnancy+Pillow&tag=theforge05-20) | [Amazon AU](https://www.amazon.com.au/s?k=Boppy+Side+Sleeper+Pregnancy+Pillow&tag=doublefury-22&tag=theforge05-20)
 
 </div>
 
@@ -297,7 +297,7 @@ A lightweight maternity belt specifically designed for sleeping, this belt cradl
 
 **Key features:** Adjustable elastic, memory foam pad, fits weeks 15 through 40
 
-[Check price on Amazon (US)](https://www.amazon.com/s?k=Babymoov+Dream+Belt+Maternity+Sleep+Support&tag=theforge05-20) | [Amazon AU](https://www.amazon.com.au/s?k=Babymoov+Dream+Belt+Maternity+Sleep+Support&tag=doublefury-22)
+[Check price on Amazon (US)](https://www.amazon.com/s?k=Babymoov+Dream+Belt+Maternity+Sleep+Support&tag=theforge05-20) | [Amazon AU](https://www.amazon.com.au/s?k=Babymoov+Dream+Belt+Maternity+Sleep+Support&tag=doublefury-22&tag=theforge05-20)
 
 </div>
 
@@ -311,7 +311,7 @@ A soft-density foam roller ideal for gentle piriformis and glute release during 
 
 **Key features:** Soft EVA foam, 36-inch length for stability, round profile
 
-[Check price on Amazon (US)](https://www.amazon.com/s?k=OPTP+PRO-ROLLER+Soft+Density+Foam+Roller&tag=theforge05-20) | [Amazon AU](https://www.amazon.com.au/s?k=OPTP+PRO-ROLLER+Soft+Density+Foam+Roller&tag=doublefury-22)
+[Check price on Amazon (US)](https://www.amazon.com/s?k=OPTP+PRO-ROLLER+Soft+Density+Foam+Roller&tag=theforge05-20) | [Amazon AU](https://www.amazon.com.au/s?k=OPTP+PRO-ROLLER+Soft+Density+Foam+Roller&tag=doublefury-22&tag=theforge05-20)
 
 </div>
 
@@ -325,7 +325,7 @@ A prenatal support belt that lifts the belly and redistributes weight away from 
 
 **Key features:** Breathable mesh, adjustable velcro, fits under clothing, available in multiple sizes
 
-[Check price on Amazon (US)](https://www.amazon.com/s?k=Gabrialla+Maternity+Support+Belt+Medium+Support&tag=theforge05-20) | [Amazon AU](https://www.amazon.com.au/s?k=Gabrialla+Maternity+Support+Belt+Medium+Support&tag=doublefury-22)
+[Check price on Amazon (US)](https://www.amazon.com/s?k=Gabrialla+Maternity+Support+Belt+Medium+Support&tag=theforge05-20) | [Amazon AU](https://www.amazon.com.au/s?k=Gabrialla+Maternity+Support+Belt+Medium+Support&tag=doublefury-22&tag=theforge05-20)
 
 </div>
 
@@ -339,7 +339,7 @@ A versatile therapy pack that can be used warm or cold for sciatic flare-ups. Th
 
 **Key features:** Microwave and freezer safe, flexible when frozen, reusable, non-toxic
 
-[Check price on Amazon (US)](https://www.amazon.com/s?k=TheraPearl+Reusable+Hot+Cold+Pack&tag=theforge05-20) | [Amazon AU](https://www.amazon.com.au/s?k=TheraPearl+Reusable+Hot+Cold+Pack&tag=doublefury-22)
+[Check price on Amazon (US)](https://www.amazon.com/s?k=TheraPearl+Reusable+Hot+Cold+Pack&tag=theforge05-20) | [Amazon AU](https://www.amazon.com.au/s?k=TheraPearl+Reusable+Hot+Cold+Pack&tag=doublefury-22&tag=theforge05-20)
 
 </div>
 
@@ -349,7 +349,7 @@ If your sciatica pain extends to tailbone discomfort — which is common in late
 
 ---
 
-## When to See Your Doctor {#when-to-see-your-doctor}
+## When to See Your Doctor
 
 While most pregnancy sciatica is manageable with conservative treatment, certain symptoms warrant prompt medical attention:
 
@@ -364,7 +364,7 @@ Your obstetrician or midwife can refer you to a prenatal physiotherapist or pelv
 
 ---
 
-## Sciatica After Delivery: What to Expect {#sciatica-after-delivery-what-to-expect}
+## Sciatica After Delivery: What to Expect
 
 The majority of women with pregnancy-related sciatica experience significant improvement within weeks of delivery. Here is a general timeline:
 
@@ -378,7 +378,7 @@ The majority of women with pregnancy-related sciatica experience significant imp
 
 ---
 
-## Frequently Asked Questions {#frequently-asked-questions}
+## Frequently Asked Questions
 
 ### Is sciatica during pregnancy dangerous to my baby?
 
@@ -410,7 +410,7 @@ Prenatal massage from a certified prenatal massage therapist is generally safe a
 
 ![Warm compress applied to pregnant woman's lower back for sciatica pain relief](/images/sciatica-during-pregnancy-8.jpg)
 
-## Sources and Methodology {#sources-and-methodology}
+## Sources and Methodology
 
 This article draws on peer-reviewed medical research and established clinical guidelines for managing musculoskeletal pain during pregnancy:
 
@@ -426,7 +426,7 @@ Our methodology prioritises conservative, evidence-supported treatments. Product
 
 ---
 
-## Medical Disclaimer {#medical-disclaimer}
+## Medical Disclaimer
 
 The information provided in this article is for educational purposes only and is not intended as a substitute for professional medical advice, diagnosis, or treatment. Always seek the advice of your obstetrician, midwife, or other qualified healthcare provider with any questions you may have regarding sciatica during pregnancy or any other medical condition. Never disregard professional medical advice or delay in seeking it because of something you have read on this website. If you experience sudden severe pain, leg weakness, or loss of bladder or bowel control, seek emergency medical attention immediately.
 

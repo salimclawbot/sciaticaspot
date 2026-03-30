@@ -37,7 +37,7 @@ faq_schema: '{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"
 - [Equipment That Supports Sciatica Recovery](#equipment-that-supports-sciatica-recovery)
 - [When to See a Doctor](#when-to-see-a-doctor)
 - [Frequently Asked Questions](#frequently-asked-questions)
-- [Sources & Methodology](#sources--methodology)
+- [Sources & Methodology](#sources-and-methodology)
 
 ---
 
@@ -245,7 +245,7 @@ Most sciatica episodes resolve within 6-12 weeks with conservative management. R
 
 If symptoms return at any stage, drop back one phase.
 
-For more guidance on managing sciatica symptoms during daily activities, see our guide on [best sleeping positions for sciatica](/articles/best-sleeping-positions-for-sciatica) and our comprehensive review of [the best exercises for sciatica pain relief](/articles/best-sciatica-pain-relief-exercises-2026).
+For more guidance on managing sciatica symptoms during daily activities, see our guide on best sleeping positions for sciatica and our comprehensive review of the best exercises for sciatica pain relief.
 
 ---
 
@@ -434,7 +434,7 @@ Running on hard surfaces creates repetitive impact loading through the spine tha
 
 ---
 
-## Sources & Methodology
+## Sources and Methodology
 
 This article is based on peer-reviewed research, established clinical guidelines, and biomechanical evidence. All exercise recommendations follow evidence-based physiotherapy principles.
 

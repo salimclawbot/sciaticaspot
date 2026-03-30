@@ -1,7 +1,7 @@
 ---
 title: "Best Mattress for Sciatica Pain: Expert Sleep Guide (2026)"
 slug: "best-mattress-for-sciatica"
-meta_description: "Is memory foam or innerspring better for sciatica?"
+meta_description: "Find the best mattress for sciatica pain relief. Expert tips on firmness, side sleeping, spinal alignment, and top-rated picks to reduce nerve pain."
 datePublished: "2026-03-15"
 dateModified: "2026-03-15"
 author: "Dr. Michael Torres"
@@ -140,7 +140,7 @@ What sets the Purple Hybrid apart for sciatica patients is its temperature neutr
 
 ### 3. Casper Wave Hybrid — Best for Side Sleepers with Sciatica
 
-Side sleeping is one of the [best sleeping positions for sciatica](/best-sleeping-positions-for-sciatica), but only if the mattress adequately cushions the hip and shoulder. The Casper Wave Hybrid was engineered with this exact challenge in mind. Its Zoned Support system uses softer foam under the shoulders and firmer foam under the hips and lower back, maintaining spinal alignment in the side-sleeping position.
+Side sleeping is one of the [best sleeping positions for sciatica](/best-sleeping-position-for-sciatica), but only if the mattress adequately cushions the hip and shoulder. The Casper Wave Hybrid was engineered with this exact challenge in mind. Its Zoned Support system uses softer foam under the shoulders and firmer foam under the hips and lower back, maintaining spinal alignment in the side-sleeping position.
 
 The AirScape perforated foam top layer promotes cooling, while the gel pods positioned along the lumbar zone provide targeted pushback that prevents the pelvis from sinking. For sciatica sufferers who sleep primarily on their side — and for combination sleepers who shift between side and back — the Casper Wave Hybrid delivers the blend of contouring and support that the sciatic nerve demands.
 
@@ -265,7 +265,7 @@ The Nectar Premier does not have the zoned lumbar support or advanced coil syste
 
 ## Best Sleeping Positions for Sciatica Sufferers
 
-Your sleeping position is just as important as your mattress. Even the best mattress for sciatica will underperform if your sleep posture places the sciatic nerve under sustained compression. For a deeper dive into positioning strategies, see our complete guide to the [best sleeping positions for sciatica](/best-sleeping-positions-for-sciatica).
+Your sleeping position is just as important as your mattress. Even the best mattress for sciatica will underperform if your sleep posture places the sciatic nerve under sustained compression. For a deeper dive into positioning strategies, see our complete guide to the [best sleeping positions for sciatica](/best-sleeping-position-for-sciatica).
 
 ### Side Sleeping (Recommended)
 
@@ -367,4 +367,5 @@ Replace your mattress every 6 to 8 years, or sooner if you notice visible saggin
 ---
 
 
+## Visual Guide Gallery
 

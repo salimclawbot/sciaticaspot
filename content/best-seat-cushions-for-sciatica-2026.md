@@ -30,7 +30,7 @@ article_schema: |
 - [How to Use Your Cushion Correctly](#how-to-use-your-cushion-correctly)
 - [Beyond the Cushion: Complete Sitting Strategy](#beyond-the-cushion-complete-sitting-strategy)
 - [FAQ](#faq)
-- [Sources & Methodology](#sources--methodology)
+- [Sources & Methodology](#sources-and-methodology)
 
 ---
 
@@ -45,7 +45,7 @@ Before discussing cushions, it's important to understand why sitting is problema
 
 When you sit, intradiscal pressure in the lumbar spine increases by approximately 40% compared to standing (Nachemson, 1966). Poor sitting posture — slouching, leaning to one side, or sitting without lumbar support — increases this pressure even further, by up to 85–90% (Wilke et al., 1999).
 
-For patients with disc-related sciatica, this increased pressure pushes the disc material further against the nerve root. For patients with [INTERNAL:sciatica-vs-piriformis-syndrome], sitting directly compresses the piriformis muscle against the sciatic nerve, especially on hard or flat surfaces.
+For patients with disc-related sciatica, this increased pressure pushes the disc material further against the nerve root. For patients with , sitting directly compresses the piriformis muscle against the sciatic nerve, especially on hard or flat surfaces.
 
 The effects of prolonged sitting on sciatica include:
 
@@ -437,7 +437,7 @@ A seat cushion is one component of a comprehensive approach to managing sciatica
 
 ### Daily Exercises for Office Workers
 
-Complement your cushion with targeted exercises. Our comprehensive guide covers all the best options: [INTERNAL:best-sciatica-pain-relief-exercises-2026].
+Complement your cushion with targeted exercises. Our comprehensive guide covers all the best options: .
 
 **Quick desk exercises to perform every hour:**
 
@@ -448,7 +448,7 @@ Complement your cushion with targeted exercises. Our comprehensive guide covers 
 
 ### When a Cushion Isn't Enough
 
-A cushion addresses the symptom (pain while sitting) but not always the cause. If your sciatica persists despite using a quality cushion and maintaining good ergonomics, you may need to investigate the underlying condition further. Consider whether your symptoms align with disc-related sciatica or [INTERNAL:sciatica-vs-piriformis-syndrome] to determine the most appropriate treatment path.
+A cushion addresses the symptom (pain while sitting) but not always the cause. If your sciatica persists despite using a quality cushion and maintaining good ergonomics, you may need to investigate the underlying condition further. Consider whether your symptoms align with disc-related sciatica or  to determine the most appropriate treatment path.
 
 See a healthcare professional if:
 
@@ -504,7 +504,7 @@ For most sciatica patients, a slight wedge (8–13 degree angle) is more effecti
 *Donut cushions work best for tailbone-area pain — less effective for true L4-S1 nerve compression.*
 
 
-## Sources & Methodology
+## Sources and Methodology
 
 This article is based on hands-on product testing, peer-reviewed ergonomic research, and my clinical experience recommending seating solutions to sciatica patients.
 

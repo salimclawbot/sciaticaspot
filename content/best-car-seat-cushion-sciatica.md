@@ -34,7 +34,7 @@ By Dr. Rachel Thompson, Physical Therapist · Last updated March 2026
 - [Cushion Types and Materials for Car Use](#cushion-types-and-materials-for-car-use)
 - [FAQ](#faq)
 - [Author Bio](#author-bio)
-- [Sources & Methodology](#sources--methodology)
+- [Sources & Methodology](#sources-and-methodology)
 
 ---
 
@@ -434,7 +434,7 @@ A seat cushion addresses the seat pan (the surface you sit on), but your lumbar 
 
 The combination of a seat cushion and lumbar support is more effective than either one alone. The seat cushion distributes pressure and reduces coccyx compression from below, while lumbar support maintains the natural lordotic curve from behind — together, they minimize the disc and nerve compression that drives sciatica symptoms.
 
-For targeted exercises that complement your ergonomic setup, see our guide on [sciatica pain relief exercises](/best-sciatica-pain-relief-exercises-2026) that can be performed before and after driving.
+For targeted exercises that complement your ergonomic setup, see our guide on sciatica pain relief exercises that can be performed before and after driving.
 
 ### Mirror and Seat Belt Adjustments
 
@@ -580,7 +580,7 @@ A slight wedge (5 to 10 degrees) is generally better than a flat cushion for dri
 
 ---
 
-## Sources & Methodology
+## Sources and Methodology
 
 This article is based on hands-on product testing, peer-reviewed ergonomic and biomechanical research, and my clinical experience treating sciatica patients who commute or drive frequently.
 

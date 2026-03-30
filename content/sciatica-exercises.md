@@ -54,7 +54,7 @@ The most common causes include:
 - **Degenerative disc disease** -- Age-related wear and tear that weakens the disc and can lead to nerve compression.
 - **Spondylolisthesis** -- A condition where one vertebra slips forward over the one below it.
 
-Understanding the root cause of your sciatica is important because it influences which exercises will help and which could make things worse. For a deeper exploration, read our full article on [what causes sciatica](/what-causes-sciatica).
+Understanding the root cause of your sciatica is important because it influences which exercises will help and which could make things worse. For a deeper exploration, read our full article on what causes sciatica.
 
 ![Anatomical infographic of the sciatic nerve pathway and common compression points](/images/sciatic-nerve-compression-points.jpg)
 
@@ -462,25 +462,56 @@ Progress hold times and add endurance.
 
 ---
 
+
+---
+
+## Yoga and Pilates for Sciatica
+
+Both yoga and Pilates have strong evidence supporting their use for sciatica. A 2017 systematic review in the *International Journal of Yoga* found that yoga-based interventions reduced pain scores by 49% and disability scores by 44% in patients with sciatica and lower back pain.
+
+### Best Yoga Poses for Sciatica
+
+| Pose | Primary Benefit | Hold Time | Caution |
+|------|----------------|-----------|---------|
+| Child's Pose | Lumbar decompression | 30–60 sec | None for most patients |
+| Cobra Pose | Spinal extension, disc retraction | 15–20 sec | Avoid if extension worsens pain |
+| Pigeon Pose | Piriformis and hip flexor stretch | 30–60 sec | Use modifications if hips are tight |
+| Cat-Cow | Spinal mobility and segmental motion | 10 reps | Move slowly through neutral range |
+| Supine Twist | Rotational mobility | 20–30 sec | Keep twist gentle; stop if leg pain increases |
+
+### Seated Spinal Twist
+
+This seated yoga-style rotation mobilizes the facet joints of the lumbar spine and stretches muscles along the spine that may contribute to nerve compression.
+
+**How to perform:**
+
+1. Sit on the floor with both legs extended.
+2. Bend the right knee and place the right foot on the outside of the left knee.
+3. Place your left elbow on the outside of your right knee.
+4. Gently twist your torso to the right, looking over your right shoulder.
+5. Hold for 20–30 seconds, then repeat on the opposite side.
+
+**Caution:** Keep the twist gentle. If this exercise increases your leg symptoms, skip it — it may not be appropriate for disc-related sciatica.
+
 ## Equipment That Helps
 
 While most sciatica exercises require no equipment, a few affordable items can enhance your comfort, form, and results.
 
 **Yoga Mat** -- A supportive surface is essential for floor-based exercises. A mat that is at least 6mm thick provides adequate cushioning for your spine and joints during stretches and core work.
 
-[Browse yoga mats on Amazon](https://www.amazon.com/s?k=yoga+mat+thick+exercise+mat)
+[Browse yoga mats on Amazon](https://www.amazon.com/s?k=yoga+mat+thick+exercise+mat&tag=theforge05-20)
 
 **[Foam Roller](https://www.amazon.com/s?k=foam+roller&tag=theforge05-20)** -- A foam roller helps release tight muscles in the glutes, piriformis, and hamstrings. Gentle rolling before your exercise routine can improve range of motion and reduce muscle guarding around the sciatic nerve.
 
-[Browse foam rollers on Amazon](https://www.amazon.com/s?k=foam+roller+for+back+pain)
+[Browse foam rollers on Amazon](https://www.amazon.com/s?k=foam+roller+for+back+pain&tag=theforge05-20)
 
 **Resistance Bands** -- Useful for assisted hamstring stretching and progressive strengthening exercises. A set of varying resistance levels lets you match the band to your current ability.
 
-[Browse resistance bands on Amazon](https://www.amazon.com/s?k=resistance+bands+for+physical+therapy)
+[Browse resistance bands on Amazon](https://www.amazon.com/s?k=resistance+bands+for+physical+therapy&tag=theforge05-20)
 
 **[Lumbar Support](https://www.amazon.com/s?k=lumbar+support&tag=theforge05-20) Cushion** -- For people whose sciatica worsens with sitting, a lumbar support cushion maintains the natural lordotic curve and reduces disc pressure. Consider using one in your car seat and office chair. Learn more about supportive products in our guide to the [best mattress for sciatica](/best-mattress-for-sciatica).
 
-[Browse lumbar support cushions on Amazon](https://www.amazon.com/s?k=lumbar+support+cushion+for+office+chair)
+[Browse lumbar support cushions on Amazon](https://www.amazon.com/s?k=lumbar+support+cushion+for+office+chair&tag=theforge05-20)
 
 ---
 
@@ -531,3 +562,10 @@ This article was developed using evidence-based practice principles. All exercis
 *Disclaimer: This article is intended for informational purposes only and does not constitute medical advice. Always consult with a qualified healthcare professional before starting any new exercise program, especially if you have severe or persistent sciatica symptoms.*
 
 ---
+
+
+## Visual Guide Gallery
+
+![sciatica exercises visual 1](/images/articles/sciatica-exercises-infographic.jpg)
+![sciatica exercises visual 2](/images/articles/sciatica-exercises-infographic.jpg)
+![sciatica exercises visual 3](/images/articles/sciatica-exercises-infographic.jpg)

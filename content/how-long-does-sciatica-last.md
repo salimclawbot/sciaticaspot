@@ -22,19 +22,19 @@ article_schema: "{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"he
 ---
 
 ## Table of Contents
-- [Sciatica Recovery Timeline: What to Expect Week by Week](#sciatica-recovery-timeline)
-- [Acute vs Chronic Sciatica: Key Differences](#acute-vs-chronic-sciatica)
-- [Signs Your Sciatica is Healing](#signs-sciatica-is-healing)
+- [Sciatica Recovery Timeline: What to Expect Week by Week](#how-long-does-sciatica-last-recovery-timeline)
+- [Acute vs Chronic Sciatica: Key Differences](#acute-vs-chronic-sciatica-key-differences)
+- [Signs Your Sciatica is Healing](#signs-your-sciatica-is-healing)
 - [What Makes Sciatica Last Longer](#what-makes-sciatica-last-longer)
-- [Treatment Approaches by Duration Stage](#treatment-approaches)
+- [Treatment Approaches by Duration Stage](#treatment-approaches-by-duration-stage)
 - [When to See a Doctor](#when-to-see-a-doctor)
-- [Sciatica Recovery by Cause](#recovery-by-cause)
+- [Sciatica Recovery by Cause](#sciatica-recovery-by-cause)
 - [Frequently Asked Questions](#frequently-asked-questions)
-- [Sources & Methodology](#sources-methodology)
+- [Sources & Methodology](#sources-and-methodology)
 
 ---
 
-## Sciatica Recovery Timeline: What to Expect Week by Week {#sciatica-recovery-timeline}
+## Sciatica Recovery Timeline: What to Expect Week by Week
 
 ![Sciatica recovery timeline infographic showing week-by-week healing stages from acute to resolution](/images/articles/how-long-does-sciatica-last-timeline.jpg)
 
@@ -86,7 +86,7 @@ By 12 weeks, approximately 90% of patients have made sufficient recovery to avoi
 
 ---
 
-## Acute vs Chronic Sciatica: Key Differences {#acute-vs-chronic-sciatica}
+## Acute vs Chronic Sciatica: Key Differences
 
 <style>
 .product-cards { display: grid; grid-template-columns: 1fr; gap: 1.5rem; margin: 2rem 0; }
@@ -119,7 +119,7 @@ Sciatica is classified as **chronic** when significant symptoms persist beyond 1
 
 ---
 
-## Signs Your Sciatica is Healing {#signs-sciatica-is-healing}
+## Signs Your Sciatica is Healing
 
 ![Sciatica healing signs infographic showing centralization pattern and positive recovery indicators](/images/articles/how-long-does-sciatica-last-healing-signs.jpg)
 
@@ -150,7 +150,7 @@ Conversely, see your doctor if you notice:
 
 ---
 
-## What Makes Sciatica Last Longer {#what-makes-sciatica-last-longer}
+## What Makes Sciatica Last Longer
 
 Certain factors significantly extend sciatica recovery time. Understanding these helps you avoid recovery-delaying behaviors:
 
@@ -176,7 +176,7 @@ Certain factors significantly extend sciatica recovery time. Understanding these
 
 ---
 
-## Treatment Approaches by Duration Stage {#treatment-approaches}
+## Treatment Approaches by Duration Stage
 
 <div class="product-cards">
   <div class="product-card">
@@ -225,7 +225,7 @@ Certain factors significantly extend sciatica recovery time. Understanding these
 - **Physical therapy**: McKenzie Method has strongest evidence for disc-related sciatica
 - **Core strengthening**: Gradual introduction of stabilization exercises
 - **Return to activity**: Progressive increases in walking distance and daily activities
-- **Sleep positioning**: [Best sleeping positions for sciatica](/best-sleeping-positions-for-sciatica) can significantly reduce nighttime pain
+- **Sleep positioning**: [Best sleeping positions for sciatica](/best-sleeping-position-for-sciatica) can significantly reduce nighttime pain
 
 ### 12+ Weeks: Chronic Management
 
@@ -238,7 +238,7 @@ Also note: [tailbone pain often accompanies sciatica recovery](https://www.coccy
 
 ---
 
-## When to See a Doctor {#when-to-see-a-doctor}
+## When to See a Doctor
 
 ### Seek Immediate Emergency Care (Same Day)
 
@@ -265,7 +265,7 @@ If you've had sciatica symptoms for 6-8 weeks with gradual but incomplete improv
 
 ---
 
-## Sciatica Recovery by Cause {#recovery-by-cause}
+## Sciatica Recovery by Cause
 
 Not all sciatica is equal. Recovery timelines vary significantly based on the underlying cause:
 
@@ -281,7 +281,7 @@ For disc herniation (the most common cause), imaging studies consistently show t
 
 ---
 
-## Frequently Asked Questions {#frequently-asked-questions}
+## Frequently Asked Questions
 
 **How long does sciatica last on average?**
 
@@ -309,7 +309,7 @@ Mild initial worsening in the first 1-2 weeks is common as inflammation peaks. H
 
 ---
 
-## Sources & Methodology {#sources-methodology}
+## Sources and Methodology
 
 **Medical References:**
 - Koes BW et al: "Diagnosis and treatment of sciatica." BMJ 2007 — foundational systematic review on conservative vs surgical outcomes
@@ -325,7 +325,7 @@ Mild initial worsening in the first 1-2 weeks is common as inflammation peaks. H
 
 **Internal links referenced:**
 - [Sciatica Exercises](/sciatica-exercises)
-- [Best Sleeping Positions for Sciatica](/best-sleeping-positions-for-sciatica)
+- [Best Sleeping Positions for Sciatica](/best-sleeping-position-for-sciatica)
 - [Best Mattress for Sciatica](/best-mattress-for-sciatica)
 
 ![Sciatica healing stages comparison showing disc herniation reabsorption over 6-12 weeks anatomy diagram](/images/articles/how-long-does-sciatica-last-anatomy.jpg)

@@ -1,11 +1,10 @@
+import React from "react";
 import { Metadata } from "next";
 import { notFound } from "next/navigation";
 import SciaticaVideo from "@/components/SciaticaVideo";
 import { getArticle, getAllSlugs } from "@/lib/articles";
 import ReactMarkdown from "react-markdown";
 import rehypeRaw from "rehype-raw";
-import rehypeSlug from "rehype-slug";
-import rehypeAutolinkHeadings from "rehype-autolink-headings";
 import remarkGfm from "remark-gfm";
 
 interface PageProps { params: { slug: string } }
@@ -36,6 +35,18 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
       images: [`https://sciaticaspot.com/og-image.jpg`],
     },
   };
+}
+
+
+// Extract {#custom-id} from heading text and return clean id + display text
+function extractHeadingId(children: React.ReactNode): { id: string; display: string } {
+  const raw = Array.isArray(children) 
+    ? (children as React.ReactNode[]).map(c => (typeof c === "string" ? c : "")).join("")
+    : (typeof children === "string" ? children : "");
+  const m = raw.match(/\{#([^}]+)\}/);
+  if (m) return { id: m[1], display: raw.replace(/\s*\{#[^}]+\}/, "").trim() };
+  const id = raw.toLowerCase().replace(/[^a-z0-9\s-]/g, "").replace(/\s+/g, "-").replace(/-+/g, "-").trim();
+  return { id, display: raw };
 }
 
 export default async function ArticlePage({ params }: PageProps) {
@@ -98,8 +109,24 @@ export default async function ArticlePage({ params }: PageProps) {
       <div className="prose prose-slate max-w-none mt-8">
         <ReactMarkdown
           remarkPlugins={[remarkGfm]}
-          rehypePlugins={[rehypeRaw, rehypeSlug, [rehypeAutolinkHeadings, { behavior: "wrap" }]]}
+          rehypePlugins={[rehypeRaw]}
           components={{
+            h2: ({ children }) => {
+              const { id, display } = extractHeadingId(children);
+              return <h2 id={id}>{display}</h2>;
+            },
+            h3: ({ children }) => {
+              const { id, display } = extractHeadingId(children);
+              return <h3 id={id}>{display}</h3>;
+            },
+            h4: ({ children }) => {
+              const { id, display } = extractHeadingId(children);
+              return <h4 id={id}>{display}</h4>;
+            },
+            h5: ({ children }) => {
+              const { id, display } = extractHeadingId(children);
+              return <h5 id={id}>{display}</h5>;
+            },
             img: ({ src, alt }) => (
               <figure className="my-6">
                 <img src={src} alt={alt || ""} className="rounded-lg shadow-md w-full" loading="lazy" />

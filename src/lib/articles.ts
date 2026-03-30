@@ -22,14 +22,21 @@ export interface Article {
 const CONTENT_DIR = path.join(process.cwd(), "content");
 
 function extractSchemaField(raw: string, fieldName: string): string | null {
-  // Extract schema fields using regex before YAML parsing (handles apostrophes in JSON)
-  const match = raw.match(new RegExp(`^${fieldName}:\s*'([\s\S]*?)'\s*$`, "m"));
-  if (match) return match[1].replace(/''/g, "'");
-  const matchDQ = raw.match(new RegExp(`^${fieldName}:\s*"([\s\S]*?)"\s*$`, "m"));
-  if (matchDQ) return matchDQ[1];
-  // literal block scalar
-  const matchBlock = raw.match(new RegExp(`^${fieldName}:\s*[|>]-?\n(([\s\S]*?)(?=\n\S|$))`, "m"));
-  if (matchBlock) return matchBlock[1].replace(/^  /gm, "").trim();
+  // Extract JSON schema from single-quoted YAML field
+  const lines = raw.split("\n");
+  for (const line of lines) {
+    if (line.startsWith(fieldName + ":")) {
+      const val = line.slice(fieldName.length + 1).trim();
+      // Remove surrounding quotes
+      if (val.startsWith("'") && val.endsWith("'")) {
+        return val.slice(1, -1).replace(/''/g, "'");
+      }
+      if (val.startsWith('"') && val.endsWith('"')) {
+        return val.slice(1, -1);
+      }
+      return val || null;
+    }
+  }
   return null;
 }
 
@@ -41,15 +48,26 @@ function stripSchemaFields(raw: string): string {
   return result;
 }
 
+function isPlaceholderFaq(parsed: Record<string, unknown>): boolean {
+  const entities = (parsed.mainEntity as Array<Record<string, unknown>>) || [];
+  if (!entities.length) return false;
+  return entities.every((e: Record<string, unknown>) => {
+    const ans = (e.acceptedAnswer as Record<string, unknown>)?.text as string || "";
+    return ans.includes("See the full guide on ");
+  });
+}
+
 function parseJsonField(value: string | null): Record<string, unknown> | null {
   if (!value) return null;
-  try { return JSON.parse(value); } catch { return null; }
+  try {
+    const parsed = JSON.parse(value);
+    if (parsed["@type"] === "FAQPage" && isPlaceholderFaq(parsed)) return null;
+    return parsed;
+  } catch { return null; }
 }
 
 function processContent(raw: string): string {
   let processed = raw;
-  // Strip heading ID syntax {#...}
-  processed = processed.replace(/\{#[^}]+\}/g, "");
   processed = processed.trimStart().replace(/^#\s+.*\n+/, "");
   processed = processed.replace(/\[INTERNAL:\s*([\w-]+)\]\((.*?)\)/g, "[$2](/$1)");
   processed = processed.replace(/\[INTERNAL:\s*([\w-]+)\]/g, "[$1](/$1)");
@@ -100,7 +118,23 @@ export async function getArticle(slug: string): Promise<Article | null> {
     description,
     excerpt: content.slice(0, 200),
     content,
-    htmlContent: result.toString(),
+    htmlContent: (() => {
+      let html = result.toString();
+      html = html.replace(/<(h[2-6])>(.*?)<\/\1>/g, (match: string, tag: string, text: string) => {
+        const customIdMatch = text.match(/\{#([^}]+)\}/);
+        let id: string;
+        let displayText = text;
+        if (customIdMatch) {
+          id = customIdMatch[1];
+          displayText = text.replace(/\s*\{#[^}]+\}/, '');
+        } else {
+          const cleanText = text.replace(/<[^>]+>/g, "");
+          id = cleanText.toLowerCase().replace(/[^a-z0-9\s-]/g, "").replace(/\s+/g, "-").replace(/-+/g, "-").trim();
+        }
+        return `<${tag} id="${id}">${displayText}</${tag}>`;
+      });
+      return html;
+    })(),
     date,
     dateModified: date,
     category: data.category || "Guide",

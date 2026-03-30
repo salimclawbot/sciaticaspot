@@ -185,7 +185,7 @@ If you have completed 6 sessions and experienced less than 15% improvement in pa
 
 - **Dry needling** targeting the piriformis specifically (more direct for muscle-origin sciatica)
 - **Epidural steroid injection** for severe disc herniation with neurological involvement
-- Review of your best sciatica treatment options to find the right combination
+- Review of your [best sciatica treatment options](/best-sciatica-treatment) to find the right combination
 
 ---
 
@@ -370,7 +370,7 @@ Before starting treatment, tell your practitioner:
 
 ### When Acupuncture Is Not Enough
 
-Acupuncture is highly effective for many people, but it is not a universal solution. If you have completed a full course (10–12 sessions) without adequate improvement, the next step is a comprehensive review of your options. Understanding the full spectrum of best sciatica treatments — from physiotherapy and injections to surgical options — helps you make an informed decision about the right next step for your specific situation.
+Acupuncture is highly effective for many people, but it is not a universal solution. If you have completed a full course (10–12 sessions) without adequate improvement, the next step is a comprehensive review of your options. Understanding the full spectrum of [best sciatica treatments](/best-sciatica-treatment) — from physiotherapy and injections to surgical options — helps you make an informed decision about the right next step for your specific situation.
 
 ---
 

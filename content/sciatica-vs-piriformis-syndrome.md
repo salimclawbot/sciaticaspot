@@ -19,23 +19,26 @@ By Dr. Rachel Thompson, Physical Therapist · Last updated March 2026
 
 **Sciatica and piriformis syndrome cause nearly identical symptoms — pain and tingling radiating from the buttock down the leg — but have completely different causes. Sciatica originates at the spine from a herniated disc or bone spur compressing the sciatic nerve root. Piriformis syndrome originates in the buttock, where the piriformis muscle compresses the sciatic nerve as it passes through or under the muscle. Treatment is fundamentally different for each. Misdiagnosis leads to months of ineffective treatment.**
 
+<video autoplay muted loop playsinline poster='/images/articles/sciatica-vs-piriformis-syndrome-video-thumb.jpg' style='width:100%;border-radius:8px;margin:1.5rem 0;'><source src='/videos/sciatica-vs-piriformis-syndrome-demo.mp4' type='video/mp4'></video>
+
 <nav id="toc" aria-label="Table of Contents">
 
 ## Table of Contents
-- [Quick Comparison: Sciatica vs Piriformis Syndrome](#quick-comparison)
+- [Quick Comparison: Sciatica vs Piriformis Syndrome](#product-recommendations)
 - [What is Sciatica?](#what-is-sciatica)
 - [What is Piriformis Syndrome?](#what-is-piriformis-syndrome)
 - [How to Tell the Difference](#how-to-tell-the-difference)
 - [Diagnostic Tests](#diagnostic-tests)
-- [Pain Patterns Compared](#pain-patterns)
-- [Sitting and Driving Pain](#sitting-pain)
+- [Pain Patterns Compared](#pain-patterns-compared)
+- [Sitting and Driving Pain](#sitting-and-driving-pain)
 - [Treatment: Sciatica](#treatment-sciatica)
-- [Treatment: Piriformis Syndrome](#treatment-piriformis)
-- [Stretches and Exercises](#stretches-exercises)
+- [Treatment: Piriformis Syndrome](#treatment-piriformis-syndrome)
+- [Stretches and Exercises](#stretches-and-exercises)
+- [Recovery Timeline](#recovery-timeline)
 - [Product Recommendations](#product-recommendations)
-- [When to See a Doctor](#when-to-see-doctor)
+- [When to See a Doctor](#when-to-see-a-doctor)
 - [Frequently Asked Questions](#faq)
-- [Sources and Methodology](#sources)
+- [Sources and Methodology](#sources-and-methodology)
 
 </nav>
 
@@ -44,7 +47,7 @@ By Dr. Rachel Thompson, Physical Therapist · Last updated March 2026
 ![Sciatic nerve anatomy diagram showing nerve path from lower spine through buttock to leg](/images/articles/sciatica-vs-piriformis-syndrome/sciatic-nerve-anatomy.jpg)
 *The sciatic nerve originates from spinal nerve roots L4–S3, exits the spine, passes through the buttock (potentially through or under the piriformis muscle), and runs down the back of the leg.*
 
-## Quick Comparison: Sciatica vs Piriformis Syndrome {#quick-comparison}
+## Quick Comparison: Sciatica vs Piriformis Syndrome
 
 <div style="overflow-x:auto;margin:2rem 0;">
 
@@ -63,12 +66,12 @@ By Dr. Rachel Thompson, Physical Therapist · Last updated March 2026
 
 ---
 
-## What is Sciatica? {#what-is-sciatica}
+## What is Sciatica?
 
 ![Person experiencing sciatica pain in lower back and leg](/images/articles/sciatica-vs-piriformis-syndrome/sciatica-pain-areas.jpg)
 *Sciatica pain typically starts in the lower back and radiates through the buttock, down the back of the thigh and leg.*
 
-Sciatica is not a diagnosis — it is a symptom. It describes pain that radiates along the path of the sciatic nerve, which runs from your lower back through your buttocks and down each leg.
+Sciatica is not a diagnosis — it is a symptom. It describes pain that radiates along the path of the sciatic nerve, which runs from your lower back through your buttocks and down each leg. For a deeper look at how long episodes typically last and what affects recovery time, see our guide on [how long does sciatica last](/how-long-does-sciatica-last).
 
 ### Causes of True Sciatica
 
@@ -81,6 +84,8 @@ The most common cause is **disc herniation** — when the soft center of a spina
 | Spinal stenosis | Canal narrows from degenerative changes | L3–L4, L4–L5 |
 | Spondylolisthesis | Vertebra slips forward, pinching nerve | L4–L5 |
 | Pregnancy | Fetal position compresses sciatic nerve | Variable |
+
+Pregnancy-related sciatica deserves its own discussion — the causes, timeline, and safe treatment options differ significantly from disc-related sciatica. Our guide on [sciatica during pregnancy](/sciatica-during-pregnancy) covers these differences in detail.
 
 ### Classic Sciatica Symptoms
 
@@ -102,9 +107,12 @@ The level of nerve compression affects where symptoms appear:
 | L5 root | Outside calf to top of foot | Big toe extension | None commonly |
 | S1 root | Back of calf to little toe | Calf raise | Ankle reflex |
 
+![Dermatome map of the leg showing L4 L5 and S1 nerve root pain distribution](/images/articles/sciatica-vs-piriformis-syndrome-dermatome-map.jpg)
+*Dermatome map: each spinal nerve root (L4, L5, S1) corresponds to a specific area of the leg and foot. Identifying where your symptoms are helps determine which nerve root is compressed.*
+
 ---
 
-## What is Piriformis Syndrome? {#what-is-piriformis-syndrome}
+## What is Piriformis Syndrome?
 
 ![Piriformis muscle anatomy showing deep hip muscles](/images/articles/sciatica-vs-piriformis-syndrome/piriformis-muscle-anatomy.jpg)
 *The piriformis muscle sits deep in the buttock, connecting the sacrum to the greater trochanter of the femur. The sciatic nerve runs directly beneath it — or in 17% of people, through it.*
@@ -140,7 +148,7 @@ When the piriformis becomes tight (from prolonged sitting, overuse, trauma, or m
 
 ---
 
-## How to Tell the Difference {#how-to-tell-the-difference}
+## How to Tell the Difference
 
 ![Comparison infographic showing key differences between sciatica and piriformis syndrome](/images/articles/sciatica-vs-piriformis-syndrome/comparison-infographic.jpg)
 *The key diagnostic question: is the compression at the spine or in the buttock?*
@@ -165,9 +173,12 @@ Stand and slowly bend forward to touch your toes:
 - **Pain shoots down the leg during forward bending** → More likely disc sciatica (increased disc pressure on the nerve root)
 - **Forward bending does not increase leg pain** → More likely piriformis syndrome
 
+![Person performing the forward bend test to distinguish between sciatica and piriformis syndrome](/images/articles/sciatica-vs-piriformis-syndrome-forward-bend-test.jpg)
+*The forward bend test: slowly bending forward increases disc pressure. If leg pain intensifies during this movement, the cause is more likely spinal rather than muscular.*
+
 ---
 
-## Diagnostic Tests {#diagnostic-tests}
+## Diagnostic Tests
 
 ### The FAIR Test (Piriformis-Specific)
 
@@ -192,6 +203,9 @@ The straight leg raise (SLR) test is the classic test for disc-related sciatica:
 
 **Result:** Positive SLR indicates sciatic nerve tension at the spine (from disc herniation). The SLR test is less commonly positive in piriformis syndrome because it doesn't stress the piriformis.
 
+![Side-by-side demonstration of the FAIR test and straight leg raise test](/images/articles/sciatica-vs-piriformis-syndrome-diagnostic-tests.jpg)
+*Left: The FAIR test targets the piriformis muscle by combining hip flexion, adduction, and internal rotation. Right: The straight leg raise test tensions the sciatic nerve at the spine.*
+
 ### Imaging
 
 | Test | Sciatica | Piriformis Syndrome |
@@ -204,7 +218,7 @@ The straight leg raise (SLR) test is the classic test for disc-related sciatica:
 
 ---
 
-## Pain Patterns Compared {#pain-patterns}
+## Pain Patterns Compared
 
 ### Sciatica Pain Pattern
 
@@ -222,9 +236,11 @@ The straight leg raise (SLR) test is the classic test for disc-related sciatica:
 - Sometimes a **deep, aching quality** in addition to radiating pain
 - Often described as **worsening with sitting** more than any other position
 
+Understanding exactly which activities trigger your symptoms is critical for diagnosis. Many of the same [sciatica flare-up triggers](/sciatica-flare-up-triggers) — prolonged sitting, heavy lifting, sudden twisting — can also provoke piriformis syndrome, but the mechanism is different.
+
 ---
 
-## Sitting and Driving Pain {#sitting-pain}
+## Sitting and Driving Pain
 
 Both conditions worsen with prolonged sitting, but for different reasons:
 
@@ -234,11 +250,11 @@ Both conditions worsen with prolonged sitting, but for different reasons:
 
 **Driving specifically:** Driving is particularly provocative for both conditions. The reclined hip angle, vibration from the vehicle, and limited position changes create sustained compression.
 
-For managing seated pain and reducing sciatica and piriformis compression during driving, see our guide on [best car seat cushions for sciatica](/best-car-seat-cushion-sciatica). For comprehensive coccyx support that reduces piriformis tension, resources from [coccyxrelief.com](https://www.coccyxrelief.com) cover related seating solutions.
+For managing seated pain and reducing sciatica and piriformis compression during driving, see our guide on [best car seat cushions for sciatica](/best-car-seat-cushion-sciatica). For comprehensive coccyx and tailbone support that reduces piriformis tension, resources from [coccyxrelief.com](https://www.coccyxrelief.com) cover related seating solutions. If your work involves extended sitting at a desk, choosing the right office seating also matters — [officechairguides.com](https://www.officechairguides.com) offers detailed reviews of ergonomic chairs that support proper posture and reduce sciatic nerve compression.
 
 ---
 
-## Treatment: Sciatica {#treatment-sciatica}
+## Treatment: Sciatica
 
 ### Phase 1: Acute Pain (First 1–4 Weeks)
 
@@ -254,6 +270,8 @@ For managing seated pain and reducing sciatica and piriformis compression during
 - **Nerve mobilization/neural flossing**: Gentle sciatic nerve mobilization exercises
 - **Core stabilization**: Strengthening deep abdominal and lumbar stabilizers to protect the disc
 
+For a complete breakdown of which exercises help versus which exercises make disc sciatica worse, see our guide on sciatica exercises to avoid. Choosing the wrong exercise is one of the most common reasons people fail to improve.
+
 ### Phase 3: Persistent or Severe Cases
 
 - **Epidural steroid injection**: Corticosteroid delivered adjacent to the inflamed nerve root — effective short-term, evidence-limited long-term
@@ -261,7 +279,7 @@ For managing seated pain and reducing sciatica and piriformis compression during
 
 ---
 
-## Treatment: Piriformis Syndrome {#treatment-piriformis}
+## Treatment: Piriformis Syndrome
 
 ### First-Line Treatment: Targeted Stretching
 
@@ -304,7 +322,7 @@ Three primary stretches:
 
 ---
 
-## Stretches and Exercises {#stretches-exercises}
+## Stretches and Exercises
 
 ### For Piriformis Syndrome (These May Aggravate Disc Sciatica)
 
@@ -323,9 +341,42 @@ Three primary stretches:
 | Standing extension | Hands on lower back, arch backward gently | 10 × 10 sec holds |
 | Neural flossing | Seated, extend knee while pointing foot up, then down | 10 × each direction |
 
+![Person performing the clamshell exercise for glute strengthening to treat piriformis syndrome](/images/articles/sciatica-vs-piriformis-syndrome-clamshell-exercise.jpg)
+*The clamshell exercise strengthens the gluteus medius, reducing compensatory overload on the piriformis muscle. Keep feet together and open the knees like a clamshell.*
+
+For a broader library of exercises with detailed progressions, see our full guide on [sciatica exercises](/sciatica-exercises).
+
 ---
 
-## Product Recommendations {#product-recommendations}
+## Recovery Timeline
+
+Understanding realistic recovery timelines helps set expectations and prevents premature discouragement.
+
+### Sciatica Recovery Timeline
+
+| Phase | Timeframe | What to Expect |
+|---|---|---|
+| Acute pain | Weeks 1–4 | Worst pain period; focus on pain management and avoiding aggravation |
+| Active rehab | Weeks 4–12 | Gradual improvement with McKenzie and stabilization exercises |
+| Resolution | 3–6 months | 80–90% of disc sciatica resolves with conservative treatment |
+| Surgical cases | 6–12 months | Full recovery from microdiscectomy if conservative care fails |
+
+### Piriformis Syndrome Recovery Timeline
+
+| Phase | Timeframe | What to Expect |
+|---|---|---|
+| Acute relief | Weeks 1–2 | Noticeable improvement with consistent stretching and ice |
+| Significant improvement | Weeks 2–6 | Most patients see major reduction in symptoms |
+| Full recovery | 6–12 weeks | Complete resolution with consistent physical therapy |
+| Chronic cases | 3–6 months | May require injections or advanced intervention |
+
+**Key difference:** Piriformis syndrome generally resolves faster with targeted treatment. Disc sciatica has a longer natural history because disc healing and nerve root inflammation take more time. However, piriformis syndrome has a higher recurrence rate if the underlying cause (weak glutes, prolonged sitting, poor posture) is not addressed long-term.
+
+Sleep position also plays a significant role in recovery for both conditions. Lying in a position that maintains piriformis tension or increases disc pressure overnight can slow healing. Our guide on [best sleeping positions for sciatica](/best-sleeping-position-for-sciatica) covers specific positioning strategies for each condition.
+
+---
+
+## Product Recommendations
 
 <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:1.5rem;margin:2rem 0;">
 
@@ -351,7 +402,7 @@ Three primary stretches:
 
 ---
 
-## When to See a Doctor {#when-to-see-doctor}
+## When to See a Doctor
 
 See a doctor or emergency department immediately for:
 - **Loss of bladder or bowel control** — this is cauda equina syndrome, a surgical emergency
@@ -367,7 +418,7 @@ See a doctor for evaluation within 1–2 weeks for:
 
 ---
 
-## Frequently Asked Questions {#faq}
+## Frequently Asked Questions
 
 **What is the difference between sciatica and piriformis syndrome?**
 
@@ -393,9 +444,13 @@ Primary treatment: piriformis stretching (figure-four, FAIR stretch), physical t
 
 Neither is universally worse. Piriformis syndrome often responds well to targeted stretching. Disc-related sciatica may require surgery in severe cases.
 
+**What exercises help piriformis syndrome but not sciatica?**
+
+Piriformis-specific stretches (figure-four, FAIR stretch, seated cross-leg stretch) directly target the piriformis muscle and are beneficial for piriformis syndrome. These same stretches may aggravate disc-related sciatica if they increase nerve tension. For disc-related sciatica, extension exercises (prone press-ups, McKenzie method) are often first-line; these are not specifically helpful for piriformis syndrome.
+
 ---
 
-## Sources and Methodology {#sources}
+## Sources and Methodology
 
 **Medical References:**
 - Boyajian-O'Neill LA, et al. "Diagnosis and Management of Piriformis Syndrome." Journal of the American Osteopathic Association, 2008.
