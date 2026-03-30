@@ -14,6 +14,10 @@ article_schema: '{"@context":"https://schema.org","@type":"Article","headline":"
 
 # Sciatica Home Treatment: 7-Day Relief Plan (2026)
 
+<video autoplay muted loop playsinline poster="/images/articles/sciatica-home-treatment-7-day-plan-video-thumb.jpg" style="width:100%;border-radius:8px;margin:1.5rem 0;">
+  <source src="/videos/sciatica-home-treatment-7-day-plan-demo.mp4" type="video/mp4">
+</video>
+
 **By Dr. Sarah Mitchell, Certified Ergonomics Consultant** | Last updated March 2026
 
 **Most sciatica flare-ups respond to structured home treatment within one to two weeks. This 7-day plan combines daily stretches, ice and heat protocols, gentle movement progression, and posture corrections to reduce sciatic nerve pain without medication or doctor visits. Follow each day in order for the best results.**

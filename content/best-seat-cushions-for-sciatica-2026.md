@@ -13,6 +13,10 @@ article_schema: |
 
 # Best Seat Cushions for Sciatica (2026) — Tested & Ranked
 
+<video autoplay muted loop playsinline poster="/images/articles/best-seat-cushions-for-sciatica-2026-video-thumb.jpg" style="width:100%;border-radius:8px;margin:1.5rem 0;">
+  <source src="/videos/best-seat-cushions-for-sciatica-2026-demo.mp4" type="video/mp4">
+</video>
+
 **The best seat cushions for sciatica use pressure-redistributing materials and ergonomic contours to reduce sciatic nerve compression while sitting. After testing 22 cushions over 6 months with input from sciatica patients and ergonomic research, I've ranked the top options for office chairs, car seats, and wheelchairs. A good cushion won't cure your sciatica, but it can make the hours you spend sitting dramatically less painful.**
 
 ---
