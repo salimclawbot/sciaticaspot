@@ -36,7 +36,14 @@ Sciatica is not a diagnosis — it is a symptom. It refers to pain that travels 
 
 The most common causes include:
 
-- **Herniated disc** — The soft center of a spinal disc pushes through its outer shell and presses on the sciatic nerve root. This accounts for the majority of sciatica cases.
+- **Herniated disc**
+
+![Sciatic nerve anatomy diagram showing pathway from lower spine through buttock to leg](/images/articles/sciatic-nerve-pathway.jpg)
+![Anatomy diagram showing the sciatic nerve pathway from the lower spine through the buttock and down the back of the leg](/images/articles/sciatic-nerve-pathway.jpg)
+
+![Anatomy diagram showing the sciatic nerve pathway from the lower spine through the buttock and down the back of the leg](/images/articles/sciatic-nerve-pathway.jpg)
+
+![Anatomy diagram showing the sciatic nerve pathway from the lower spine through the buttock and down the back of the leg](/images/articles/sciatic-nerve-pathway.jpg) — The soft center of a spinal disc pushes through its outer shell and presses on the sciatic nerve root. This accounts for the majority of sciatica cases.
 - **Lumbar spinal stenosis** — A narrowing of the spinal canal in the lower back that puts pressure on nerve roots.
 - **Piriformis syndrome** — The piriformis muscle in the buttocks spasms or tightens and irritates the sciatic nerve that runs beneath it.
 - **Spondylolisthesis** — One vertebra slips forward over another, pinching nerve pathways.
@@ -67,6 +74,15 @@ In a neutral spine:
 When this alignment breaks down — as it does every time you slouch, lean forward, or sit on one hip — the structures surrounding the sciatic nerve are placed under asymmetric load. That asymmetry is what causes pain to flare.
 
 ### The 100-Degree Rule
+
+Research from the Spine Biomechanics LabThe 100-Degree Rule
+
+
+![Diagram showing correct neutral spine alignment while seated](/images/articles/neutral-spine-sitting.jpg)![Diagram showing correct neutral spine alignment while seated, with the three natural spinal curves preserved](/images/articles/neutral-spine-sitting.jpg)
+
+Research from the Spine Biomechanics LabThe 100-Degree Rule
+
+![Diagram showing correct neutral spine alignment while seated, with the three natural spinal curves preserved](/images/articles/neutral-spine-sitting.jpg)
 
 Research from the Spine Biomechanics Lab at Cornell University found that the optimal hip angle for minimising lumbar disc pressure is between 90 and 100 degrees. When your hips are at this angle:
 - Hip flexors remain in a relaxed, elongated state
@@ -110,7 +126,12 @@ If your chair has adjustable seat depth, set it so you can sit with your back fu
 
 ### Lumbar Support
 
-Lumbar support is the most critical adjustment for sciatica because it maintains the natural inward curve of your lower back. Without it, your lumbar spine flattens within minutes of sitting, increasing disc pressure and potentially compressing nerve roots.
+Lumbar support is the most critical adjustment for sciatica because it maintains the natural inward curve of your lower back.### Lumbar Support
+
+![Lumbar cushion properly positioned on an office chair for lower back support](/images/articles/lumbar-support-cushion.jpg)
+Lumbar support is the most critical adjustment for sciatica because it maintains the natural inward curve of your lower back.
+
+![Lumbar cushion properly positioned on an office chair to support the lower back curve](/images/articles/lumbar-support-cushion.jpg) Without it, your lumbar spine flattens within minutes of sitting, increasing disc pressure and potentially compressing nerve roots.
 
 **If your chair has built-in lumbar support:** Adjust it so the highest point of the lumbar curve sits at the small of your back — approximately belt-line level. It should feel supportive without pushing you forward.
 
@@ -184,7 +205,11 @@ This 30-minute cycle keeps nerve tissue mobile, prevents disc pressure from buil
 
 ### Standing Desk and Walking Pad
 
-Alternating between sitting and standing throughout the day can significantly reduce sciatica symptoms. A sit-stand desk or a walking pad desk allows you to change positions without interrupting your work.
+Alternating between sitting and standing throughout the day can significantly reduce sciatica symptoms. A sit-stand desk or a walking pad desk allows you to change positionsA sit-stand desk or a walking pad desk allows you to change positions
+
+![Person alternating between sitting and standing at an ergonomic desk setup with a standing desk](/images/articles/standing-desk-alternating.jpg) without interrupting your work.
+
+![Person alternating between sitting and standing at an ergonomic desk setup with a standing desk](/images/articles/standing-desk-alternating.jpg)
 
 When standing, maintain good posture with your weight evenly distributed across both feet. When you sit back down, reset your posture deliberately — do not just collapse into the chair. The reset moment is your best opportunity to re-establish neutral spine.
 
@@ -204,7 +229,13 @@ These exercises are designed to be performed at your desk or in a chair. They do
 
 ### 1. Knee-to-Chest Stretch (Seated)
 
-1. Sit tall with feet flat on the floor
+1. Sit tall### 1. Knee-to-Chest Stretch (Seated)
+
+![Person performing knee-to-chest stretch while seated in a chair](/images/articles/knee-to-chest-stretch.jpg)
+
+1. Sit tall
+
+![Person performing knee-to-chest stretch while seated in a chair](/images/articles/knee-to-chest-stretch.jpg) with feet flat on the floor
 2. Lift your right knee toward your chest as far as comfortable
 3. Hold your shin with both hands
 4. Gently pull your knee slightly closer until you feel a stretch in your right buttock
@@ -240,7 +271,13 @@ If this causes sharp, electric pain, stop immediately and consult a physiotherap
 
 ### 4. Figure-Four Stretch (Seated)
 
-1. Sit back in your chair with feet flat
+1. Sit back in your chair### 4. Figure-Four Stretch (Seated)
+
+![Person performing figure-four stretch while seated, with one ankle crossed over the opposite knee](/images/articles/figure-four-stretch.jpg)
+
+1. Sit back in your chair
+
+![Person performing figure-four stretch while seated, with one ankle crossed over the opposite knee](/images/articles/figure-four-stretch.jpg) with feet flat
 2. Cross your right ankle over your left knee, just above the kneecap
 3. Keep your right foot flexed
 4. Gently press down on your right knee with your right hand to deepen the stretch
@@ -260,7 +297,9 @@ Sitting posture during the day directly affects how well you sleep at night, and
 
 **On your back with a pillow under your knees:** This position keeps your spine in a neutral alignment and reduces pressure on the lumbar discs and nerve roots. Place a firm pillow under your knees to maintain the natural curve of your lower back.
 
-**On your side with a pillow between your knees:** This prevents your top leg from pulling the pelvis into an asymmetric tilt that compresses the sciatic nerve. A pillow between the knees also keeps the hip rotators neutral, reducing piriformis tension. Use a firm pillow that does not compress flat under the weight of your legs.
+**On your side with a pillow between your knees:** This prevents your top leg
+
+![Side sleeping position with a pillow correctly placed between the knees to maintain hip alignment and reduce sciatica pressure](/images/articles/side-sleeping-pillow-setup.jpg) from pulling the pelvis into an asymmetric tilt that compresses the sciatic nerve. A pillow between the knees also keeps the hip rotators neutral, reducing piriformis tension. Use a firm pillow that does not compress flat under the weight of your legs.
 
 ### Worst Sleeping Positions for Sciatica
 
