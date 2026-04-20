@@ -108,9 +108,9 @@ export async function getArticle(slug: string): Promise<Article | null> {
   const result = await remark().use(remarkGfm).use(html, { sanitize: false }).process(content);
 
   const title = data.title || slug;
-  const description = data.meta_description || `${title} article.`;
+  const description = (data.meta_description || data.description || data.excerpt || title) as string;
   const author = data.author || "Expert Author";
-  const date = data.date || "2026-03-12";
+  const date = (data.date || data.publishedAt || data.datePublished || "2026-04-01") as string;
 
   return {
     slug,

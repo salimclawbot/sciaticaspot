@@ -279,7 +279,7 @@ While no product replaces proper exercise and habit modification, certain tools 
 
 A quality seat cushion redistributes pressure away from the ischial tuberosities and coccyx, reducing direct compression on the sciatic nerve. Look for memory foam or gel-infused options with a coccyx cutout.
 
-**Recommended:** [Everlasting Comfort Seat Cushion](https://www.amazon.com/dp/B07QN1DXLK?tag=sciaticaspot-20&tag=theforge05-20) — Memory foam with a ventilated design that holds its shape. One of the most popular options among our readers.
+**Recommended:** [Everlasting Comfort Seat Cushion](https://www.amazon.com/dp/B07QN1DXLK?tag=theforge05-20&tag=theforge05-20) — Memory foam with a ventilated design that holds its shape. One of the most popular options among our readers.
 
 For a complete comparison, see our [best seat cushions for sciatica in 2026](/best-seat-cushions-for-sciatica-2026) guide.
 
@@ -287,19 +287,19 @@ For a complete comparison, see our [best seat cushions for sciatica in 2026](/be
 
 If your chair doesn't have built-in lumbar support, an add-on pillow can help maintain the natural lordotic curve while sitting.
 
-**Recommended:** [Qutool Lumbar Support Pillow](https://www.amazon.com/dp/B09GFBG1KQ?tag=sciaticaspot-20&tag=theforge05-20) — Adjustable memory foam design that works with most office chairs and car seats.
+**Recommended:** [Qutool Lumbar Support Pillow](https://www.amazon.com/dp/B09GFBG1KQ?tag=theforge05-20&tag=theforge05-20) — Adjustable memory foam design that works with most office chairs and car seats.
 
 ### Heating Pads
 
 Heat increases blood flow to tight muscles and promotes relaxation. It's particularly useful during the pre-flare and early flare stages.
 
-**Recommended:** [Mighty Bliss Electric Heating Pad](https://www.amazon.com/dp/B07HN1DQCM?tag=sciaticaspot-20&tag=theforge05-20) — Large size covers the entire lower back, with multiple heat settings and auto-shutoff for safety.
+**Recommended:** [Mighty Bliss Electric Heating Pad](https://www.amazon.com/dp/B07HN1DQCM?tag=theforge05-20&tag=theforge05-20) — Large size covers the entire lower back, with multiple heat settings and auto-shutoff for safety.
 
 ### Foam Rollers
 
 Self-myofascial release with a [foam roller](https://www.amazon.com/s?k=foam+roller&tag=theforge05-20) can help reduce piriformis and hamstring tension, two common contributors to sciatic nerve irritation.
 
-**Recommended:** [TriggerPoint GRID Foam Roller](https://www.amazon.com/dp/B0040EGNIU?tag=sciaticaspot-20&tag=theforge05-20) — Durable construction with a textured surface for targeted pressure.
+**Recommended:** [TriggerPoint GRID Foam Roller](https://www.amazon.com/dp/B0040EGNIU?tag=theforge05-20&tag=theforge05-20) — Durable construction with a textured surface for targeted pressure.
 
 *Disclosure: SciaticaSpot may earn a commission from qualifying purchases through Amazon affiliate links. This does not affect our editorial recommendations or the price you pay.*
 

@@ -1,5 +1,8 @@
 ---
 title: "Acupuncture for Sciatica: Does It Actually Work?"
+site_id: "sciatica-site"
+target_domain: "sciaticaspot.com"
+primary_topic: "sciatica nerve pain acupuncture relief"
 slug: "acupuncture-for-sciatica"
 meta_description: "Acupuncture for sciatica: evidence-based review of how it works, what the research shows, how many sessions you need, and the best at-home alternatives. Expert-reviewed."
 author: "Dr. Sarah Mitchell, Certified Ergonomics Consultant"
