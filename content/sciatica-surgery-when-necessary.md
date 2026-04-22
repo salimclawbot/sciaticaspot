@@ -105,6 +105,8 @@ While pain alone is rarely a surgical emergency, pain that is completely unrespo
 
 ## The Surgical Threshold: When Do Doctors Recommend Surgery?
 
+![Diagnostic flowchart showing when surgery is indicated vs conservative care for sciatica](/images/articles/sciatica-diagnosis-flowchart-infographic.jpg)
+
 Outside of emergency scenarios, spine surgeons apply specific criteria when determining whether a patient has exhausted conservative options and warrants surgical consideration. These are not arbitrary rules — they are evidence-based guidelines that reflect the balance between surgical benefit and risk.
 
 ### The 6-12 Week Rule
@@ -130,6 +132,8 @@ Ultimately, the decision to pursue surgery is the patient's to make. A well-info
 ---
 
 ## Types of Sciatica Surgery: What Each Procedure Involves
+
+![Doctor consultation for sciatica treatment options — discussing surgical vs conservative approaches](/images/articles/how-long-does-sciatica-last-doctor-consultation.jpg)
 
 Sciatica surgery is not a single procedure — it is an umbrella term covering several distinct operations, each designed to address a specific type of nerve compression. The right surgery depends entirely on the underlying diagnosis.
 
@@ -210,6 +214,8 @@ Sciatica surgery is not a single procedure — it is an umbrella term covering s
 ---
 
 ## Recovery After Sciatica Surgery: What to Expect
+
+![Walking exercise for sciatica recovery — beginning mobility work after surgery](/images/articles/does-walking-help-sciatica-hero.jpg)
 
 Recovery from sciatica surgery is a staged process that requires patience and discipline. The timeline below is a general guide for a microdiscectomy, the most common procedure — fusion recovery is significantly longer.
 
