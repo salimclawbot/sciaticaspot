@@ -13,6 +13,13 @@ export const metadata: Metadata = {
     template: "%s | Sciatica Spot",
   },
   description: "Evidence-aware sciatica information covering movement, daily comfort, and treatment conversations with qualified healthcare professionals.",
+  keywords: ["sciatica","sciatica relief","sciatica exercises","sciatica symptoms","back and leg pain"],
+  robots: {
+    index: true,
+    follow: true,
+    googleBot: { index: true, follow: true, "max-image-preview": "large", "max-snippet": -1, "max-video-preview": -1 },
+  },
+
   metadataBase: new URL("https://sciaticaspot.com"),
   alternates: { canonical: "https://sciaticaspot.com" },
   openGraph: {

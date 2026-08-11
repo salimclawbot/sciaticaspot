@@ -3,6 +3,7 @@ import path from "path";
 import { remark } from "remark";
 import html from "remark-html";
 import remarkGfm from "remark-gfm";
+import { normalizeArticleHeadings, resolveArticleDescription, resolveArticleTitle } from "@/lib/article-copy";
 
 export interface Article {
   slug: string;
@@ -107,8 +108,8 @@ export async function getArticle(slug: string): Promise<Article | null> {
   const content = processContent(bodyContent);
   const result = await remark().use(remarkGfm).use(html, { sanitize: false }).process(content);
 
-  const title = data.title || slug;
-  const description = (data.meta_description || data.description || data.excerpt || title) as string;
+  const title = resolveArticleTitle(data.title, slug);
+  const description = slug === "how-long-does-sciatica-last" ? "Understand how sciatica duration varies by cause and severity, common recovery patterns, factors linked with persistent pain, and when to seek medical assessment." : resolveArticleDescription(data.meta_description || data.description || data.excerpt, bodyContent, title);
   const author = data.author || "Expert Author";
   const date = (data.date || data.publishedAt || data.datePublished || "2026-04-01") as string;
 

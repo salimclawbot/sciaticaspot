@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 
 export const metadata: Metadata = {
   title: "Commerce Policy",
-  description: "This site does not use retailer affiliate links or earn referral commissions.",
+  description: "Read Sciatica Spot’s clear non-commercial policy, including editorial independence, external references, and the site’s current zero-affiliate-link boundary.",
   alternates: { canonical: "/affiliate-disclosure" },
 };
 

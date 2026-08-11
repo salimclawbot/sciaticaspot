@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 
 export const metadata: Metadata = {
   title: "Contact Sciatica Spot",
-  description: "This site does not use retailer affiliate links or earn referral commissions.",
+  description: "Contact Sciatica Spot about editorial corrections, source questions, accessibility, privacy, or feedback on our evidence-aware sciatica information.",
   alternates: { canonical: "https://sciaticaspot.com/contact" },
   openGraph: {
     title: "Contact",

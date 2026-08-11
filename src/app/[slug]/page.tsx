@@ -1,3 +1,4 @@
+import { normalizeArticleHeadings as normalizeRenderedArticleHeadings } from "@/lib/article-copy";
 import { Metadata } from "next";
 import { notFound } from "next/navigation";
 import { getArticle, getAllSlugs } from "@/lib/articles";
@@ -123,7 +124,7 @@ export default async function ArticlePage({ params }: PageProps) {
   const faqSchema = buildFaqSchema(faqSchemaItems);
   const faqItems = faqSchemaItems.map((item) => ({ question: item.question, answer: item.answer }));
 
-  const { html, toc } = normalizeArticleHtml(article.htmlContent, article.title);
+  const { html, toc } = normalizeArticleHtml(normalizeRenderedArticleHeadings(article.htmlContent), article.title);
   const video = renderVideoBySlug(article.slug);
 
   return (

@@ -4,19 +4,20 @@ import type { Metadata } from "next";
 
 export const metadata: Metadata = {
   title: { absolute: "Sciatica Spot: Evidence-Based Sciatica Relief Guides (2026)" },
-  description: "This site does not use retailer affiliate links or earn referral commissions.",
+  description: "Evidence-aware sciatica guides covering symptoms, movement, daily comfort, mattresses, seat cushions, and questions to discuss with a qualified healthcare professional.",
   alternates: { canonical: "https://sciaticaspot.com" },
   openGraph: {
     title: "Sciatica Spot: Evidence-Based Sciatica Relief Guides (2026)",
-    description: "This site does not use retailer affiliate links or earn referral commissions.",
+    description: "Evidence-aware sciatica guides covering symptoms, movement, daily comfort, mattresses, seat cushions, and questions to discuss with a qualified healthcare professional.",
     url: "https://sciaticaspot.com",
     type: "website",
+    images: [{ url: "https://sciaticaspot.com/editorial-hero.png", width: 1200, height: 630, alt: "Sciatica Spot" }],
   },
 
   twitter: {
     card: "summary_large_image",
     title: "Sciatica Spot: Evidence-Based Sciatica Relief Guides (2026)",
-    description: "This site does not use retailer affiliate links or earn referral commissions.",
+    description: "Evidence-aware sciatica guides covering symptoms, movement, daily comfort, mattresses, seat cushions, and questions to discuss with a qualified healthcare professional.",
     images: ["https://sciaticaspot.com/editorial-hero.png"],
   }};
 
