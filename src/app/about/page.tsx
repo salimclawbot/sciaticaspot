@@ -1,7 +1,7 @@
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "About",
+  title: "About Sciatica Spot",
   description: "Sciatica Spot is your practical guide to evidence-forward product comparisons, buying support, and transparent recommendations.",
   alternates: { canonical: "https://sciaticaspot.com/about" },
   openGraph: {
