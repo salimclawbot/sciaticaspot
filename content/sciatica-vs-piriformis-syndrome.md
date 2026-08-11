@@ -2,24 +2,22 @@
 title: "Sciatica vs Piriformis Syndrome: Key Differences"
 slug: "sciatica-vs-piriformis-syndrome"
 meta_description: "Sciatica vs piriformis syndrome: how to tell the difference, diagnostic tests, pain patterns, and which treatment works for each condition. Expert guide 2026."
-author: "Dr. Rachel Thompson"
+author: "Sciatica Spot Editorial Team"
 date: "2026-03-23"
 category: "Condition Guides"
-faq_schema: |
   {"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"What is the difference between sciatica and piriformis syndrome?","acceptedAnswer":{"@type":"Answer","text":"Sciatica is caused by compression of the sciatic nerve at the spine — from a herniated disc, bone spur, or spinal stenosis. Piriformis syndrome is caused by compression of the sciatic nerve by the piriformis muscle in the buttock, with no spinal involvement. Both cause pain radiating down the leg, but the source and treatment differ significantly."}},{"@type":"Question","name":"How do I know if I have sciatica or piriformis syndrome?","acceptedAnswer":{"@type":"Answer","text":"Key differentiators: sciatica pain typically worsens with sitting and bending forward; piriformis syndrome pain worsens with sitting, but especially with hip rotation (crossing your legs). The FAIR test (Flexion, Adduction, Internal Rotation) is positive in piriformis syndrome but not in spinal sciatica. An MRI will show spinal pathology if sciatica is the cause; piriformis syndrome typically shows a normal MRI."}},{"@type":"Question","name":"Can you have both sciatica and piriformis syndrome at the same time?","acceptedAnswer":{"@type":"Answer","text":"Yes — dual compression is possible. The sciatic nerve can be compressed at the spine (herniated disc) and also irritated by a tight piriformis muscle as it passes through the buttock. This is called double crush syndrome. Treatment in this case addresses both the spinal source and the piriformis muscle tension."}},{"@type":"Question","name":"Does piriformis syndrome show on MRI?","acceptedAnswer":{"@type":"Answer","text":"Standard MRI is usually normal in piriformis syndrome — there is no disc herniation or structural spinal pathology to see. An MRI-neurography (higher resolution imaging of nerves) can sometimes show an enlarged piriformis or sciatic nerve compression at the muscle, but this specialized test is not widely available. Diagnosis is primarily clinical, based on the FAIR test and pattern of symptoms."}},{"@type":"Question","name":"How do you treat piriformis syndrome?","acceptedAnswer":{"@type":"Answer","text":"Primary treatment: piriformis stretching (FAIR stretch, figure-four stretch, seated piriformis stretch), physical therapy targeting hip external rotators, and avoiding prolonged sitting. Secondary treatments: NSAIDs for acute inflammation, trigger point massage or dry needling to the piriformis, corticosteroid injection into the piriformis muscle, and in rare cases, botulinum toxin injection. Surgery is very rarely required."}},{"@type":"Question","name":"Is piriformis syndrome worse than sciatica?","acceptedAnswer":{"@type":"Answer","text":"Neither is universally worse — both cause significant pain and functional limitation. Piriformis syndrome often responds well to targeted stretching and physical therapy, making it more treatable than disc-related sciatica. However, piriformis syndrome can be chronic if the underlying cause (sitting posture, hip muscle imbalance) is not addressed. Disc-related sciatica may resolve with conservative treatment or require surgery in severe cases."}},{"@type":"Question","name":"What exercises help piriformis syndrome but not sciatica?","acceptedAnswer":{"@type":"Answer","text":"Piriformis-specific stretches (figure-four, FAIR stretch, seated cross-leg stretch) directly target the piriformis muscle and are beneficial for piriformis syndrome. These same stretches may aggravate disc-related sciatica if they increase nerve tension. For disc-related sciatica, extension exercises (prone press-ups, McKenzie method) are often first-line; these are not specifically helpful for piriformis syndrome."}}]}
-article_schema: |
-  {"@context":"https://schema.org","@type":"Article","headline":"Sciatica vs Piriformis Syndrome: Key Differences","description":"Sciatica vs piriformis syndrome: how to tell the difference, diagnostic tests, pain patterns, and treatment for each condition.","author":{"@type":"Person","name":"Dr. Rachel Thompson","jobTitle":"Physical Therapist","url":"https://sciaticaspot.com/author/dr-rachel-thompson"},"publisher":{"@type":"Organization","name":"Sciatica Spot","url":"https://sciaticaspot.com"},"datePublished":"2026-03-23","dateModified":"2026-03-23","mainEntityOfPage":{"@type":"WebPage","@id":"https://sciaticaspot.com/sciatica-vs-piriformis-syndrome"},"image":"https://sciaticaspot.com/images/articles/sciatica-vs-piriformis-syndrome/sciatic-nerve-anatomy.jpg"}
+  {"@context":"https://schema.org","@type":"Article","headline":"Sciatica vs Piriformis Syndrome: Key Differences","description":"Sciatica vs piriformis syndrome: how to tell the difference, diagnostic tests, pain patterns, and treatment for each condition.","author":{"@type":"Person","name": "Sciatica Spot Editorial Team","jobTitle":"Physical Therapist","url":"https://sciaticaspot.com/author/dr-rachel-thompson"},"publisher":{"@type":"Organization","name":"Sciatica Spot","url":"https://sciaticaspot.com"},"datePublished":"2026-03-23","dateModified":"2026-03-23","mainEntityOfPage":{"@type":"WebPage","@id":"https://sciaticaspot.com/sciatica-vs-piriformis-syndrome"},"image":"https://sciaticaspot.com/images/articles/sciatica-vs-piriformis-syndrome/sciatic-nerve-anatomy.jpg"}
 ---
 
 # Sciatica vs Piriformis Syndrome: Key Differences
 
-**Disclosure:** Sciatica Spot may earn a commission from qualifying purchases. This does not influence our recommendations.
 
-By Dr. Rachel Thompson, Physical Therapist · Last updated March 2026
+
+By Sciatica Spot Editorial Team
 
 **Sciatica and piriformis syndrome cause nearly identical symptoms — pain and tingling radiating from the buttock down the leg — but have completely different causes. Sciatica originates at the spine from a herniated disc or bone spur compressing the sciatic nerve root. Piriformis syndrome originates in the buttock, where the piriformis muscle compresses the sciatic nerve as it passes through or under the muscle. Treatment is fundamentally different for each. Misdiagnosis leads to months of ineffective treatment.**
 
-<video autoplay muted loop playsinline poster='/images/articles/sciatica-vs-piriformis-syndrome-video-thumb.jpg' style='width:100%;border-radius:8px;margin:1.5rem 0;'><source src='/videos/sciatica-vs-piriformis-syndrome-demo.mp4' type='video/mp4'></video>
+<video class="w-full rounded-lg my-6" preload="metadata" controls muted poster='/images/articles/sciatica-vs-piriformis-syndrome-video-thumb.jpg' style='width:100%;border-radius:8px;margin:1.5rem 0;'><source src='/videos/sciatica-vs-piriformis-syndrome-demo.mp4' type='video/mp4'></video>
 
 <nav id="toc" aria-label="Table of Contents">
 
@@ -250,7 +248,7 @@ Both conditions worsen with prolonged sitting, but for different reasons:
 
 **Driving specifically:** Driving is particularly provocative for both conditions. The reclined hip angle, vibration from the vehicle, and limited position changes create sustained compression.
 
-For managing seated pain and reducing sciatica and piriformis compression during driving, see our guide on [best car seat cushions for sciatica](/best-car-seat-cushion-sciatica). For comprehensive coccyx and tailbone support that reduces piriformis tension, resources from [coccyxrelief.com](https://www.coccyxrelief.com) cover related seating solutions. If your work involves extended sitting at a desk, choosing the right office seating also matters — [officechairguides.com](https://www.officechairguides.com) offers detailed reviews of ergonomic chairs that support proper posture and reduce sciatic nerve compression.
+For managing seated pain and reducing sciatica and piriformis compression during driving, see our guide on [best car seat cushions for sciatica](/best-car-seat-cushion-sciatica). For comprehensive coccyx and tailbone support that reduces piriformis tension, resources from coccyxrelief.com cover related seating solutions. If your work involves extended sitting at a desk, choosing the right office seating also matters — [officechairguides.com](https://www.officechairguides.com) offers detailed reviews of ergonomic chairs that support proper posture and reduce sciatic nerve compression.
 
 ---
 
@@ -383,19 +381,19 @@ Sleep position also plays a significant role in recovery for both conditions. Ly
   <div style="border:1px solid #e2e8f0;border-radius:12px;padding:1.5rem;background:#fff;">
     <h3 style="margin:0 0 0.5rem;">Ergonomic Seat Cushion</h3>
     <p style="color:#64748b;font-size:0.9rem;margin:0 0 1rem;">Reduces direct pressure on the piriformis region during prolonged sitting</p>
-    <a href="https://www.amazon.com/s?k=coccyx+seat+cushion+sciatica+piriformis&tag=theforge05-20" style="display:block;background:#ff9900;color:#111;text-align:center;padding:0.6rem;border-radius:8px;text-decoration:none;font-weight:600;">View on Amazon</a>
+    Retail availability varies
   </div>
 
   <div style="border:1px solid #e2e8f0;border-radius:12px;padding:1.5rem;background:#fff;">
     <h3 style="margin:0 0 0.5rem;">Foam Roller for Piriformis</h3>
     <p style="color:#64748b;font-size:0.9rem;margin:0 0 1rem;">Self-myofascial release of the piriformis and surrounding hip muscles</p>
-    <a href="https://www.amazon.com/s?k=foam+roller+piriformis+massage&tag=theforge05-20" style="display:block;background:#ff9900;color:#111;text-align:center;padding:0.6rem;border-radius:8px;text-decoration:none;font-weight:600;">View on Amazon</a>
+    Retail availability varies
   </div>
 
   <div style="border:1px solid #e2e8f0;border-radius:12px;padding:1.5rem;background:#fff;">
     <h3 style="margin:0 0 0.5rem;">Lumbar Support for Sciatica</h3>
     <p style="color:#64748b;font-size:0.9rem;margin:0 0 1rem;">Maintains lumbar curve to reduce disc pressure and sciatic nerve root compression while seated</p>
-    <a href="https://www.amazon.com/s?k=lumbar+support+cushion+sciatica&tag=theforge05-20" style="display:block;background:#ff9900;color:#111;text-align:center;padding:0.6rem;border-radius:8px;text-decoration:none;font-weight:600;">View on Amazon</a>
+    Retail availability varies
   </div>
 
 </div>
@@ -463,6 +461,4 @@ Piriformis-specific stretches (figure-four, FAIR stretch, seated cross-leg stret
 
 ---
 
-*By Dr. Rachel Thompson, Physical Therapist*
-
-Dr. Rachel Thompson is a licensed physical therapist specializing in musculoskeletal pain and spinal rehabilitation. This site may earn commissions from qualifying purchases. Last updated March 2026.
+By Sciatica Spot Editorial Team

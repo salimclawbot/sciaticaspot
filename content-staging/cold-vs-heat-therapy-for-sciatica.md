@@ -181,7 +181,7 @@ Heat is generally simpler to apply safely than cold, but there are important con
 - Electric heating pad with automatic shut-off timer
 - Warm damp towel (reheated every 5 minutes)
 - Warm bath or shower (42 degrees C / 108 degrees F maximum)
-- Commercial heat wrap designed for lower back ([Amazon US](https://www.amazon.com/dp/B08T6QVQKR?tag=theforge05-20) | [Amazon AU](https://www.amazon.com.au/dp/B09B8JZ3VK?tag=doublefury-22) — search "lower back heat wrap")
+- Commercial heat wrap designed for lower back ([Amazon US](https://www.amazon.com/dp/B08T6QVQKR?tag=theforge05-20) | [Amazon AU](https://www.amazon.com.au/dp/B09B8JZ3VK?tag=theforge05-20) — search "lower back heat wrap")
 
 **Application protocol:**
 1. Test the temperature on the inside of your wrist — it should feel comfortably warm, not hot

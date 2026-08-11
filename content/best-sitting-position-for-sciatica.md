@@ -51,7 +51,7 @@ The most common causes include:
 
 The National Institute of Neurological Disorders and Stroke (NINDS) estimates that up to 40% of people will experience sciatica at some point in their lives, making it one of the most common forms of chronic back pain. It most frequently affects people between the ages of 30 and 50.
 
-**Why does sitting worsen sciatica?** When you sit, the pressure inside your lumbar discs increases by up to 40% compared to standing, according to research published in the journal *Spine*. The seated position also shortens the hip flexors and tightens the piriformis muscle — both of which can directly aggravate sciatic nerve irritation. If your chair forces you into a forward-leaning or slouched posture, the load on your lumbar discs becomes even more concentrated on one side, which is precisely the scenario that pushes a herniated disc fragment closer to the nerve root.
+> **Evidence note:** This comparison uses manufacturer specifications, published research, and independently reported owner feedback. We have not independently verified laboratory measurements, clinical outcomes, or long-term-use claims.
 
 Understanding this mechanism is the key to everything that follows. Sciatica-friendly sitting is not about one perfect position — it is about minimising disc pressure, keeping the nerve pathway clear, and avoiding postures that compression the nerve further.
 

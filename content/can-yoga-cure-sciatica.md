@@ -3,7 +3,7 @@ site_id: "sciatica-site"
 target_domain: "sciaticaspot.com"
 primary_topic: "sciatica"
 date: "2026-04-23"
-author: "Dr. Sarah Mitchell, DPT, CPT"
+author: "Sciatica Spot Editorial Team"
 title: "Can Yoga Cure Sciatica? (Evidence-Based Answer)"
 slug: "can-yoga-cure-sciatica"
 meta_description: "Can yoga cure sciatica? Discover the science behind yoga for sciatic nerve pain, which poses help (and hurt), and a complete 8-week guide based on clinical research."
@@ -349,7 +349,7 @@ Despite yoga's overall benefits, not everyone responds well — and some respons
 
 **Important note:** Yoga teachers are not medical professionals. A yoga class should never replace a proper diagnosis from a physician, physical therapist, or physiotherapist. If your sciatica is severe or has persisted for more than 6 weeks, get a professional assessment before beginning any yoga practice.
 
-For related nerve pain conditions, see this guide to [coccyx relief exercises](https://coccyxrelief.com/coccydynia-exercise-guide/) which share similar principles.
+For related nerve pain conditions, see this guide to coccyx relief exercises which share similar principles.
 
 ---
 
@@ -418,7 +418,7 @@ Absolutely — this is one of the most responsive types of sciatica. Desk-worker
 5. **Know what to avoid** — Forward folds, intense backbends, arm balances, and inverted poses commonly worsen sciatica symptoms.
 6. **Get a proper diagnosis first** — if your sciatica is severe or has lasted more than 6 weeks, see a medical professional before beginning yoga.
 
-For ongoing sciatica management, explore our related guides on [sciatica sleep positioning](https://sciaticaspot.com/sciatica-sleep-positions/) and [physical therapy exercises for sciatica](https://sciaticaspot.com/physical-therapy-exercises-sciatica/) and [sciatica stretches for immediate relief](https://sciaticaspot.com/sciatica-stretches-for-immediate-relief/).
+For ongoing sciatica management, explore our related guides on sciatica sleep positioning and physical therapy exercises for sciatica and sciatica stretches for immediate relief.
 
 ---
 
@@ -435,6 +435,6 @@ For ongoing sciatica management, explore our related guides on [sciatica sleep p
 
 ---
 
-*Dr. Sarah Mitchell, DPT, CPT is a physical therapist and certified yoga instructor specializing in chronic pain management and spine health. She has worked with over 2,000 patients managing sciatica, lower back pain, and related conditions through evidence-based movement therapy.*
+> **Evidence note:** This comparison uses manufacturer specifications, published research, and independently reported owner feedback. We have not independently verified laboratory measurements, clinical outcomes, or long-term-use claims.
 
 *This article is for informational purposes only and does not constitute medical advice. Always consult a qualified healthcare professional before beginning any new exercise program, especially if you have a diagnosed spinal condition or severe pain.*

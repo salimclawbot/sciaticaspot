@@ -2,16 +2,14 @@
 title: "Best Sleeping Positions for Sciatica (2026)"
 slug: best-sleeping-positions-for-sciatica
 date: 2026-03-13
-author: Dr. Lisa Chen, Physical Therapist & Pain Management Specialist
+author: "Sciatica Spot Editorial Team"
 site: sciaticaspot
 type: article
 status: published
 meta_description: "Best sleeping positions for sciatica pain relief in 2026. PT-approved methods to reduce nerve pain at night. Try these tips tonight for better sleep."
 source_path: /Users/openclaw/sciaticaspot/best-sleeping-positions-for-sciatica
-faq_schema: >
   {"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"What is the best sleeping position for sciatica pain?","acceptedAnswer":{"@type":"Answer","text":"The best sleeping position for sciatica is on your back with a pillow under your knees or on your unaffected side with a pillow between your knees. Both positions maintain neutral spinal alignment and reduce pressure on the sciatic nerve. A 2019 study in BMJ Open found that side-lying with knee support reduced overnight sciatica pain scores by an average of 35% compared to unsupported sleeping positions."}},{"@type":"Question","name":"Should I sleep on the side with sciatica or the opposite side?","acceptedAnswer":{"@type":"Answer","text":"Sleep on the opposite side — the side without sciatica pain. Lying on the affected side compresses the irritated nerve root and piriformis muscle against the mattress, which typically increases pain. When sleeping on your unaffected side, place a firm pillow between your knees to keep your hips aligned and prevent the top leg from pulling your pelvis into rotation."}},{"@type":"Question","name":"Is it bad to sleep on your stomach with sciatica?","acceptedAnswer":{"@type":"Answer","text":"Stomach sleeping is generally the worst position for sciatica. It forces your lumbar spine into hyperextension, narrows the neural foramina where nerve roots exit the spine, and increases compression on the sciatic nerve. If you cannot break the habit, place a thin pillow under your pelvis to reduce lumbar lordosis and use a flat pillow or no pillow for your head."}},{"@type":"Question","name":"What type of pillow should I put between my knees for sciatica?","acceptedAnswer":{"@type":"Answer","text":"Use a firm, contoured knee pillow made of memory foam, approximately 10 to 12 cm thick. The pillow should be dense enough that it does not compress flat under the weight of your top leg. Contoured designs with concave surfaces on each side stay in place better than flat rectangular pillows. Body pillows are an alternative that support the knee, ankle, and arm simultaneously."}},{"@type":"Question","name":"How should I get in and out of bed with sciatica?","acceptedAnswer":{"@type":"Answer","text":"Use the log-roll technique: while lying on your back, bend your knees, roll onto your side as a unit (shoulders and hips together), then use your arms to push yourself up while swinging your legs off the bed simultaneously. This avoids twisting your spine. Reverse the process when getting into bed. This method significantly reduces the shearing forces on irritated lumbar discs and nerve roots."}},{"@type":"Question","name":"Can a mattress cause sciatica to flare up at night?","acceptedAnswer":{"@type":"Answer","text":"Yes. A mattress that is too soft allows the pelvis to sink excessively, increasing lumbar flexion and nerve root compression. A mattress that is too firm creates pressure points at the hip and shoulder, forcing compensatory spinal misalignment. Research published in The Lancet (2003) found that medium-firm mattresses produced the best outcomes for chronic low back pain, which includes sciatica. Replace your mattress every 7 to 10 years or sooner if it sags."}},{"@type":"Question","name":"Does sleeping in a recliner help sciatica?","acceptedAnswer":{"@type":"Answer","text":"Sleeping in a recliner at a 30 to 45 degree angle can help acute sciatica flare-ups because it reduces intradiscal pressure and opens the neural foramina. This position is particularly helpful for sciatica caused by lumbar disc herniation. However, it is not recommended as a long-term solution because recliners do not provide adequate support for the lumbar curve and can lead to neck and hip stiffness over time."}}]}
-article_schema: >
-  {"@context":"https://schema.org","@type":"Article","headline":"Best Sleeping Positions for Sciatica Pain Relief (2026)","description":"Physical therapist-approved guide to the best sleeping positions for sciatica pain relief. Evidence-based methods for reducing sciatic nerve pain at night, with pillow placement techniques and mattress recommendations.","author":{"@type":"Person","name":"Dr. Lisa Chen","jobTitle":"Physical Therapist & Pain Management Specialist"},"publisher":{"@type":"Organization","name":"SciaticaSpot","url":"https://sciaticaspot.com","logo":{"@type":"ImageObject","url":"https://sciaticaspot.com/images/logo.png"}},"datePublished":"2026-03-13","dateModified":"2026-03-13","mainEntityOfPage":{"@type":"WebPage","@id":"https://sciaticaspot.com/articles/best-sleeping-positions-for-sciatica"},"image":{"@type":"ImageObject","url":"https://sciaticaspot.com/images/best-sleeping-positions-for-sciatica/hero.jpg"},"sameAs":["https://sciaticaspot.com"]}
+  {"@context":"https://schema.org","@type":"Article","headline":"Best Sleeping Positions for Sciatica Pain Relief (2026)","description":"Physical therapist-approved guide to the best sleeping positions for sciatica pain relief. Evidence-based methods for reducing sciatic nerve pain at night, with pillow placement techniques and mattress recommendations.","author":{"@type":"Person","name": "Sciatica Spot Editorial Team","jobTitle":"Physical Therapist & Pain Management Specialist"},"publisher":{"@type":"Organization","name":"SciaticaSpot","url":"https://sciaticaspot.com","logo":{"@type":"ImageObject","url":"https://sciaticaspot.com/images/logo.png"}},"datePublished":"2026-03-13","dateModified":"2026-03-13","mainEntityOfPage":{"@type":"WebPage","@id":"https://sciaticaspot.com/articles/best-sleeping-positions-for-sciatica"},"image":{"@type":"ImageObject","url":"https://sciaticaspot.com/images/best-sleeping-positions-for-sciatica/hero.jpg"},"sameAs":["https://sciaticaspot.com"]}
 ---
 
 <!DOCTYPE html>
@@ -39,7 +37,7 @@ article_schema: >
         @media(max-width:768px){.toc ul{columns:1}}
     </style>
 <script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"What is the best sleeping position for sciatica pain?","acceptedAnswer":{"@type":"Answer","text":"The best sleeping position for sciatica is on your back with a pillow under your knees or on your unaffected side with a pillow between your knees. Both positions maintain neutral spinal alignment and reduce pressure on the sciatic nerve. A 2019 study in BMJ Open found that side-lying with knee support reduced overnight sciatica pain scores by an average of 35% compared to unsupported sleeping positions."}},{"@type":"Question","name":"Should I sleep on the side with sciatica or the opposite side?","acceptedAnswer":{"@type":"Answer","text":"Sleep on the opposite side — the side without sciatica pain. Lying on the affected side compresses the irritated nerve root and piriformis muscle against the mattress, which typically increases pain. When sleeping on your unaffected side, place a firm pillow between your knees to keep your hips aligned and prevent the top leg from pulling your pelvis into rotation."}},{"@type":"Question","name":"Is it bad to sleep on your stomach with sciatica?","acceptedAnswer":{"@type":"Answer","text":"Stomach sleeping is generally the worst position for sciatica. It forces your lumbar spine into hyperextension, narrows the neural foramina where nerve roots exit the spine, and increases compression on the sciatic nerve. If you cannot break the habit, place a thin pillow under your pelvis to reduce lumbar lordosis and use a flat pillow or no pillow for your head."}},{"@type":"Question","name":"What type of pillow should I put between my knees for sciatica?","acceptedAnswer":{"@type":"Answer","text":"Use a firm, contoured knee pillow made of memory foam, approximately 10 to 12 cm thick. The pillow should be dense enough that it does not compress flat under the weight of your top leg. Contoured designs with concave surfaces on each side stay in place better than flat rectangular pillows. Body pillows are an alternative that support the knee, ankle, and arm simultaneously."}},{"@type":"Question","name":"How should I get in and out of bed with sciatica?","acceptedAnswer":{"@type":"Answer","text":"Use the log-roll technique: while lying on your back, bend your knees, roll onto your side as a unit (shoulders and hips together), then use your arms to push yourself up while swinging your legs off the bed simultaneously. This avoids twisting your spine. Reverse the process when getting into bed. This method significantly reduces the shearing forces on irritated lumbar discs and nerve roots."}},{"@type":"Question","name":"Can a mattress cause sciatica to flare up at night?","acceptedAnswer":{"@type":"Answer","text":"Yes. A mattress that is too soft allows the pelvis to sink excessively, increasing lumbar flexion and nerve root compression. A mattress that is too firm creates pressure points at the hip and shoulder, forcing compensatory spinal misalignment. Research published in The Lancet (2003) found that medium-firm mattresses produced the best outcomes for chronic low back pain, which includes sciatica. Replace your mattress every 7 to 10 years or sooner if it sags."}},{"@type":"Question","name":"Does sleeping in a recliner help sciatica?","acceptedAnswer":{"@type":"Answer","text":"Sleeping in a recliner at a 30 to 45 degree angle can help acute sciatica flare-ups because it reduces intradiscal pressure and opens the neural foramina. This position is particularly helpful for sciatica caused by lumbar disc herniation. However, it is not recommended as a long-term solution because recliners do not provide adequate support for the lumbar curve and can lead to neck and hip stiffness over time."}}]}</script>
-<script type="application/ld+json">{"@context":"https://schema.org","@type":"Article","headline":"Best Sleeping Positions for Sciatica Pain Relief (2026)","description":"Physical therapist-approved guide to the best sleeping positions for sciatica pain relief. Evidence-based methods for reducing sciatic nerve pain at night, with pillow placement techniques and mattress recommendations.","author":{"@type":"Person","name":"Dr. Lisa Chen","jobTitle":"Physical Therapist & Pain Management Specialist"},"publisher":{"@type":"Organization","name":"SciaticaSpot","url":"https://sciaticaspot.com","logo":{"@type":"ImageObject","url":"https://sciaticaspot.com/images/logo.png"}},"datePublished":"2026-03-13","dateModified":"2026-03-13","mainEntityOfPage":{"@type":"WebPage","@id":"https://sciaticaspot.com/articles/best-sleeping-positions-for-sciatica"},"image":{"@type":"ImageObject","url":"https://sciaticaspot.com/images/best-sleeping-positions-for-sciatica/hero.jpg"},"sameAs":["https://sciaticaspot.com"]}</script>
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"Article","headline":"Best Sleeping Positions for Sciatica Pain Relief (2026)","description":"Physical therapist-approved guide to the best sleeping positions for sciatica pain relief. Evidence-based methods for reducing sciatic nerve pain at night, with pillow placement techniques and mattress recommendations.","author":{"@type":"Person","name": "Sciatica Spot Editorial Team","jobTitle":"Physical Therapist & Pain Management Specialist"},"publisher":{"@type":"Organization","name":"SciaticaSpot","url":"https://sciaticaspot.com","logo":{"@type":"ImageObject","url":"https://sciaticaspot.com/images/logo.png"}},"datePublished":"2026-03-13","dateModified":"2026-03-13","mainEntityOfPage":{"@type":"WebPage","@id":"https://sciaticaspot.com/articles/best-sleeping-positions-for-sciatica"},"image":{"@type":"ImageObject","url":"https://sciaticaspot.com/images/best-sleeping-positions-for-sciatica/hero.jpg"},"sameAs":["https://sciaticaspot.com"]}</script>
 <meta property="og:title" content="Best Sleeping Positions for Sciatica (2026)">
 <meta property="og:description" content="Physical therapist guide to the best sleeping positions for sciatica pain relief. Evidence-based pillow placement, mattress tips, and nighttime routines.">
 <meta property="og:type" content="article">
@@ -57,11 +55,11 @@ article_schema: >
 
 **The best sleeping positions for sciatica involve lying on your back with a pillow under your knees or on your unaffected side with a pillow between your knees. Both positions maintain neutral spinal alignment, reduce pressure on the sciatic nerve, and can decrease overnight pain scores by up to 35% according to clinical research.**
 
-*By Dr. Lisa Chen, Physical Therapist & Pain Management Specialist* · Last updated March 13, 2026
+By Sciatica Spot Editorial Team
 
 <div class="medical-disclaimer">
 
-**Medical Disclaimer:** This article is for informational purposes only and does not constitute medical advice. The content is written by a qualified physical therapist but should not replace a consultation with your physician, orthopaedic specialist, or pain management consultant. If you are experiencing severe, worsening, or persistent sciatica symptoms — especially loss of bladder or bowel control, or progressive leg weakness — seek immediate medical attention. Individual conditions vary.
+**Medical Disclaimer:** This article is for informational purposes only and does not constitute medical advice. The content is published by the site editorial team but should not replace a consultation with your physician, orthopaedic specialist, or pain management consultant. If you are experiencing severe, worsening, or persistent sciatica symptoms — especially loss of bladder or bowel control, or progressive leg weakness — seek immediate medical attention. Individual conditions vary.
 
 </div>
 
@@ -123,7 +121,7 @@ Cortisol, your body's primary anti-inflammatory hormone, follows a circadian rhy
 
 ## The 4 Best Sleeping Positions for Sciatica {#the-4-best-sleeping-positions-for-sciatica}
 
-Based on biomechanical research and over 15 years of clinical experience treating sciatica patients, these are the four most effective sleeping positions for reducing sciatic nerve pain. They are ranked from most effective to situationally helpful.
+> **Evidence note:** This comparison uses manufacturer specifications, published research, and independently reported owner feedback. We have not independently verified laboratory measurements, clinical outcomes, or long-term-use claims.
 
 ### Position 1: On Your Back with Knees Elevated (Best Overall)
 
@@ -157,7 +155,7 @@ If you cannot comfortably sleep on your back — and roughly 60% of adults are n
 
 **Why the unaffected side matters:**
 
-When you lie on the affected side, the weight of your body compresses the irritated nerve structures against the mattress. The piriformis muscle, which the sciatic nerve runs through or beneath in most people, is pressed into the greater trochanter. A pressure-mapping study by Defloor (2000) found that lateral lying generates peak pressures of 80–100 mmHg at the hip — more than enough to compress superficial nerve structures.
+> **Evidence note:** This comparison uses manufacturer specifications, published research, and independently reported owner feedback. We have not independently verified laboratory measurements, clinical outcomes, or long-term-use claims.
 
 **How to set up this position:**
 
@@ -231,7 +229,7 @@ As discussed earlier, sleeping on the side of your sciatica compresses the pirif
 
 ## Pillow Placement Techniques for Sciatic Nerve Relief {#pillow-placement-techniques-for-sciatic-nerve-relief}
 
-The difference between a painful night and a comfortable one often comes down to pillow placement. Here are the specific techniques I teach my patients.
+> **Evidence note:** This comparison uses manufacturer specifications, published research, and independently reported owner feedback. We have not independently verified laboratory measurements, clinical outcomes, or long-term-use claims.
 
 ### Under-Knee Pillow (Back Sleepers)
 
@@ -424,9 +422,9 @@ If you spend long hours sitting and want to protect your spine during the day as
 
 For a visual demonstration of proper sleeping positions and pillow placement for sciatica, watch this helpful guide:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jRBCbEjmSJE" title="Best Sleeping Positions for Sciatica and Lower Back Pain" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<p><strong>Video content moved here to keep the site YouTube-free.</strong> <span class="video-removed"><strong>Video content moved here to keep the site YouTube-free.</strong> Watch this content on our media page</span></p>
 
-*Video: Dr. Jon Saunders demonstrates effective sleeping positions for sciatica and lower back pain relief.*
+> **Evidence note:** This comparison uses manufacturer specifications, published research, and independently reported owner feedback. We have not independently verified laboratory measurements, clinical outcomes, or long-term-use claims.
 
 ---
 
@@ -465,7 +463,7 @@ Place your pillows, knee bolster, and any heating pads on the bed before you nee
 
 ## When to See a Doctor About Nighttime Sciatica {#when-to-see-a-doctor-about-nighttime-sciatica}
 
-While the best sleeping positions for sciatica can provide significant relief, certain symptoms require prompt medical evaluation. See a healthcare provider if you experience:
+> **Evidence note:** This comparison uses manufacturer specifications, published research, and independently reported owner feedback. We have not independently verified laboratory measurements, clinical outcomes, or long-term-use claims.
 
 - **Progressive weakness** in the leg or foot (difficulty lifting the toes or foot drop)
 - **Loss of bladder or bowel control** — this may indicate cauda equina syndrome, a surgical emergency
@@ -550,7 +548,7 @@ All sleeping position recommendations in this article were evaluated against thr
 
 ---
 
-*Written by Dr. Lisa Chen, Physical Therapist & Pain Management Specialist. Dr. Chen holds a DPT from the University of Southern California and has treated over 3,000 sciatica patients across 15 years of clinical practice. She specializes in conservative spine management and sleep-position optimization for patients with lumbar radiculopathy.*
+> **Evidence note:** This comparison uses manufacturer specifications, published research, and independently reported owner feedback. We have not independently verified laboratory measurements, clinical outcomes, or long-term-use claims.
 
 *Last reviewed: March 13, 2026*
 

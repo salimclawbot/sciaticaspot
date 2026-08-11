@@ -1,4 +1,30 @@
-export const metadata = { title: "Contact", alternates: { canonical: "https://sciaticaspot.com/contact" } };
+import type { Metadata } from "next";
+
+export const metadata: Metadata = {
+  title: "Contact",
+  description: "This site does not use retailer affiliate links or earn referral commissions.",
+  alternates: { canonical: "https://sciaticaspot.com/contact" },
+  openGraph: {
+    title: "Contact",
+    description: "This site does not use retailer affiliate links or earn referral commissions.",
+    url: "https://sciaticaspot.com/contact",
+    siteName: "Sciatica Spot",
+    type: "website",
+    images: [
+      {
+        url: "https://sciaticaspot.com/editorial-hero.png",
+        width: 1200,
+        height: 630,
+      },
+    ],
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "Contact",
+    description: "This site does not use retailer affiliate links or earn referral commissions.",
+    images: ["https://sciaticaspot.com/editorial-hero.png"],
+  },
+};
 
 export default function ContactPage() {
   return (

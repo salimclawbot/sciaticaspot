@@ -4,15 +4,21 @@ import type { Metadata } from "next";
 
 export const metadata: Metadata = {
   title: { absolute: "Sciatica Spot: Evidence-Based Sciatica Relief Guides (2026)" },
-  description: "Evidence-based sciatica pain relief guides reviewed by spine specialists. Exercises, mattresses, seat cushions, and treatment strategies.",
+  description: "This site does not use retailer affiliate links or earn referral commissions.",
   alternates: { canonical: "https://sciaticaspot.com" },
   openGraph: {
     title: "Sciatica Spot: Evidence-Based Sciatica Relief Guides (2026)",
-    description: "Evidence-based sciatica pain relief guides reviewed by spine specialists.",
+    description: "This site does not use retailer affiliate links or earn referral commissions.",
     url: "https://sciaticaspot.com",
     type: "website",
   },
-};
+
+  twitter: {
+    card: "summary_large_image",
+    title: "Sciatica Spot: Evidence-Based Sciatica Relief Guides (2026)",
+    description: "This site does not use retailer affiliate links or earn referral commissions.",
+    images: ["https://sciaticaspot.com/editorial-hero.png"],
+  }};
 
 export default async function HomePage() {
   const articles = await getAllArticles();

@@ -1,24 +1,14 @@
----
-title: "Sciatica Home Treatment: 7-Day Relief Plan (2026)"
-slug: "sciatica-home-treatment-7-day-plan"
-meta_description: "Sciatica home treatment 7-day plan: daily stretches, ice/heat protocols, and movement strategies to reduce sciatic nerve pain fast. Expert-reviewed guide."
-author: "Dr. Sarah Mitchell, Certified Ergonomics Consultant"
-date: "2026-03-27"
-dateModified: "2026-03-27"
-category: "Sciatica Relief"
-faq_schema: '{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Can sciatica be treated at home without seeing a doctor?","acceptedAnswer":{"@type":"Answer","text":"Most mild-to-moderate sciatica cases respond well to home treatment within 4-6 weeks. A structured plan combining gentle stretching, ice and heat therapy, movement, and over-the-counter anti-inflammatories is the first-line approach recommended by most physiotherapists. However, you should see a doctor immediately if you experience loss of bladder or bowel control, progressive leg weakness, or pain following a traumatic injury."}},{"@type":"Question","name":"How long does it take for sciatica to go away with home treatment?","acceptedAnswer":{"@type":"Answer","text":"Most people notice meaningful improvement within 7-14 days of consistent home treatment. Approximately 80-90% of sciatica cases resolve within 6-12 weeks without surgery. The 7-day plan focuses on pain reduction and mobility restoration in the first week, with continued exercises for full recovery over the following weeks."}},{"@type":"Question","name":"Should I use ice or heat for sciatica?","acceptedAnswer":{"@type":"Answer","text":"Use ice during the first 48-72 hours of a flare-up to reduce inflammation — apply for 15-20 minutes every 2-3 hours. After 72 hours, switch to heat to relax tight muscles and improve blood flow. Many people benefit from alternating ice and heat (contrast therapy) after the acute phase, using 15 minutes of each in rotation."}},{"@type":"Question","name":"What is the best sleeping position for sciatica?","acceptedAnswer":{"@type":"Answer","text":"The best sleeping position for sciatica is on your back with a pillow under your knees, which maintains the natural lumbar curve and reduces disc pressure. If you prefer side sleeping, sleep on the unaffected side with a pillow between your knees to keep your pelvis aligned. Avoid sleeping on your stomach, which forces spinal extension and can worsen nerve compression."}},{"@type":"Question","name":"Is walking good for sciatica?","acceptedAnswer":{"@type":"Answer","text":"Yes, gentle walking is one of the best activities for sciatica. Walking promotes blood flow to the affected nerve, reduces muscle stiffness, and triggers natural pain-relieving endorphins. Start with short 5-10 minute walks on flat ground and gradually increase duration. Avoid walking through sharp pain — mild discomfort is acceptable but worsening symptoms mean you should stop and rest."}},{"@type":"Question","name":"What exercises should I avoid with sciatica?","acceptedAnswer":{"@type":"Answer","text":"Avoid heavy deadlifts, full sit-ups, straight-leg toe touches, high-impact running, and deep squats during a sciatica flare-up. These movements increase intradiscal pressure or stretch the already-irritated sciatic nerve. Also avoid prolonged sitting (more than 30 minutes), twisting movements under load, and any exercise that sends sharp pain down your leg. Stick to gentle stretches and low-impact movement until pain subsides."}}]}'
-article_schema: '{"@context":"https://schema.org","@type":"Article","headline":"Sciatica Home Treatment: 7-Day Relief Plan (2026)","description":"A structured 7-day home treatment plan for sciatica pain relief including daily stretches, ice and heat protocols, and progressive movement strategies.","author":{"@type":"Person","name":"Dr. Sarah Mitchell","jobTitle":"Certified Ergonomics Consultant"},"publisher":{"@type":"Organization","name":"Sciatica Spot","url":"https://sciaticaspot.com"},"datePublished":"2026-03-27","dateModified":"2026-03-27","mainEntityOfPage":{"@type":"WebPage","@id":"https://sciaticaspot.com/sciatica-home-treatment-7-day-plan"},"image":["https://sciaticaspot.com/images/articles/sciatica-home-treatment-7-day-plan-hero.jpg","https://sciaticaspot.com/images/articles/sciatica-home-treatment-nerve-anatomy.jpg","https://sciaticaspot.com/images/articles/acupressure-mat-sciatica-home-relief.jpg"]}'
----
+> **Evidence note:** This comparison uses manufacturer specifications, published research, and independently reported owner feedback. We have not independently verified laboratory measurements, clinical outcomes, or long-term-use claims.
 
-*This post contains affiliate links. We may earn a commission at no extra cost to you.*
+
 
 # Sciatica Home Treatment: 7-Day Relief Plan (2026)
 
-<video autoplay muted loop playsinline poster="/images/articles/sciatica-home-treatment-7-day-plan-video-thumb.jpg" style="width:100%;border-radius:8px;margin:1.5rem 0;">
+<video class="w-full rounded-lg my-6" preload="metadata" controls muted poster="/images/articles/sciatica-home-treatment-7-day-plan-video-thumb.jpg" style="width:100%;border-radius:8px;margin:1.5rem 0;">
   <source src="/videos/sciatica-home-treatment-7-day-plan-demo.mp4" type="video/mp4">
 </video>
 
-**By Dr. Sarah Mitchell, Certified Ergonomics Consultant** | Last updated March 2026
+By Sciatica Spot Editorial Team
 
 **Most sciatica flare-ups respond to structured home treatment within one to two weeks. This 7-day plan combines daily stretches, ice and heat protocols, gentle movement progression, and posture corrections to reduce sciatic nerve pain without medication or doctor visits. Follow each day in order for the best results.**
 
@@ -190,7 +180,7 @@ This plan progresses from acute pain management (Days 1-2) through gentle mobili
 - Continue alternating ice and heat
 - Increase walking to 20 minutes per session, aim for 2-3 walks
 - Practice sitting with good posture: hips level with or slightly above knees, feet flat, neutral spine
-- Consider using a [coccyx cushion for sitting](https://coccyxrelief.com) to redistribute pressure away from the sciatic nerve pathway while seated
+- Consider using a coccyx cushion for sitting to redistribute pressure away from the sciatic nerve pathway while seated
 
 **Evening Routine (20 minutes):**
 - Full stretch protocol plus dead bugs and glute bridges
@@ -328,68 +318,7 @@ Research from the *Journal of Orthopaedic & Sports Physical Therapy* shows that 
 
 These products support the treatment methods in this 7-day plan. Each one addresses a specific aspect of sciatica relief — they are not essential, but they make the process significantly more effective and comfortable.
 
-<style>
-.product-cards { display: grid; grid-template-columns: 1fr; gap: 1.5rem; margin: 2rem 0; }
-@media(min-width:640px){ .product-cards { grid-template-columns: repeat(2, 1fr); } }
-.product-card { border: 1px solid #e2e8f0; border-radius: 12px; overflow: hidden; background: #fff; box-shadow: 0 1px 4px rgba(0,0,0,0.06); }
-.product-card img { width: 100%; height: 200px; object-fit: cover; }
-.product-card-info { padding: 1rem; }
-.product-card-info h4 { font-size: 1rem; font-weight: 700; margin: 0 0 0.5rem; }
-.product-card-info p { font-size: 0.875rem; color: #475569; margin: 0.25rem 0; }
-.amazon-btn { display: block; margin-top: 0.75rem; text-align: center; background: #0d9488; color: #fff; padding: 0.6rem 1rem; border-radius: 8px; text-decoration: none; font-weight: 600; font-size: 0.875rem; }
-</style>
-<div class="product-cards">
-  <div class="product-card">
-    <img src="/images/articles/acupressure-mat-sciatica-home-relief.jpg" alt="TENS unit for sciatica pain relief with electrode pads on lower back" width="400" height="200" loading="lazy" />
-    <div class="product-card-info">
-      <h4>TENS Unit (Transcutaneous Electrical Nerve Stimulation)</h4>
-      <p><strong>Best for:</strong> Acute pain relief between stretching sessions</p>
-      <p><strong>Why it works:</strong> Sends low-voltage electrical pulses that interrupt pain signals to the brain and trigger endorphin release. Use on lower back at medium intensity for 20-30 minutes.</p>
-      <p><strong>Price:</strong> $25–$50</p>
-      <a href="https://www.amazon.com/s?k=TENS+unit+sciatica+pain+relief&tag=theforge05-20" class="amazon-btn" target="_blank" rel="noopener">Check Price on Amazon →</a>
-    </div>
-  </div>
-  <div class="product-card">
-    <img src="/images/articles/acupressure-mat-sciatica-home-relief.jpg" alt="Knee pillow for sciatica sleep positioning between legs" width="400" height="200" loading="lazy" />
-    <div class="product-card-info">
-      <h4>Knee Pillow for Side Sleeping</h4>
-      <p><strong>Best for:</strong> Maintaining spinal alignment during sleep (Days 1-7 and beyond)</p>
-      <p><strong>Why it works:</strong> Keeps hips and pelvis aligned when side sleeping, preventing the upper leg from pulling the spine into rotation overnight. Memory foam contour holds position all night.</p>
-      <p><strong>Price:</strong> $15–$30</p>
-      <a href="https://www.amazon.com/s?k=knee+pillow+sciatica+sleep&tag=theforge05-20" class="amazon-btn" target="_blank" rel="noopener">Check Price on Amazon →</a>
-    </div>
-  </div>
-  <div class="product-card">
-    <img src="/images/articles/acupressure-mat-sciatica-home-relief.jpg" alt="Reusable ice and heat pack for lower back sciatica treatment" width="400" height="200" loading="lazy" />
-    <div class="product-card-info">
-      <h4>Reusable Ice/Heat Gel Pack with Strap</h4>
-      <p><strong>Best for:</strong> Ice therapy (Days 1-3) and heat therapy (Days 3-7)</p>
-      <p><strong>Why it works:</strong> Dual-purpose packs that freeze for cold therapy or microwave for heat. The strap holds it in place so you can walk around or do nerve glides while treating.</p>
-      <p><strong>Price:</strong> $12–$25</p>
-      <a href="https://www.amazon.com/s?k=ice+heat+pack+lower+back+strap&tag=theforge05-20" class="amazon-btn" target="_blank" rel="noopener">Check Price on Amazon →</a>
-    </div>
-  </div>
-  <div class="product-card">
-    <img src="/images/articles/sciatica-home-treatment-piriformis-stretch.jpg" alt="Foam roller for piriformis and lower back myofascial release" width="400" height="200" loading="lazy" />
-    <div class="product-card-info">
-      <h4>Foam Roller (Medium Density)</h4>
-      <p><strong>Best for:</strong> Releasing tight piriformis and hamstrings (Days 4-7)</p>
-      <p><strong>Why it works:</strong> Self-myofascial release breaks up adhesions in the piriformis and glutes that compress the sciatic nerve. Use gently — roll slowly over the affected area for 30-60 seconds per spot.</p>
-      <p><strong>Price:</strong> $15–$35</p>
-      <a href="https://www.amazon.com/s?k=foam+roller+medium+density+back+pain&tag=theforge05-20" class="amazon-btn" target="_blank" rel="noopener">Check Price on Amazon →</a>
-    </div>
-  </div>
-  <div class="product-card">
-    <img src="/images/articles/acupressure-mat-sciatica-home-relief.jpg" alt="McKenzie lumbar roll for office chair back support" width="400" height="200" loading="lazy" />
-    <div class="product-card-info">
-      <h4>McKenzie Lumbar Roll</h4>
-      <p><strong>Best for:</strong> Maintaining lumbar curve while sitting at a desk or in the car</p>
-      <p><strong>Why it works:</strong> Designed by physiotherapist Robin McKenzie, this roll positions the lumbar spine in neutral lordosis, preventing the posterior pelvic tilt that increases disc pressure on the sciatic nerve roots. Essential for anyone who sits for work.</p>
-      <p><strong>Price:</strong> $20–$40</p>
-      <a href="https://www.amazon.com/s?k=McKenzie+lumbar+roll+original&tag=theforge05-20" class="amazon-btn" target="_blank" rel="noopener">Check Price on Amazon →</a>
-    </div>
-  </div>
-</div>
+
 
 ---
 
@@ -509,4 +438,4 @@ This 7-day plan is based on current evidence from peer-reviewed research and cli
 
 ---
 
-*Dr. Sarah Mitchell is a certified ergonomics consultant and health writer with over 12 years of experience in musculoskeletal pain management and workplace wellness. She reviews all Sciatica Spot content for clinical accuracy and practical applicability.*
+> **Evidence note:** This comparison uses manufacturer specifications, published research, and independently reported owner feedback. We have not independently verified laboratory measurements, clinical outcomes, or long-term-use claims.

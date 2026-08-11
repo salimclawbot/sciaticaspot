@@ -12,27 +12,28 @@ export const metadata: Metadata = {
     default: "Sciatica Spot",
     template: "%s | Sciatica Spot",
   },
-  description: "Physiotherapist-approved sciatica pain relief exercises, cushion reviews and treatment guides for 2026.",
+  description: "Evidence-aware sciatica information covering movement, daily comfort, and treatment conversations with qualified healthcare professionals.",
   metadataBase: new URL("https://sciaticaspot.com"),
+  alternates: { canonical: "https://sciaticaspot.com" },
   openGraph: {
     siteName: "Sciatica Spot",
     type: "website",
     locale: "en_US",
-    title: "Sciatica Spot — Physiotherapist-Approved Pain Relief Guides",
-    description: "Physiotherapist-approved sciatica pain relief exercises, cushion reviews and treatment guides for 2026.",
+    title: "Sciatica Spot — Evidence-Aware Pain Information",
+    description: "Evidence-aware sciatica information covering movement, daily comfort, and treatment conversations with qualified healthcare professionals.",
     url: "https://sciaticaspot.com",
     images: [{
-      url: "https://sciaticaspot.com/og-image.jpg",
+      url: "https://sciaticaspot.com/editorial-hero.png",
       width: 1200,
       height: 630,
-      alt: "Sciatica Spot — Physiotherapist-Approved Pain Relief Guides",
+      alt: "Sciatica Spot evidence-aware pain information",
     }],
   },
   twitter: {
     card: "summary_large_image",
-    title: "Sciatica Spot — Physiotherapist-Approved Pain Relief Guides",
-    description: "Physiotherapist-approved sciatica pain relief exercises, cushion reviews and treatment guides for 2026.",
-    images: ["https://sciaticaspot.com/og-image.jpg"],
+    title: "Sciatica Spot — Evidence-Aware Pain Information",
+    description: "Evidence-aware sciatica information covering movement, daily comfort, and treatment conversations with qualified healthcare professionals.",
+    images: ["https://sciaticaspot.com/editorial-hero.png"],
   },
 };
 
@@ -41,7 +42,7 @@ const websiteSchema = {
   "@type": "WebSite",
   "name": "Sciatica Spot",
   "url": "https://sciaticaspot.com",
-  "description": "Expert sciatica pain relief guides and product reviews by Dr. James Harlow",
+  "description": "Evidence-aware sciatica information maintained by the Sciatica Spot editorial team",
   "potentialAction": {
     "@type": "SearchAction",
     "target": "https://sciaticaspot.com/?s={{search_term_string}}",
@@ -92,52 +93,10 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
               return fallbackHeading?.textContent?.trim() || '';
             };
 
-            const getProductName = (link) => {
-              const linkText = link.textContent?.trim() || '';
-              if (linkText) return linkText;
-              return findNearestHeadingText(link) || '';
-            };
-
-            const isAmazonAffiliateLink = (url) => {
-              const value = (url || '').toLowerCase();
-              return (
-                value.includes('amazon.com') ||
-                value.includes('amzn.to') ||
-                value.includes('tag=theforge05-20') ||
-                value.includes('tag=doublefury-22')
-              );
-            };
-
             const trackEvent = (eventName, params) => {
               if (typeof window.gtag !== 'function') return;
               window.gtag('event', eventName, params);
             };
-
-            document.addEventListener('click', (event) => {
-              const target = event.target;
-              if (!(target instanceof Element)) return;
-              const link = target.closest('a[href]');
-              if (!link) return;
-
-              const href = link.getAttribute('href') || '';
-              const absoluteUrl = (() => {
-                try {
-                  return new URL(href, window.location.origin).toString();
-                } catch {
-                  return href;
-                }
-              })();
-
-              if (!isAmazonAffiliateLink(absoluteUrl)) return;
-
-              const linkText = (link.textContent || '').trim();
-              trackEvent('affiliate_click', {
-                link_url: absoluteUrl,
-                link_text: linkText,
-                page_path: getPagePath(),
-                product_name: getProductName(link),
-              });
-            });
 
             const scrollMilestones = [25, 50, 75, 100];
             const scrollFired = new Set();

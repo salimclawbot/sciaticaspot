@@ -4,17 +4,15 @@ description: "Sciatica during pregnancy affects 1 in 3 women. Discover safe trea
 slug: sciatica-during-pregnancy
 datePublished: "2026-03-20"
 dateModified: "2026-03-20"
-author: "Dr. Rachel Nguyen, DPT"
+author: "Sciatica Spot Editorial Team"
 category: "Pregnancy & Sciatica"
-faq_schema: '{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Is sciatica during pregnancy dangerous to my baby?","acceptedAnswer":{"@type":"Answer","text":"Sciatica during pregnancy is not dangerous to your baby. The nerve pain affects your musculoskeletal system, not the uterus or placenta. However, severe pain can limit mobility and affect your quality of life, so managing symptoms is important for your overall wellbeing during pregnancy."}},{"@type":"Question","name":"When does pregnancy sciatica usually start?","acceptedAnswer":{"@type":"Answer","text":"Pregnancy-related sciatica most commonly develops during the second and third trimesters, typically between weeks 24 and 36. This coincides with the period of greatest weight gain, postural changes, and hormonal shifts that loosen pelvic ligaments. Some women experience symptoms as early as the first trimester, though this is less common."}},{"@type":"Question","name":"Can I take pain medication for sciatica while pregnant?","acceptedAnswer":{"@type":"Answer","text":"Acetaminophen (paracetamol) is generally considered safe during pregnancy for short-term pain relief when used at recommended doses. NSAIDs like ibuprofen should be avoided, especially after 20 weeks. Always consult your obstetrician or midwife before taking any medication during pregnancy, as recommendations can change based on your specific situation and trimester."}},{"@type":"Question","name":"Does sciatica go away after giving birth?","acceptedAnswer":{"@type":"Answer","text":"For most women, pregnancy-related sciatica resolves within a few weeks to months after delivery. Once the baby is born, pressure on the sciatic nerve decreases, hormonal levels normalise, and postural alignment gradually returns. Some women experience immediate relief after birth, while others find symptoms taper off over 6 to 12 weeks postpartum."}},{"@type":"Question","name":"What sleeping position helps sciatica during pregnancy?","acceptedAnswer":{"@type":"Answer","text":"Sleeping on your side with a pillow between your knees is the most recommended position for pregnancy sciatica. This keeps your hips, pelvis, and spine aligned, reducing pressure on the sciatic nerve. A full-length body pillow or wedge pillow under your belly provides additional support. Sleeping on the opposite side from where you feel pain often provides the most relief."}},{"@type":"Question","name":"Are prenatal massages safe for sciatica during pregnancy?","acceptedAnswer":{"@type":"Answer","text":"Prenatal massage from a certified prenatal massage therapist is generally safe and can provide significant sciatica relief during pregnancy. Therapists trained in prenatal techniques know which areas to avoid and use appropriate positioning. Avoid deep tissue massage directly over the lower back in the first trimester, and always inform your therapist about your sciatica symptoms and how far along you are."}}]}'
-article_schema: '{"@context":"https://schema.org","@type":"Article","headline":"Sciatica During Pregnancy: Safe Treatments (2026)","description":"Sciatica during pregnancy affects 1 in 3 women. Discover safe treatments, exercises, and proven relief strategies for every trimester in 2026.","author":{"@type":"Person","name":"Dr. Rachel Nguyen, DPT"},"publisher":{"@type":"Organization","name":"SciaticaSpot","url":"https://sciaticaspot.com"},"datePublished":"2026-03-20","dateModified":"2026-03-20","mainEntityOfPage":{"@type":"WebPage","@id":"https://sciaticaspot.com/sciatica-during-pregnancy"},"image":"https://sciaticaspot.com/images/sciatica-during-pregnancy-hero.jpg"}'
 ---
 
 # Sciatica During Pregnancy: Safe Treatments and Relief
 
 **Sciatica during pregnancy is one of the most common yet under-discussed discomforts expectant mothers face. Affecting up to one in three pregnant women, this shooting nerve pain can range from a mild annoyance to a debilitating condition. The good news: safe, effective treatments exist for every trimester — no medication required.**
 
-*By Dr. Rachel Nguyen, DPT — Last updated: March 2026*
+By Sciatica Spot Editorial Team
 
 ---
 
@@ -265,7 +263,7 @@ The following products can complement your exercise and treatment routine. Each 
 </div>
 
 <div class="video-container">
-  <video autoplay muted loop playsinline width="100%" style="border-radius:8px;margin:2rem 0">
+  <video class="w-full rounded-lg my-6" preload="metadata" controls muted width="100%" style="border-radius:8px;margin:2rem 0">
     <source src="/videos/sciatica-during-pregnancy.mp4" type="video/mp4">
   </video>
   <p class="video-caption">Visual guide: Safe exercises and sleep positions for pregnancy sciatica relief</p>
@@ -283,7 +281,7 @@ A compact side-sleeping pillow designed to support both belly and back simultane
 
 **Key features:** Machine washable cover, compact enough for shared beds, firm knee support panel
 
-[Check price on Amazon (US)](https://www.amazon.com/s?k=Boppy+Side+Sleeper+Pregnancy+Pillow&tag=theforge05-20) | [Amazon AU](https://www.amazon.com.au/s?k=Boppy+Side+Sleeper+Pregnancy+Pillow&tag=doublefury-22&tag=theforge05-20)
+
 
 </div>
 
@@ -297,7 +295,7 @@ A lightweight maternity belt specifically designed for sleeping, this belt cradl
 
 **Key features:** Adjustable elastic, memory foam pad, fits weeks 15 through 40
 
-[Check price on Amazon (US)](https://www.amazon.com/s?k=Babymoov+Dream+Belt+Maternity+Sleep+Support&tag=theforge05-20) | [Amazon AU](https://www.amazon.com.au/s?k=Babymoov+Dream+Belt+Maternity+Sleep+Support&tag=doublefury-22&tag=theforge05-20)
+
 
 </div>
 
@@ -311,7 +309,7 @@ A soft-density foam roller ideal for gentle piriformis and glute release during 
 
 **Key features:** Soft EVA foam, 36-inch length for stability, round profile
 
-[Check price on Amazon (US)](https://www.amazon.com/s?k=OPTP+PRO-ROLLER+Soft+Density+Foam+Roller&tag=theforge05-20) | [Amazon AU](https://www.amazon.com.au/s?k=OPTP+PRO-ROLLER+Soft+Density+Foam+Roller&tag=doublefury-22&tag=theforge05-20)
+
 
 </div>
 
@@ -325,7 +323,7 @@ A prenatal support belt that lifts the belly and redistributes weight away from 
 
 **Key features:** Breathable mesh, adjustable velcro, fits under clothing, available in multiple sizes
 
-[Check price on Amazon (US)](https://www.amazon.com/s?k=Gabrialla+Maternity+Support+Belt+Medium+Support&tag=theforge05-20) | [Amazon AU](https://www.amazon.com.au/s?k=Gabrialla+Maternity+Support+Belt+Medium+Support&tag=doublefury-22&tag=theforge05-20)
+
 
 </div>
 
@@ -339,13 +337,13 @@ A versatile therapy pack that can be used warm or cold for sciatic flare-ups. Th
 
 **Key features:** Microwave and freezer safe, flexible when frozen, reusable, non-toxic
 
-[Check price on Amazon (US)](https://www.amazon.com/s?k=TheraPearl+Reusable+Hot+Cold+Pack&tag=theforge05-20) | [Amazon AU](https://www.amazon.com.au/s?k=TheraPearl+Reusable+Hot+Cold+Pack&tag=doublefury-22&tag=theforge05-20)
+
 
 </div>
 
 </div>
 
-If your sciatica pain extends to tailbone discomfort — which is common in later pregnancy — you may also benefit from a specialised coccyx cushion. The team at [Coccyx Relief](https://coccyxrelief.com/) has a thorough guide to seated support options that work well during pregnancy.
+If your sciatica pain extends to tailbone discomfort — which is common in later pregnancy — you may also benefit from a specialised coccyx cushion. The team at Coccyx Relief has a thorough guide to seated support options that work well during pregnancy.
 
 ---
 
@@ -497,7 +495,7 @@ The information provided in this article is for educational purposes only and is
   "description": "Sciatica during pregnancy affects 1 in 3 women. Discover safe treatments, exercises, and proven relief strategies for every trimester in 2026.",
   "author": {
     "@type": "Person",
-    "name": "Dr. Rachel Nguyen, DPT"
+    "name": "Sciatica Spot Editorial Team"
   },
   "publisher": {
     "@type": "Organization",

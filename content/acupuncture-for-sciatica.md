@@ -1,30 +1,10 @@
----
-title: "Acupuncture for Sciatica: Does It Actually Work?"
-site_id: "sciatica-site"
-target_domain: "sciaticaspot.com"
-primary_topic: "sciatica nerve pain acupuncture relief"
-slug: "acupuncture-for-sciatica"
-meta_description: "Acupuncture for sciatica: evidence-based review of how it works, what the research shows, how many sessions you need, and the best at-home alternatives. Expert-reviewed."
-author: "Dr. Sarah Mitchell, Certified Ergonomics Consultant"
-date: "2026-03-28"
-dateModified: "2026-03-28"
-category: "Sciatica Relief"
-og_title: "Acupuncture for Sciatica: Does It Actually Work? (2026 Evidence Review)"
-og_description: "Evidence-based review of acupuncture for sciatic nerve pain — what the research says, how many sessions you need, cost breakdown, and top at-home alternatives."
-og_image: "https://sciaticaspot.com/images/articles/acupuncture-for-sciatica-hero.jpg"
-twitter_card: "summary_large_image"
-twitter_title: "Acupuncture for Sciatica: Does It Actually Work?"
-twitter_description: "We reviewed the clinical evidence on acupuncture for sciatica. Here is what actually works — and what to use at home when you cannot get to a clinic."
-twitter_image: "https://sciaticaspot.com/images/articles/acupuncture-for-sciatica-hero.jpg"
-faq_schema: '{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Does acupuncture actually help sciatica?","acceptedAnswer":{"@type":"Answer","text":"Yes, clinical evidence supports acupuncture as an effective treatment for sciatica pain. Multiple randomised controlled trials and systematic reviews show acupuncture reduces sciatic nerve pain by 30–60% compared to sham treatment. A 2022 meta-analysis in Pain Medicine found acupuncture significantly outperformed both placebo and conventional pain medication for lumbar radiculopathy after 4–6 weeks of treatment. It works by stimulating endorphin release, reducing neuroinflammation, and interrupting pain signalling along the sciatic nerve pathway."}},{"@type":"Question","name":"How many acupuncture sessions do you need for sciatica?","acceptedAnswer":{"@type":"Answer","text":"Most clinical protocols use 8–12 sessions over 4–6 weeks for sciatica. Research suggests 6 sessions is the minimum to see meaningful improvement, with optimal results typically achieved at session 10–12. Sessions are usually twice weekly for the first 2–3 weeks, then weekly. You should notice a 20–30% reduction in pain by session 4–6 — if you do not, it may not be the right modality for your case."}},{"@type":"Question","name":"What is the difference between acupuncture and dry needling for sciatica?","acceptedAnswer":{"@type":"Answer","text":"Acupuncture is a traditional Chinese medicine practice targeting meridian points to restore energy flow, though modern research explains its benefits through neurochemical and anti-inflammatory mechanisms. Dry needling is a Western physiotherapy technique that targets specific myofascial trigger points — tight bands of muscle that can compress or irritate the sciatic nerve. For sciatica, dry needling directly targets the piriformis and gluteal muscles, while acupuncture uses a broader systemic approach. Both can be effective; dry needling tends to produce faster results for piriformis-related sciatica specifically."}},{"@type":"Question","name":"Can I do acupuncture at home for sciatica?","acceptedAnswer":{"@type":"Answer","text":"You cannot perform traditional needle acupuncture at home safely — it requires trained practitioners to avoid nerve and vessel injury. However, acupressure (applying firm pressure to the same meridian points without needles) is a safe and effective home alternative. Acupressure mats provide sustained pressure across multiple acupoints simultaneously. Research shows acupressure produces similar neurochemical effects to acupuncture — endorphin release, muscle relaxation, and reduced pain signalling — without the safety risks of needling."}},{"@type":"Question","name":"How much does acupuncture for sciatica cost?","acceptedAnswer":{"@type":"Answer","text":"Acupuncture sessions for sciatica typically cost $75–$150 per session in the United States. A full 10–12 session course costs $750–$1,800. Many health insurance plans now partially cover acupuncture, particularly when prescribed by a physician for pain management. Medicare covers up to 20 acupuncture sessions per year for chronic low back pain. Without insurance, expect to pay full rate — which makes at-home alternatives like acupressure mats ($30–$80) an attractive complement or starting point."}},{"@type":"Question","name":"Are there risks or side effects of acupuncture for sciatica?","acceptedAnswer":{"@type":"Answer","text":"Acupuncture is very safe when performed by a licensed practitioner. Minor side effects include temporary soreness or bruising at needle sites (30–40% of patients), mild fatigue after sessions (20%), and occasional lightheadedness during treatment. Serious adverse events are extremely rare — estimated at 1 in 10,000 sessions — and typically involve unlicensed practitioners. Do not receive acupuncture if you take blood thinners, have a needle phobia, are pregnant (certain points are contraindicated), or have active infection at the treatment site."}}]}'
-article_schema: '{"@context":"https://schema.org","@type":"Article","headline":"Acupuncture for Sciatica: Does It Actually Work?","description":"Evidence-based review of acupuncture for sciatic nerve pain including clinical trial data, treatment protocols, costs, and at-home alternatives.","author":{"@type":"Person","name":"Dr. Sarah Mitchell","jobTitle":"Certified Ergonomics Consultant"},"publisher":{"@type":"Organization","name":"Sciatica Spot","url":"https://sciaticaspot.com"},"datePublished":"2026-03-28","dateModified":"2026-03-28","mainEntityOfPage":{"@type":"WebPage","@id":"https://sciaticaspot.com/acupuncture-for-sciatica"},"image":["https://sciaticaspot.com/images/articles/acupuncture-for-sciatica-hero.jpg","https://sciaticaspot.com/images/articles/acupuncture-meridian-points-sciatica.jpg","https://sciaticaspot.com/images/articles/acupuncture-session-lower-back.jpg"]}'
----
+> **Evidence note:** This comparison uses manufacturer specifications, published research, and independently reported owner feedback. We have not independently verified laboratory measurements, clinical outcomes, or long-term-use claims.
 
-*This post contains affiliate links. We may earn a commission at no extra cost to you.*
+
 
 # Acupuncture for Sciatica: Does It Actually Work?
 
-**By Dr. Sarah Mitchell, Certified Ergonomics Consultant** | Last updated March 2026
+By Sciatica Spot Editorial Team
 
 **Acupuncture reduces sciatic nerve pain in 60–70% of patients who complete a full course of treatment. Clinical trials show it outperforms sham treatment, NSAIDs, and physical therapy alone for lumbar radiculopathy. This guide reviews the evidence, explains how it works, outlines treatment protocols, and covers effective at-home alternatives when clinic access is limited.**
 
@@ -262,74 +242,7 @@ Place the mat under your thighs and calves while sitting or lying. This targets 
 
 These products complement or extend the benefits of acupuncture for sciatic nerve pain. Each one targets a specific mechanism relevant to sciatica recovery.
 
-<style>
-.product-cards { display: grid; grid-template-columns: 1fr; gap: 1.5rem; margin: 2rem 0; }
-@media(min-width:640px){ .product-cards { grid-template-columns: repeat(2, 1fr); } }
-.product-card { border: 1px solid #e2e8f0; border-radius: 12px; overflow: hidden; background: #fff; box-shadow: 0 1px 4px rgba(0,0,0,0.06); }
-.product-card img { width: 100%; height: 200px; object-fit: cover; }
-.product-card-info { padding: 1rem; }
-.product-card-info h4 { font-size: 1rem; font-weight: 700; margin: 0 0 0.5rem; }
-.product-card-info p { font-size: 0.875rem; color: #475569; margin: 0.25rem 0; }
-.amazon-btn { display: block; margin-top: 0.75rem; text-align: center; background: #0d9488; color: #fff; padding: 0.6rem 1rem; border-radius: 8px; text-decoration: none; font-weight: 600; font-size: 0.875rem; }
-.badge { display: inline-block; background: #f59e0b; color: #fff; font-size: 0.7rem; font-weight: 700; padding: 0.15rem 0.5rem; border-radius: 4px; margin-bottom: 0.5rem; }
-</style>
-<div class="product-cards">
-  <div class="product-card">
-    <img src="/images/articles/acupuncture-for-sciatica-shakti-mat.jpg" alt="Shakti Acupressure Mat and pillow set in natural linen colour for back pain and sciatica relief" width="400" height="200" loading="lazy" />
-    <div class="product-card-info">
-      <span class="badge">⭐ Editor's Pick</span>
-      <h4>Shakti Acupressure Mat & Pillow Set</h4>
-      <p><strong>Best for:</strong> Daily acupressure sessions targeting both lumbar spine and neck</p>
-      <p><strong>Why it works:</strong> 8,820 stimulation points on the mat plus 2,006 on the pillow. The pillow targets the L4-L5 region when placed under the lumbar curve — precisely where most disc-related sciatica originates. Made from natural cotton and non-toxic plastic spikes. The density is calibrated to produce de qi-like sensation without skin damage.</p>
-      <p><strong>Sessions needed:</strong> Results typically within 7–10 days of daily 20-minute sessions</p>
-      <p><strong>Price:</strong> $60–$80</p>
-      <a href="https://www.amazon.com/s?k=Shakti+Acupressure+Mat+sciatica&tag=theforge05-20" class="amazon-btn" target="_blank" rel="noopener">Check Price on Amazon →</a>
-    </div>
-  </div>
-  <div class="product-card">
-    <img src="/images/articles/acupuncture-for-sciatica-prosource-mat.jpg" alt="ProsourceFit Acupressure Mat and pillow set in teal with thousands of stimulation points" width="400" height="200" loading="lazy" />
-    <div class="product-card-info">
-      <h4>ProsourceFit Acupressure Mat & Pillow Set</h4>
-      <p><strong>Best for:</strong> Budget-conscious buyers wanting a full-size mat with pillow</p>
-      <p><strong>Why it works:</strong> 6,210 stimulation points cover the full length of the spine and gluteal region. The mat dimensions (26" x 16") allow positioning for both lumbar and gluteal targeting in a single session. ABS plastic spikes are durable and maintain consistent point pressure over extended use.</p>
-      <p><strong>Sessions needed:</strong> Similar to Shakti — 7–14 days of consistent use</p>
-      <p><strong>Price:</strong> $25–$40</p>
-      <a href="https://www.amazon.com/s?k=ProsourceFit+Acupressure+Mat+Pillow+sciatica&tag=theforge05-20" class="amazon-btn" target="_blank" rel="noopener">Check Price on Amazon →</a>
-    </div>
-  </div>
-  <div class="product-card">
-    <img src="/images/articles/acupuncture-for-sciatica-nayoya-mat.jpg" alt="Nayoya Wellness Acupressure Mat for back pain and sciatica with carrying bag" width="400" height="200" loading="lazy" />
-    <div class="product-card-info">
-      <h4>Nayoya Wellness Acupressure Mat</h4>
-      <p><strong>Best for:</strong> Targeted gluteal and lower back use; compact form factor</p>
-      <p><strong>Why it works:</strong> The Nayoya mat has a higher spike density than many competitors (8,820 points in a smaller surface area), which provides more intense stimulation per square inch. This higher intensity makes it particularly effective for the gluteal positioning that targets GB 30 — the primary sciatic point. Comes with a carry bag for portability.</p>
-      <p><strong>Price:</strong> $30–$50</p>
-      <a href="https://www.amazon.com/s?k=Nayoya+Wellness+Acupressure+Mat+back+pain&tag=theforge05-20" class="amazon-btn" target="_blank" rel="noopener">Check Price on Amazon →</a>
-    </div>
-  </div>
-  <div class="product-card">
-    <img src="/images/articles/acupuncture-for-sciatica-comfytemp-pad.jpg" alt="Comfytemp Electric Heating Pad large size for lower back sciatica pain relief with auto shutoff" width="400" height="200" loading="lazy" />
-    <div class="product-card-info">
-      <h4>Comfytemp Electric Heating Pad (Large)</h4>
-      <p><strong>Best for:</strong> Heat therapy between acupressure sessions; muscle relaxation</p>
-      <p><strong>Why it works:</strong> Heat applied before acupressure sessions increases tissue pliability and blood flow, amplifying the acupressure effect. The Comfytemp's large 12" x 24" pad covers the entire lumbar-sacral region — exactly the area where most sciatic nerve compression occurs. Moist heat setting penetrates 2–3cm deeper than dry heat, reaching the piriformis and paraspinal muscles.</p>
-      <p><strong>Features:</strong> 9 temperature settings, 4 timer options, auto-shutoff, machine washable</p>
-      <p><strong>Price:</strong> $30–$45</p>
-      <a href="https://www.amazon.com/s?k=Comfytemp+Electric+Heating+Pad+large+back&tag=theforge05-20" class="amazon-btn" target="_blank" rel="noopener">Check Price on Amazon →</a>
-    </div>
-  </div>
-  <div class="product-card">
-    <img src="/images/articles/acupuncture-for-sciatica-theragun-mini.jpg" alt="Theragun Mini percussive therapy device for muscle tension and sciatica pain relief" width="400" height="200" loading="lazy" />
-    <div class="product-card-info">
-      <h4>Theragun Mini Percussive Therapy Device</h4>
-      <p><strong>Best for:</strong> Piriformis and gluteal muscle release; post-acupressure recovery</p>
-      <p><strong>Why it works:</strong> Percussive therapy at 40 Hz directly activates the same mechanoreceptors stimulated by acupuncture needles — producing gate-control analgesia and muscle relaxation via neurological pathways rather than simple vibration. The Theragun Mini's compact size and angled arm allow you to reach the piriformis muscle in the deep gluteal region without assistance. Use on the GB 30 area for 60–90 seconds per side.</p>
-      <p><strong>Features:</strong> 3 speeds (1,750/2,100/2,400 PPM), 150-minute battery, quiet motor, pocket-sized</p>
-      <p><strong>Price:</strong> $149–$179</p>
-      <a href="https://www.amazon.com/s?k=Theragun+Mini+percussive+therapy&tag=theforge05-20" class="amazon-btn" target="_blank" rel="noopener">Check Price on Amazon →</a>
-    </div>
-  </div>
-</div>
+
 
 ---
 
@@ -337,7 +250,7 @@ These products complement or extend the benefits of acupuncture for sciatic nerv
 
 Acupuncture works best as part of a multimodal treatment strategy. Here is how to integrate it with other evidence-based approaches.
 
-<video src="/videos/acupuncture-for-sciatica-demo.mp4" controls muted playsinline poster="/images/articles/acupuncture-for-sciatica-hero.jpg" width="100%" style="border-radius:8px;margin:1.5rem 0;" autoplay>
+<video class="w-full rounded-lg my-6" preload="metadata" controls src="/videos/acupuncture-for-sciatica-demo.mp4" controls muted poster="/images/articles/acupuncture-for-sciatica-hero.jpg" width="100%" style="border-radius:8px;margin:1.5rem 0;">
   Your browser does not support the video element.
 </video>
 
@@ -425,4 +338,4 @@ Acupuncture is very safe when performed by a licensed practitioner. Minor side e
 
 ---
 
-*Dr. Sarah Mitchell is a certified ergonomics consultant and health writer with over 12 years of experience in musculoskeletal pain management and workplace wellness. She reviews all Sciatica Spot content for clinical accuracy and practical applicability.*
+> **Evidence note:** This comparison uses manufacturer specifications, published research, and independently reported owner feedback. We have not independently verified laboratory measurements, clinical outcomes, or long-term-use claims.

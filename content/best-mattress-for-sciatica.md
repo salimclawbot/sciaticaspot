@@ -4,12 +4,10 @@ slug: "best-mattress-for-sciatica"
 meta_description: "Find the best mattress for sciatica pain relief. Expert tips on firmness, side sleeping, spinal alignment, and top-rated picks to reduce nerve pain."
 datePublished: "2026-03-15"
 dateModified: "2026-03-15"
-author: "Dr. Michael Torres"
-faq_schema: "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"Article\",\n  \"headline\": \"Best Mattress for Sciatica Pain: Expert Sleep Guide (2026)\",\n  \"description\": \"Expert-reviewed guide to the 7 best mattresses for sciatica pain relief in 2026, including firmness recommendations, sleeping position tips, and a comparison table.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Dr. Michael Torres\",\n    \"jobTitle\": \"Physiotherapist\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"SciaticaSpot\",\n    \"url\": \"https://sciaticaspot.com\"\n  },\n  \"datePublished\": \"2026-03-16\",\n  \"dateModified\": \"2026-03-16\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://sciaticaspot.com/best-mattress-for-sciatica\"\n  },\n  \"image\": \"https://sciaticaspot.com/images/best-mattress-for-sciatica.jpg\",\n  \"keywords\": [\"best mattress for sciatica\", \"sciatica mattress\", \"mattress for back pain\", \"medium-firm mattress sciatica\", \"sleeping with sciatica\"]\n}\n```\n\n```json\n{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"FAQPage\",\n  \"mainEntity\": [\n    {\n      \"@type\": \"Question\",\n      \"name\": \"What firmness is best for sciatica?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"A medium-firm mattress, rated approximately 6 to 7 on a 10-point firmness scale, is best for most sciatica sufferers. Clinical research, including a landmark study in The Lancet, found that medium-firm mattresses reduced pain and disability in chronic back pain patients compared to firm mattresses.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Can a bad mattress cause sciatica?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"A mattress alone is unlikely to cause sciatica, but it can significantly worsen existing symptoms or contribute to the spinal misalignment that triggers sciatic nerve compression. Replacing an unsupportive mattress is one of the most impactful non-surgical interventions for sciatica management.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Is memory foam or innerspring better for sciatica?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Both can work well for sciatica, but hybrid mattresses that combine memory foam comfort layers with an innerspring or pocketed coil support core tend to offer the best of both worlds. The foam conforms to body curves for pressure relief, while the coils provide responsive support for spinal alignment.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"How long does it take to adjust to a new mattress with sciatica?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Most physiotherapists recommend allowing 30 to 60 days for your body to fully adjust to a new mattress. During the first 1-2 weeks, you may experience increased stiffness or mild discomfort as your muscles adapt to the new support profile. Choose a mattress with at least a 100-night trial period.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Should I sleep on the floor if I have sciatica?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Sleeping on the floor is generally not recommended for sciatica. While a firm surface prevents the pelvis from sinking, it does not provide any pressure relief for the hips and shoulders, leading to muscle tension and restricted blood flow that can worsen sciatic nerve irritation. A medium-firm mattress is the better choice.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"What sleeping position is worst for sciatica?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Stomach sleeping is the worst position for sciatica. It forces the lumbar spine into hyperextension, increasing pressure on the intervertebral discs and nerve roots. Side sleeping with a pillow between the knees is the best position for most sciatica patients.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"How often should I replace my mattress if I have sciatica?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Replace your mattress every 6 to 8 years, or sooner if you notice visible sagging, loss of support, or a return of sciatica symptoms that had previously improved. Mattresses lose their supportive properties over time as foam compresses and coils weaken.\"\n      }\n    }\n  ]\n}"
-article_schema: null
+author: "Sciatica Spot Editorial Team"
 ---
 
-**By Dr. Michael Torres, Physiotherapist** | Last updated: March 2026
+By Sciatica Spot Editorial Team
 
 If you suffer from sciatica, your mattress could be making the pain worse — or better. A mattress that properly supports spinal alignment, cushions pressure points, and distributes body weight evenly can dramatically reduce sciatic nerve irritation during sleep. In this guide, we break down how mattress construction affects sciatica, rank the 7 best mattresses for sciatica relief in 2026, and share sleeping position strategies so you can finally wake up without that radiating leg pain.
 
@@ -19,7 +17,7 @@ If you suffer from sciatica, your mattress could be making the pain worse — or
 
 ## Table of Contents
 
-<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;margin:2rem 0"><iframe src="https://www.youtube-nocookie.com/embed/5sTDeFyAOZI?rel=0" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0" loading="lazy" allowfullscreen title="Sciatica Pain Relief Exercises - Physical Therapy"></iframe></div>
+<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;margin:2rem 0"><p><strong>Video content moved here to keep the site YouTube-free.</strong> <span class="video-removed"><strong>Video content moved here to keep the site YouTube-free.</strong> Watch this content on our media page</span></p></div>
 
 
 1. [How Your Mattress Affects Sciatica Pain](#how-your-mattress-affects-sciatica-pain)
@@ -113,7 +111,7 @@ Available in three firmness levels — Plush Soft (3), Luxury Firm (6), and Firm
 - Higher price point than many online brands
 - Not compressed/shipped in a box
 
-**[Check Price on Amazon](#)**
+**[Retail availability varies](#)**
 
 ---
 
@@ -134,7 +132,7 @@ What sets the Purple Hybrid apart for sciatica patients is its temperature neutr
 - Heavier than all-foam competitors
 - Premium pricing
 
-**[Check Price on Amazon](#)**
+**[Retail availability varies](#)**
 
 ---
 
@@ -155,7 +153,7 @@ The AirScape perforated foam top layer promotes cooling, while the gel pods posi
 - May feel too soft for strict back sleepers over 230 lbs
 - 100-night trial (shorter than some competitors)
 
-**[Check Price on Amazon](#)**
+**[Retail availability varies](#)**
 
 ---
 
@@ -176,7 +174,7 @@ The pocketed coil base enhances breathability and provides responsive support, w
 - Cooling cover upgrade adds cost
 - Pillow top may compress over time
 
-**[Check Price on Amazon](#)**
+**[Retail availability varies](#)**
 
 ---
 
@@ -197,7 +195,7 @@ The mattress uses copper-infused memory foam for pressure relief and antimicrobi
 - Less well-known brand than some competitors
 - Mid-to-premium pricing
 
-**[Check Price on Amazon](#)**
+**[Retail availability varies](#)**
 
 ![Person side sleeping on the Bear Elite Hybrid mattress with sciatica support callouts](/images/bear-elite-hybrid-sciatica.jpg)
 
@@ -221,7 +219,7 @@ Available in Soft, Medium, Medium Hybrid, and Firm versions, the Medium Hybrid (
 - Slower response time makes repositioning harder
 - 90-night trial (shortest on this list)
 
-**[Check Price on Amazon](#)**
+**[Retail availability varies](#)**
 
 ---
 
@@ -243,7 +241,7 @@ The Nectar Premier does not have the zoned lumbar support or advanced coil syste
 - Edge support is weaker than coil-based competitors
 - May not support sleepers over 230 lbs adequately
 
-**[Check Price on Amazon](#)**
+**[Retail availability varies](#)**
 
 ![Budget versus premium mattress comparison graphic for sciatica shoppers](/images/budget-vs-premium-mattress-sciatica.jpg)
 
@@ -310,7 +308,7 @@ A good mattress is the foundation, but the rest of your sleep setup matters too.
 
 **Pre-sleep stretching.** A brief 5–10 minute routine of gentle stretches targeting the piriformis, hamstrings, and hip flexors can reduce muscle tension around the sciatic nerve before bed. Pair this with a supportive mattress and proper sleep positioning for the best results. Our guide to [sciatica exercises](/sciatica-exercises) includes a dedicated nighttime stretching routine.
 
-**Daytime posture.** What you do during the day affects your pain at night. If you sit for long periods, invest in a quality [seat cushion](https://www.amazon.com/s?k=seat+cushion+for+sciatica&tag=theforge05-20) that promotes neutral pelvic alignment. Our review of the [best seat cushions for sciatica in 2026](/best-seat-cushions-for-sciatica-2026) covers options that complement your sleep setup.
+**Daytime posture.** What you do during the day affects your pain at night. If you sit for long periods, invest in a quality seat cushion that promotes neutral pelvic alignment. Our review of the [best seat cushions for sciatica in 2026](/best-seat-cushions-for-sciatica-2026) covers options that complement your sleep setup.
 
 ---
 

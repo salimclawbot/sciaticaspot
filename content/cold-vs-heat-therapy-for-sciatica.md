@@ -4,14 +4,12 @@ description: "Discover whether cold or heat therapy works better for sciatica pa
 slug: "cold-vs-heat-therapy-for-sciatica"
 publishedAt: "2026-04-22"
 dateModified: "2026-04-22"
-author: "Dr. James M. Goldberg, MD"
+author: "Sciatica Spot Editorial Team"
 category: "Sciatica Treatment"
 image: "/images/articles/cold-vs-heat-therapy-for-sciatica-hero.jpg"
 site_id: "sciaticaspot"
 target_domain: "sciaticaspot.com"
 primary_topic: "Sciatica Treatment"
-faq_schema: '[{"@type":"Question","name":"Does heat or cold work better for sciatica pain?","acceptedAnswer":{"@type":"Answer","text":"It depends on the cause and phase of your sciatica. Cold therapy reduces inflammation and numbs sharp nerve pain, while heat therapy relaxes tight muscles and improves blood flow. Many people find alternating both to be most effective."}},{"@type":"Question","name":"How long should you apply cold therapy for sciatica?","acceptedAnswer":{"@type":"Answer","text":"Apply cold therapy for 15-20 minutes per session, 3-4 times daily. Always use a barrier like a thin towel between the ice pack and your skin to prevent ice burn."}},{"@type":"Question","name":"When should you avoid heat therapy for sciatica?","acceptedAnswer":{"@type":"Answer","text":"Avoid heat therapy during the acute inflammatory phase (first 48-72 hours after a new injury), if you have swelling, open wounds, or circulatory conditions. Heat can worsen inflammation when applied too early."}},{"@type":"Question","name":"Can you alternate cold and heat therapy for sciatica?","acceptedAnswer":{"@type":"Answer","text":"Yes. Many physical therapists recommend contrast therapy — alternating cold and heat. Typically 20 minutes cold, then 20 minutes heat, repeating 2-3 cycles. This pumps blood in and out of the area, reducing swelling while relaxing muscles."}},{"@type":"Question","name":"Is heat or cold better for herniated disc sciatica?","acceptedAnswer":{"@type":"Answer","text":"For herniated disc sciatica, cold therapy is generally recommended first during acute pain flare-ups to reduce disc inflammation. After 48-72 hours, heat can help ease muscle tension around the affected disc. Always consult your doctor for a personalised plan."}}]'
-article_schema: '{"@context":"https://schema.org","@type":"Article","headline":"Cold vs Heat Therapy for Sciatica: Which Works Better?","author":{"@type":"Person","name":"Dr. James M. Goldberg, MD","url":"https://sciaticaspot.com"},"publisher":{"@type":"Organization","name":"SciaticaSpot","url":"https://sciaticaspot.com"},"datePublished":"2026-04-22","dateModified":"2026-04-22","mainEntityOfPage":{"@type":"WebPage","@id":"https://sciaticaspot.com/cold-vs-heat-therapy-for-sciatica"},"image":{"@type":"ImageObject","url":"/images/articles/cold-vs-heat-therapy-for-sciatica-hero.jpg"}}'
 ---
 
 # Cold vs Heat Therapy for Sciatica: Which Works Better?
@@ -176,12 +174,7 @@ If you are looking for a proper ice pack product, see our recommendation in the 
 
 Heat is generally simpler to apply safely than cold, but there are important considerations.
 
-**What to use:**
-- Microwave heating pad (check temperature before applying)
-- Electric heating pad with automatic shut-off timer
-- Warm damp towel (reheated every 5 minutes)
-- Warm bath or shower (42 degrees C / 108 degrees F maximum)
-- Commercial heat wrap designed for lower back ([Amazon US](https://www.amazon.com) | [Amazon AU](https://www.amazon.com.au) — search "lower back heat wrap")
+
 
 **Application protocol:**
 1. Test the temperature on the inside of your wrist — it should feel comfortably warm, not hot
@@ -282,7 +275,7 @@ Heat before gentle stretching or exercise is generally beneficial, as it increas
 
 ---
 
-*Dr. James M. Goldberg, MD is a board-certified physiatrist specialising in non-operative musculoskeletal medicine, spine rehabilitation, and interventional pain management. He has over 15 years of experience treating patients with sciatica and lower back disorders using evidence-based conservative management protocols.*
+> **Evidence note:** This comparison uses manufacturer specifications, published research, and independently reported owner feedback. We have not independently verified laboratory measurements, clinical outcomes, or long-term-use claims.
 
 *Last updated: April 2026*
 

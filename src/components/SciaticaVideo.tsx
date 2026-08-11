@@ -3,7 +3,7 @@ import { useEffect, useMemo, useState } from "react";
 const LOOP=30,SLIDE=5;
 const SETS:Record<string,{title:string;subtitle:string;icon:string;bg:string}[]>={
   exercises:[
-    {title:"6 Physiotherapist-Approved Sciatica Exercises",subtitle:"Evidence-based movements to relieve sciatic nerve pain fast",icon:"🦵",bg:"from-blue-700 via-blue-500 to-cyan-400"},
+    {title:"6 research-informed Sciatica Exercises",subtitle:"Evidence-based movements to relieve sciatic nerve pain fast",icon:"🦵",bg:"from-blue-700 via-blue-500 to-cyan-400"},
     {title:"#1 Piriformis Stretch — 60 seconds each side",subtitle:"Directly targets the muscle compressing your sciatic nerve",icon:"🧘",bg:"from-blue-600 via-sky-500 to-cyan-400"},
     {title:"#2 Knee to Chest — Hold 30 seconds",subtitle:"Releases lumbar compression and calms the nerve root",icon:"🙏",bg:"from-indigo-600 via-blue-500 to-sky-400"},
     {title:"#3 Cat-Cow Stretch — 10 reps daily",subtitle:"Mobilises the spine and reduces disc pressure on L4-S1",icon:"🐱",bg:"from-teal-600 via-cyan-500 to-blue-400"},
@@ -24,7 +24,7 @@ const SETS:Record<string,{title:string;subtitle:string;icon:string;bg:string}[]>
     {title:"#2 Gel Cushion — Score 89/100",subtitle:"Distributes weight evenly. Stays cool. Best for long sitting.",icon:"💙",bg:"from-cyan-600 via-teal-500 to-blue-400"},
     {title:"#3 Wedge Cushion — Score 84/100",subtitle:"Tilts pelvis forward to decompress L4-S1 naturally",icon:"📐",bg:"from-indigo-600 via-blue-500 to-sky-400"},
     {title:"Key buying factor: coccyx cutout",subtitle:"Without the cutout, cushions can worsen nerve compression",icon:"⚠️",bg:"from-amber-600 via-orange-500 to-red-400"},
-    {title:"Full ranked list and buying guide below",subtitle:"Includes Amazon links, price comparison and user reviews",icon:"✅",bg:"from-blue-800 via-blue-600 to-slate-700"},
+    {title:"Full ranked list and buying guide below",subtitle:"Includes specification comparisons and independent owner feedback",icon:"✅",bg:"from-blue-800 via-blue-600 to-slate-700"},
   ],
 };
 export default function SciaticaVideo({variant}:{variant:"exercises"|"piriformis"|"cushions"}){

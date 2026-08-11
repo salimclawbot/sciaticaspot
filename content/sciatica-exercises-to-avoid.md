@@ -3,10 +3,8 @@ title: "Sciatica Exercises to Avoid: What Makes It Worse"
 description: "Learn which exercises make sciatica worse and what to do instead. Avoid toe touches, sit-ups, leg lifts, and heavy squats — safe alternatives included."
 slug: sciatica-exercises-to-avoid
 publishedAt: '2026-03-18'
-author: "Dr. James Harrington, Physical Therapist DPT"
+author: "Sciatica Spot Editorial Team"
 image: '/images/sciatica-exercises-to-avoid-hero.jpg'
-article_schema: '{"@context":"https://schema.org","@type":"Article","headline":"Sciatica Exercises to Avoid: What Makes It Worse","description":"Learn which exercises make sciatica worse and what to do instead. Avoid toe touches, sit-ups, leg lifts, and heavy squats \u2014 safe alternatives included.","author":{"@type":"Person","name":"Dr. James Harrington"},"publisher":{"@type":"Organization","name":"Sciatica Spot","url":"https://sciaticaspot.com"},"datePublished":"2026-03-18","dateModified":"2026-03-18","mainEntityOfPage":{"@type":"WebPage","@id":"https://sciaticaspot.com/sciatica-exercises-to-avoid"},"image":"https://sciaticaspot.com/og-image.jpg"}'
-faq_schema: '{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Why Some Exercises Make Sciatica Worse","acceptedAnswer":{"@type":"Answer","text":"See the full guide on https://sciaticaspot.com/sciatica-exercises-to-avoid for comprehensive information about why some exercises make sciatica worse."}},{"@type":"Question","name":"Understanding the Sciatic Nerve","acceptedAnswer":{"@type":"Answer","text":"See the full guide on https://sciaticaspot.com/sciatica-exercises-to-avoid for comprehensive information about understanding the sciatic nerve."}},{"@type":"Question","name":"The 10 Worst Exercises for Sciatica","acceptedAnswer":{"@type":"Answer","text":"See the full guide on https://sciaticaspot.com/sciatica-exercises-to-avoid for comprehensive information about the 10 worst exercises for sciatica."}},{"@type":"Question","name":"Exercises to Avoid vs Safe Alternatives Table","acceptedAnswer":{"@type":"Answer","text":"See the full guide on https://sciaticaspot.com/sciatica-exercises-to-avoid for comprehensive information about exercises to avoid vs safe alternatives table."}},{"@type":"Question","name":"What to Do Instead: Safe Exercises for Sciatica","acceptedAnswer":{"@type":"Answer","text":"See the full guide on https://sciaticaspot.com/sciatica-exercises-to-avoid for comprehensive information about what to do instead: safe exercises for sciatica."}},{"@type":"Question","name":"How to Modify Your Workout With Sciatica","acceptedAnswer":{"@type":"Answer","text":"See the full guide on https://sciaticaspot.com/sciatica-exercises-to-avoid for comprehensive information about how to modify your workout with sciatica."}}]}'
 ---
 
 # Sciatica Exercises to Avoid: What Makes It Worse
@@ -17,14 +15,14 @@ faq_schema: '{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"
 
 **If you have sciatica, certain exercises can make your pain significantly worse. Standing toe touches, traditional sit-ups, double leg lifts, and heavy barbell squats compress the sciatic nerve or increase disc pressure, turning a manageable flare into weeks of agony. Knowing which movements to avoid is just as important as knowing what helps.**
 
-*By Dr. James Harrington, Physical Therapist DPT · Last updated March 18, 2026*
+By Sciatica Spot Editorial Team
 
 ---
 
 ## Table of Contents
 
 
-<video autoplay muted loop playsinline poster="/images/sciatica-exercises-to-avoid/hero.jpg" style="width:100%;border-radius:8px;margin:1.5rem 0;">
+<video class="w-full rounded-lg my-6" preload="metadata" controls muted poster="/images/sciatica-exercises-to-avoid/hero.jpg" style="width:100%;border-radius:8px;margin:1.5rem 0;">
   <source src="/videos/sciatica-exercises-to-avoid-demo.mp4" type="video/mp4">
 </video>
 
@@ -262,19 +260,19 @@ A medium-density foam roller helps release tension in the piriformis and gluteal
 
 Avoid rolling directly on the lower back — this can worsen disc-related symptoms.
 
-**Recommended:** [Amazon Basics High-Density Round Foam Roller](https://www.amazon.com/dp/B0711XG5H9?tag=theforge05-20) — Firm enough for deep tissue work without being punishing, available in multiple lengths.
+
 
 ### Sciatica Cushion for Seated Work
 
 If your job requires prolonged sitting, a coccyx/sciatica cushion with a U-shaped cutout reduces pressure on the sciatic nerve and tailbone. This is particularly important during acute flares when sitting is most painful.
 
-**Recommended:** [Everlasting Comfort Seat Cushion](https://www.amazon.com/dp/B07GR5DKXH?tag=theforge05-20) — Memory foam with a ventilated design that keeps pressure off the sciatic nerve and coccyx during long sitting sessions.
+**Recommended:** Everlasting Comfort Seat Cushion — Memory foam with a ventilated design that keeps pressure off the sciatic nerve and coccyx during long sitting sessions.
 
 ### Heating Pad for Pre-Exercise Warm-Up
 
 Applying heat for 15-20 minutes before exercise increases blood flow to the affected area, relaxes tight muscles, and can reduce nerve irritation. A heating pad is particularly helpful before McKenzie extensions and glute bridges.
 
-**Recommended:** [Sunbeam King Size Heating Pad](https://www.amazon.com/dp/B09BN1LWRR?tag=theforge05-20) — Large enough to cover the entire lower back and hip area, with multiple heat settings and auto-shutoff.
+**Recommended:** Sunbeam King Size Heating Pad — Large enough to cover the entire lower back and hip area, with multiple heat settings and auto-shutoff.
 
 ![Flat lay product photo arrangement showing three sciatica recovery tools on a light wood surface: a ](/images/sciatica-exercises-to-avoid/sciatic-nerve-anatomy.jpg)
 
@@ -312,7 +310,7 @@ The good news: approximately 90% of sciatica cases resolve without surgery withi
 ---
 
 
-> **See also:** [cushioned seating to reduce sciatica pressure](https://coccyxrelief.com/best-coccyx-cushion-long-flights)
+> **See also:** cushioned seating to reduce sciatica pressure
 
 
 ## Frequently Asked Questions
@@ -409,7 +407,7 @@ Running on hard surfaces creates repetitive impact loading through the spine tha
   "image": "/images/sciatica-exercises-to-avoid-hero.jpg",
   "author": {
     "@type": "Person",
-    "name": "Dr. James Harrington",
+    "name": "Sciatica Spot Editorial Team",
     "jobTitle": "Physical Therapist DPT"
   },
   "publisher": {

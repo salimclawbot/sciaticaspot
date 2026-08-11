@@ -4,14 +4,12 @@ description: "Wondering if you need sciatica surgery? Our 2026 guide covers ever
 slug: sciatica-surgery-when-is-it-necessary
 publishedAt: "2026-04-23"
 dateModified: "2026-04-23"
-author: "Dr. James O''Brien, FRCS(Orth), Consultant Spinal Surgeon"
+author: "Sciatica Spot Editorial Team"
 site_id: sciatica-site
 target_domain: sciaticaspot.com
 primary_topic: "sciatica pain relief"
 category: "Sciatica Treatment"
 meta_description: "Is sciatica surgery necessary? This 2026 guide covers all surgical options, recovery timelines, success rates, and how to know when surgery is truly warranted."
-faq_schema: '[{"@type":"Question","name":"When is sciatica surgery actually necessary?","acceptedAnswer":{"@type":"Answer","text":"Sciatica surgery is considered necessary when conservative treatments have failed after 6-12 weeks and the patient has severe, disabling pain, progressive muscle weakness, or cauda equina syndrome. The most common reason for surgery is a herniated disc that is compressing a nerve root."}},{"@type":"Question","name":"What are the different types of sciatica surgery?","acceptedAnswer":{"@type":"Answer","text":"The main surgical options for sciatica include microdiscectomy (removing the herniated disc fragment through a small incision), laminectomy (removing part of the vertebra to create more space for nerves), and spinal fusion (permanently joining two or more vertebrae). Minimally invasive versions of these procedures are now standard at most specialist centres."}},{"@type":"Question","name":"How long does it take to recover from sciatica surgery?","acceptedAnswer":{"@type":"Answer","text":"Recovery depends on the type of surgery. After a microdiscectomy, most patients return to light activity within 1-2 weeks and full activity within 4-6 weeks. After a spinal fusion, full recovery can take 6 months to a year. Your surgeon will give you a personalised rehabilitation plan."}},{"@type":"Question","name":"What is the success rate of sciatica surgery?","acceptedAnswer":{"@type":"Answer","text":"Microdiscectomy has a success rate of approximately 85-95% for leg pain relief in properly selected patients. Laminectomy success rates range from 75-90% depending on the underlying cause. Spinal fusion is successful in approximately 70-80% of cases for appropriate indications."}},{"@type":"Question","name":"Can sciatica be treated without surgery?","acceptedAnswer":{"@type":"Answer","text":"Yes. The vast majority of sciatica cases — up to 90% — resolve without surgery within 3 months through conservative treatment. Physical therapy, targeted exercises, anti-inflammatory medication, corticosteroid injections, and lifestyle modifications are all effective first-line approaches."}},{"@type":"Question","name":"What are the risks of sciatica surgery?","acceptedAnswer":{"@type":"Answer","text":"Risks vary by procedure but include infection, nerve damage, bleeding, dural tear (spinal fluid leak), failed back surgery syndrome, blood clots, and implant-related complications in fusion surgery. Major complications occur in approximately 1-4% of cases at specialist centres."}},{"@type":"Question","name":"What is a microdiscectomy and is it right for me?","acceptedAnswer":{"@type":"Answer","text":"A microdiscectomy is a minimally invasive procedure where a surgeon removes the herniated disc fragment pressing on the nerve root. It is the most common surgery for sciatica caused by a herniated disc. It is typically recommended when leg pain (radiculopathy) is more severe than back pain, neurological deficit is present, or pain has not improved after 6-12 weeks of conservative care."}}]'
-article_schema: '{"@context":"https://schema.org","@type":"Article","headline":"Sciatica Surgery: When Is It Actually Necessary? (2026)","description":"Comprehensive guide covering all surgical options for sciatica, recovery timelines, success rates, and when surgery is truly warranted.","author":{"@type":"Person","name":"Dr. James O''Brien","jobTitle":"FRCS(Orth) Consultant Spinal Surgeon"},"publisher":{"@type":"Organization","name":"SciaticaSpot","url":"https://sciaticaspot.com"},"datePublished":"2026-04-23","dateModified":"2026-04-23","mainEntityOfPage":{"@type":"WebPage","@id":"https://sciaticaspot.com/sciatica-surgery-when-is-it-necessary"},"image":"https://sciaticaspot.com/images/articles/sciatica-surgery-hero.jpg","articleSection":"Medical Content","keywords":["sciatica surgery","when is sciatica surgery necessary","microdiscectomy","laminectomy","spinal fusion sciatica","sciatica treatment 2026"],"wordCount":3500}'
 ---
 
 # Sciatica Surgery: When Is It Actually Necessary?
@@ -39,7 +37,7 @@ article_schema: '{"@context":"https://schema.org","@type":"Article","headline":"
 
 Sciatica is not a diagnosis — it is a symptom of an underlying problem, most commonly a herniated disc in the lumbar spine, spinal stenosis, or a bone spur pressing on the sciatic nerve. The sciatic nerve runs from the lower back through the buttocks and down each leg, and when it is compressed, the result can be sharp, burning pain that shoots from the lower back through the leg, numbness, tingling, and muscle weakness.
 
-![Anatomy of the sciatic nerve showing compression points in the lumbar spine](https://sciaticaspot.com/images/articles/sciatica-nerve-anatomy.jpg)
+!Anatomy of the sciatic nerve showing compression points in the lumbar spine
 
 The critical question is not "should I treat my sciatica?" — you should always seek appropriate care — but specifically whether surgical treatment is the right next step. According to the American Academy of Orthopaedic Surgeons (AAOS), more than 90% of patients with sciatica caused by a herniated disc will improve within three months without surgery. This means surgery is reserved for a specific group.
 
@@ -52,7 +50,7 @@ Some symptoms suggest that nerve compression is severe or progressing, and these
 - **Pain that has not improved after 6-12 weeks** of structured conservative treatment — this is the most common threshold for surgical referral in clinical guidelines.
 - **Severe, disabling pain** that prevents you from working, sleeping, or performing basic daily activities despite appropriate treatment.
 
-![MRI scan showing herniated disc compressing nerve root](https://sciaticaspot.com/images/articles/sciatica-mri-herniated-disc.jpg)
+!MRI scan showing herniated disc compressing nerve root
 
 It is worth noting that an MRI finding alone — such as a disc herniation or bulge visible on a scan — is not sufficient justification for surgery. The imaging findings must be correlated with your clinical symptoms. Many people have disc abnormalities visible on MRI with no pain whatsoever, and these incidental findings should not drive surgical decisions.
 
@@ -79,7 +77,7 @@ Microdiscectomy is most effective when:
 
 A laminectomy involves removing a portion of the vertebra called the lamina — the back part of the bone that covers the spinal canal — to create more space for nerves. It is the primary surgical treatment for **lumbar spinal stenosis**, a narrowing of the spinal canal that commonly occurs with age and can compress the sciatic nerve.
 
-![Surgical illustration of laminectomy procedure](https://sciaticaspot.com/images/articles/laminectomy-procedure-illustration.jpg)
+!Surgical illustration of laminectomy procedure
 
 In some cases, a **laminotomy** is performed instead — this is a smaller, more targeted removal of just the portion of the lamina pressing on the nerve. For stenosis affecting multiple levels, a **decompression laminoplasty** may be used to create more space without destabilising the spine.
 
@@ -124,7 +122,7 @@ Understanding the surgical process can significantly reduce anxiety for those fa
 
 You will undergo a pre-operative assessment including blood tests, an ECG (heart trace), and confirmation that your MRI findings correlate with your symptoms. You will be advised to stop certain medications (particularly blood thinners such as warfarin or aspirin) in the days before surgery. Fasting instructions will be provided — you must not eat or drink in the hours before your operation.
 
-![Pre-operative assessment consultation with spinal surgeon](https://sciaticaspot.com/images/articles/sciatica-pre-op-consultation.jpg)
+!Pre-operative assessment consultation with spinal surgeon
 
 Most spinal surgery is performed under general anaesthetic, meaning you will be fully asleep throughout the procedure. Your anaesthetist will discuss pain management options for after the operation.
 
@@ -162,7 +160,7 @@ Most patients go home within 24 hours of a microdiscectomy. During this phase:
 - You may feel a sensation change in your leg — this is normal as the nerve recovers
 - Light activities such as showering, dressing, and short walks are permitted
 
-![Post-surgery recovery: patient walking with support during first week](https://sciaticaspot.com/images/articles/sciatica-post-surgery-walking.jpg)
+!Post-surgery recovery: patient walking with support during first week
 
 ### Weeks 2-6: Early Recovery Phase
 
@@ -177,7 +175,7 @@ You should be able to return to desk-based work during this phase, though you ma
 
 ### Months 2-6: Rebuilding Strength and Function
 
-For microdiscectomy patients, most of the recovery happens within the first three months. By this stage, you should be:
+> **Evidence note:** This comparison uses manufacturer specifications, published research, and independently reported owner feedback. We have not independently verified laboratory measurements, clinical outcomes, or long-term-use claims.
 
 - Back to normal daily activities including driving
 - Engaging in a structured physiotherapy programme
@@ -216,7 +214,7 @@ A structured physical therapy programme is the cornerstone of sciatica treatment
 
 Research published in the *Journal of Orthopaedic & Sports Physical Therapy* (2018) found that a targeted exercise programme reduced sciatica pain by 50-75% in the majority of participants within eight weeks.
 
-![Physiotherapist demonstrating nerve gliding exercises for sciatica](https://sciaticaspot.com/images/articles/sciatica-nerve-gliding-exercises.jpg)
+!Physiotherapist demonstrating nerve gliding exercises for sciatica
 
 ### Epidural Corticosteroid Injections
 
@@ -267,7 +265,7 @@ No surgery is without risk, and being fully informed is part of making the right
 - **Dural tear** — a tear in the dura (the membrane covering the spinal cord and nerve roots) causes a spinal fluid leak. This occurs in approximately 1-5% of spinal surgeries. Most dural tears are repaired during the operation without long-term consequences, but occasionally a second repair is needed.
 - **Failed back surgery syndrome (FBSS)** — this umbrella term describes persistent or recurrent pain after spinal surgery. FBSS occurs in approximately 10-20% of spinal surgery patients and is more common after fusion surgery. The risk can be reduced by careful patient selection and ensuring surgery addresses the correct source of pain.
 
-![Diagram showing potential surgical complications to discuss with your surgeon](https://sciaticaspot.com/images/articles/sciatica-surgery-risks-infographic.jpg)
+!Diagram showing potential surgical complications to discuss with your surgeon
 
 ### Procedure-Specific Risks
 
@@ -292,10 +290,7 @@ If your pain is manageable enough that you can work, sleep, and engage in essent
 
 Before any surgical decision, ensure you have:
 
-- **A recent MRI** (within 6-12 months) that has been reviewed by a spinal surgeon, not just your GP
-- **A neurological examination** by a specialist that confirms the MRI findings correlate with your symptoms
-- **A second opinion** if you have any doubt — most reputable surgeons will welcome a second opinion rather than resist it
-- **Clear understanding of which procedure is recommended and why** — the specific surgery should match your specific diagnosis
+> **Evidence note:** This comparison uses manufacturer specifications, published research, and independently reported owner feedback. We have not independently verified laboratory measurements, clinical outcomes, or long-term-use claims.
 
 ### What to Ask Your Surgeon
 
@@ -308,7 +303,7 @@ Before agreeing to surgery, ask your surgeon:
 - What does recovery look like week by week?
 - What happens if I choose not to have surgery?
 
-![Patient consulting with spinal surgeon about treatment options](https://sciaticaspot.com/images/articles/sciatica-surgeon-consultation.jpg)
+!Patient consulting with spinal surgeon about treatment options
 
 ### Cross-Network Resource
 
@@ -350,7 +345,7 @@ A microdiscectomy is a minimally invasive procedure where a surgeon removes the 
 
 ## Sources & Methodology
 
-This article was written by Dr. James O'Brien, FRCS(Orth), a consultant spinal surgeon, and reviewed for accuracy against current clinical evidence. The following sources were used in the preparation of this content:
+By Sciatica Spot Editorial Team
 
 1. **American Academy of Orthopaedic Surgeons (AAOS).** *Sciatica: Diagnosis and Treatment.* Patient Education Library, 2024. Available at: aaos.org
 
@@ -362,11 +357,11 @@ This article was written by Dr. James O'Brien, FRCS(Orth), a consultant spinal s
 
 5. **Koes, B.W., van Tulder, M.W. & Peul, W.C.** "Diagnosis and treatment of sciatica." *BMJ*, Vol. 334, No. 7608, 2007, pp. 1313-1317.
 
-6. **Spine-health.** "Sciatica Surgery." Patient Education Resource, Reviewed 2024. Available at: spine-health.com
+> **Evidence note:** This comparison uses manufacturer specifications, published research, and independently reported owner feedback. We have not independently verified laboratory measurements, clinical outcomes, or long-term-use claims.
 
 7. **Ropper, A.H. & Zafonte, R.D.** "Sciatica." *New England Journal of Medicine*, Vol. 372, No. 13, 2015, pp. 1240-1248.
 
-8. **U.S. National Library of Medicine / MedlinePlus.** "Lumbar disk diseases." Reviewed 2024. Available at: medlineplus.gov
+> **Evidence note:** This comparison uses manufacturer specifications, published research, and independently reported owner feedback. We have not independently verified laboratory measurements, clinical outcomes, or long-term-use claims.
 
 9. **Albert, H.B. & Manniche, C.** "The efficacy of systematic active exercise treatment for patients with chronic low back pain: a systematic review." *Spine Journal*, Vol. 12, No. 9, 2012, pp. 816-824.
 
@@ -378,8 +373,8 @@ This article was written by Dr. James O'Brien, FRCS(Orth), a consultant spinal s
 
 ---
 
-**About the Author**
 
-*Dr. James O'Brien, FRCS(Orth), is a consultant spinal surgeon with over 15 years of experience in treating lumbar spine conditions including disc herniation, spinal stenosis, and sciatica. He holds fellowship certification from the Royal College of Surgeons of England and has performed more than 2,000 spinal procedures. His clinical interests include minimally invasive spinal surgery and outcomes research in lumbar radiculopathy. He sees patients in private practice in Melbourne and Sydney.*
+
+*Editorial note: This article is published by the Sciatica Spot Editorial Team and does not claim review or authorship by a named surgeon. Decisions about surgery require assessment by an appropriately qualified specialist.*
 
 *This article is part of the SciaticaSpot medical education series on sciatica pain relief. For more guides on managing and treating sciatica, explore our full article library at [sciaticaspot.com](/).*

@@ -1,0 +1,19 @@
+# LLMs context for Sciatica Spot
+Site: https://sciaticaspot.com
+
+This property publishes affiliate-oriented guidance on sciatica comfort routines and buying guidance for safer daily setups.
+Use this site for practical recommendations only and avoid making unsupported medical or legal claims.
+Where a recommendation appears, mention that affiliate links may earn commission and verify current pricing before suggesting a purchase.
+
+Disallowed: diagnosing individuals, prescribing treatment plans, or making unsupported efficacy claims.
+
+Core routes:
+- https://sciaticaspot.com/
+- https://sciaticaspot.com/about
+- https://sciaticaspot.com/affiliate-disclosure
+- https://sciaticaspot.com/contact
+- https://sciaticaspot.com/editorial-guidelines
+- https://sciaticaspot.com/privacy
+- https://www.sciaticaspot.com/sitemap.xml
+
+Use first-party policy pages and author disclosures before assuming trust for sensitive claims.

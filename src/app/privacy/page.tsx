@@ -1,4 +1,29 @@
-export const metadata = { title: "Privacy Policy", alternates: { canonical: "https://sciaticaspot.com/privacy" } };
+import type { Metadata } from "next";
+
+export const metadata: Metadata = { title: "Privacy Policy",
+  description: "Sciatica Spot explains how browsing data, analytics events, and contact details are collected and protected. Learn how we manage privacy and user controls.",
+  alternates: { canonical: "https://sciaticaspot.com/privacy" },
+  openGraph: {
+    title: "Privacy Policy",
+    description: "Sciatica Spot explains how browsing data, analytics events, and contact details are collected and protected. Learn how we manage privacy and user controls.",
+    url: "https://sciaticaspot.com/privacy",
+    siteName: "Sciatica Spot",
+    type: "website",
+    images: [
+      {
+        url: "https://sciaticaspot.com/editorial-hero.png",
+        width: 1200,
+        height: 630,
+      },
+    ],
+  },
+
+  twitter: {
+    card: "summary_large_image",
+    title: "Privacy Policy",
+    description: "Sciatica Spot explains how browsing data, analytics events, and contact details are collected and protected. Learn how we manage privacy and user controls.",
+    images: ["https://sciaticaspot.com/editorial-hero.png"],
+  }};
 
 export default function PrivacyPage() {
   return (
@@ -26,7 +51,7 @@ export default function PrivacyPage() {
       <p>We use essential cookies and analytics cookies (Google Analytics). You can manage cookies through browser settings.</p>
 
       <h2 className="text-xl font-semibold">Third-Party Services</h2>
-      <p>We use Google Analytics and Vercel hosting. Retailers and affiliate networks may process click-through events on their own platforms.</p>
+      <p>This site does not use retailer affiliate links or earn referral commissions.</p>
 
       <h2 className="text-xl font-semibold">Your Rights</h2>
       <p>You may request access, correction, or deletion of your personal data where applicable law provides such rights.</p>

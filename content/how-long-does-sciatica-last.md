@@ -4,14 +4,12 @@ slug: "how-long-does-sciatica-last"
 meta_description: "How long does sciatica last? Most acute cases resolve in 4-6 weeks. Chronic sciatica lasts 3+ months. Full recovery timelines, stages, and when to see a doctor. 2026."
 datePublished: "2026-03-21"
 dateModified: "2026-03-21"
-author: "Dr. Michael Torres"
-faq_schema: "{\"@context\":\"https://schema.org\",\"@type\":\"FAQPage\",\"mainEntity\":[{\"@type\":\"Question\",\"name\":\"How long does sciatica last on average?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Most acute sciatica cases resolve within 4-6 weeks with appropriate treatment. Approximately 90% of patients improve significantly within 12 weeks without surgery. Chronic sciatica, defined as symptoms persisting beyond 12 weeks, affects approximately 20-30% of cases and may require more aggressive intervention including physical therapy, epidural steroid injections, or in rare cases, surgery.\"}},{\"@type\":\"Question\",\"name\":\"Can sciatica go away on its own?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Yes — research published in the British Medical Journal found that 90% of sciatica cases caused by disc herniation resolve spontaneously without surgery within 12 weeks. The disc herniation that compresses the sciatic nerve tends to shrink over time as the body reabsorbs the disc material. Conservative management (rest, anti-inflammatories, gentle movement, heat/ice) supports natural recovery.\"}},{\"@type\":\"Question\",\"name\":\"How do I know if my sciatica is healing?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Positive signs of sciatica healing include: pain shifting from the leg toward the lower back (centralization), reduced intensity of leg pain, pain becoming more intermittent rather than constant, improved ability to perform daily activities, and better sleep quality. Leg pain improving faster than back pain is a particularly positive indicator. Worsening leg pain or numbness spreading further down the leg are warning signs to consult your doctor.\"}},{\"@type\":\"Question\",\"name\":\"What is the fastest way to recover from sciatica?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Evidence-based sciatica recovery strategies include: staying active with gentle movement (bed rest longer than 48 hours delays recovery), targeted stretches like the piriformis stretch and knee-to-chest, heat or ice therapy (alternating often provides best relief), anti-inflammatory medication if appropriate, and physical therapy for guided exercise. The McKenzie Method — a specific physical therapy approach — has strong evidence for accelerating disc-related sciatica recovery.\"}},{\"@type\":\"Question\",\"name\":\"When should I worry about sciatica?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Seek immediate medical attention if you experience: loss of bladder or bowel control (cauda equina syndrome — a surgical emergency), progressive leg weakness, numbness in the groin or inner thighs, or sciatica following a traumatic injury. See your doctor within a week if: symptoms show no improvement after 4 weeks of conservative treatment, pain is severe and disruptive to sleep, both legs are affected, or symptoms are worsening rather than fluctuating.\"}},{\"@type\":\"Question\",\"name\":\"Does sciatica get worse before it gets better?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Initial worsening during the first 1-2 weeks is common and does not necessarily indicate deterioration. Inflammation peaks in the first 2-4 weeks before the healing process begins. Minor fluctuations in pain throughout recovery are normal. However, consistently worsening symptoms over more than 2 weeks, or new symptoms like increasing weakness or expanding numbness, warrant medical evaluation.\"}},{\"@type\":\"Question\",\"name\":\"How long does sciatica from a herniated disc last?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Sciatica from a herniated disc typically resolves within 6-12 weeks for most patients as the disc material is naturally reabsorbed. A 2012 systematic review in the European Spine Journal found median time to pain resolution was 7 weeks. Persistent disc-related sciatica beyond 12 weeks warrants imaging and specialist evaluation to assess whether surgical intervention would accelerate recovery.\"}},{\"@type\":\"Question\",\"name\":\"Can tailbone pain accompany sciatica?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Yes — tailbone pain (coccydynia) and sciatica can occur simultaneously since both involve the lower spine and pelvic region. The sciatic nerve roots originate at L4-S1 and pass near the coccyx. Some patients with lumbar disc problems experience both sciatic radiation and coccyx discomfort. Tailbone pain often accompanies sciatica recovery when sitting posture changes during the healing process.\"}}]}"
-article_schema: "{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"headline\":\"How Long Does Sciatica Last? (Recovery Timeline)\",\"description\":\"How long does sciatica last? Most acute cases resolve in 4-6 weeks. Chronic sciatica lasts 3+ months. Full recovery timelines and when to see a doctor.\",\"author\":{\"@type\":\"Person\",\"name\":\"Dr. Michael Torres\",\"jobTitle\":\"Physiotherapist\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"SciaticaSpot\",\"url\":\"https://www.sciaticaspot.com\"},\"datePublished\":\"2026-03-21\",\"dateModified\":\"2026-03-21\",\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://www.sciaticaspot.com/how-long-does-sciatica-last\"},\"image\":\"https://www.sciaticaspot.com/images/articles/how-long-does-sciatica-last-hero.jpg\"}"
+author: "Sciatica Spot Editorial Team"
 ---
 
 # How Long Does Sciatica Last? (Recovery Timeline)
 
-**By Dr. Michael Torres, Physiotherapist** | Last updated: March 21, 2026
+By Sciatica Spot Editorial Team
 
 *This article is for informational purposes only. Consult a healthcare provider for diagnosis and treatment.*
 
@@ -21,16 +19,7 @@ article_schema: "{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"he
 
 ---
 
-## Table of Contents
-- [Sciatica Recovery Timeline: What to Expect Week by Week](#how-long-does-sciatica-last-recovery-timeline)
-- [Acute vs Chronic Sciatica: Key Differences](#acute-vs-chronic-sciatica-key-differences)
-- [Signs Your Sciatica is Healing](#signs-your-sciatica-is-healing)
-- [What Makes Sciatica Last Longer](#what-makes-sciatica-last-longer)
-- [Treatment Approaches by Duration Stage](#treatment-approaches-by-duration-stage)
-- [When to See a Doctor](#when-to-see-a-doctor)
-- [Sciatica Recovery by Cause](#sciatica-recovery-by-cause)
-- [Frequently Asked Questions](#frequently-asked-questions)
-- [Sources & Methodology](#sources-and-methodology)
+> **Evidence note:** This comparison uses manufacturer specifications, published research, and independently reported owner feedback. We have not independently verified laboratory measurements, clinical outcomes, or long-term-use claims.
 
 ---
 
@@ -88,16 +77,7 @@ By 12 weeks, approximately 90% of patients have made sufficient recovery to avoi
 
 ## Acute vs Chronic Sciatica: Key Differences
 
-<style>
-.product-cards { display: grid; grid-template-columns: 1fr; gap: 1.5rem; margin: 2rem 0; }
-@media(min-width:640px){ .product-cards { grid-template-columns: repeat(2, 1fr); } }
-.product-card { border: 1px solid #e2e8f0; border-radius: 12px; overflow: hidden; background: #fff; box-shadow: 0 1px 4px rgba(0,0,0,0.06); }
-.product-card img { width: 100%; height: 200px; object-fit: cover; }
-.product-card-info { padding: 1rem; }
-.product-card-info h4 { font-size: 1rem; font-weight: 700; margin: 0 0 0.5rem; }
-.product-card-info p { font-size: 0.875rem; color: #475569; margin: 0.25rem 0; }
-.amazon-btn { display: block; margin-top: 0.75rem; text-align: center; background: #0d9488; color: #fff; padding: 0.6rem 1rem; border-radius: 8px; text-decoration: none; font-weight: 600; font-size: 0.875rem; }
-</style>
+
 
 | Feature | Acute Sciatica | Chronic Sciatica |
 |---|---|---|
@@ -185,7 +165,7 @@ Certain factors significantly extend sciatica recovery time. Understanding these
       <h4>Everlasting Comfort Seat Cushion</h4>
       <p><strong>Best for:</strong> Reducing sitting pressure during acute recovery</p>
       <p><strong>Stage:</strong> Weeks 1-8, office/car use</p>
-      <a href="https://www.amazon.com/s?k=everlasting+comfort+seat+cushion+sciatica&tag=theforge05-20" class="amazon-btn" target="_blank" rel="noopener">Check on Amazon →</a>
+      Retail availability varies →
     </div>
   </div>
   <div class="product-card">
@@ -194,7 +174,7 @@ Certain factors significantly extend sciatica recovery time. Understanding these
       <h4>Sunbeam King-Size Heating Pad</h4>
       <p><strong>Best for:</strong> Heat therapy during weeks 2-12</p>
       <p><strong>Stage:</strong> After first 48-72 hours of ice</p>
-      <a href="https://www.amazon.com/s?k=sunbeam+heating+pad+back+pain&tag=theforge05-20" class="amazon-btn" target="_blank" rel="noopener">Check on Amazon →</a>
+      Retail availability varies →
     </div>
   </div>
   <div class="product-card">
@@ -203,12 +183,12 @@ Certain factors significantly extend sciatica recovery time. Understanding these
       <h4>Mueller Lumbar Support Back Brace</h4>
       <p><strong>Best for:</strong> Work support during recovery weeks 3-8</p>
       <p><strong>Stage:</strong> Return to work activities</p>
-      <a href="https://www.amazon.com/s?k=mueller+lumbar+support+back+brace&tag=theforge05-20" class="amazon-btn" target="_blank" rel="noopener">Check on Amazon →</a>
+      Retail availability varies →
     </div>
   </div>
 </div>
 
-<video autoplay muted loop playsinline poster="/images/articles/how-long-does-sciatica-last-video-thumb.jpg" style="width:100%;border-radius:8px;margin:1.5rem 0;">
+<video class="w-full rounded-lg my-6" preload="metadata" controls muted poster="/images/articles/how-long-does-sciatica-last-video-thumb.jpg" style="width:100%;border-radius:8px;margin:1.5rem 0;">
   <source src="/videos/how-long-does-sciatica-last-demo.mp4" type="video/mp4">
 </video>
 
@@ -234,7 +214,7 @@ Certain factors significantly extend sciatica recovery time. Understanding these
 - **Surgical evaluation**: Discectomy has strong evidence for disc-related sciatica persisting beyond 6 months
 - **Pain management team**: For complex cases, multi-disciplinary approach
 
-Also note: [tailbone pain often accompanies sciatica recovery](https://www.coccyxrelief.com) — coccyx support and positioning adjustments can address both symptoms simultaneously during rehabilitation.
+Also note: tailbone pain often accompanies sciatica recovery — coccyx support and positioning adjustments can address both symptoms simultaneously during rehabilitation.
 
 ---
 
@@ -338,4 +318,4 @@ Mild initial worsening in the first 1-2 weeks is common as inflammation peaks. H
 
 ![Doctor consulting patient about sciatica recovery timeline when to seek medical attention red flag symptoms](/images/articles/how-long-does-sciatica-last-doctor-consultation.jpg)
 
-For additional pain relief during recovery, consider a [memory foam seat cushion for sciatica](https://www.amazon.com/s?k=memory+foam+seat+cushion+sciatica+pain+relief&tag=theforge05-20) for long sitting sessions and a [TENS unit for nerve pain](https://www.amazon.com/s?k=TENS+unit+sciatica+nerve+pain+relief&tag=theforge05-20) for at-home pain management between physical therapy sessions.
+For additional pain relief during recovery, consider a memory foam seat cushion for sciatica for long sitting sessions and a TENS unit for nerve pain for at-home pain management between physical therapy sessions.

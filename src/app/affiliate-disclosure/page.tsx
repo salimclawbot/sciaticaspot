@@ -1,41 +1,17 @@
-export const metadata = { title: "Affiliate Disclosure", alternates: { canonical: "https://sciaticaspot.com/affiliate-disclosure" } };
+import type { Metadata } from "next";
 
-export default function AffiliateDisclosurePage() {
+export const metadata: Metadata = {
+  title: "Commerce Policy",
+  description: "This site does not use retailer affiliate links or earn referral commissions.",
+  alternates: { canonical: "/affiliate-disclosure" },
+};
+
+export default function CommercePolicyPage() {
   return (
-    <div className="max-w-3xl mx-auto px-4 sm:px-6 py-10 space-y-4">
-      <h1 className="text-3xl font-bold">Affiliate Disclosure</h1>
-      <p><strong>Last updated:</strong> March 10, 2026</p>
-      <p>
-        Sciatica Spot is reader-supported. We may earn a commission when you buy through certain links on this site.
-        This comes at no additional cost to you.
-      </p>
-
-      <h2 className="text-xl font-semibold">How Affiliate Links Work</h2>
-      <ol className="list-decimal pl-6 space-y-1">
-        <li>You click a product link on our site.</li>
-        <li>You visit the retailer (for example, Amazon).</li>
-        <li>If you purchase, we may receive a commission from the retailer.</li>
-      </ol>
-
-      <h2 className="text-xl font-semibold">Editorial Independence</h2>
-      <p>
-        Affiliate relationships do not control our rankings or recommendations. We prioritize test evidence,
-        CADR performance, filter quality, noise, and long-term value.
-      </p>
-
-      <h2 className="text-xl font-semibold">Affiliate Programs</h2>
-      <ul className="list-disc pl-6 space-y-1">
-        <li>Amazon Associates</li>
-        <li>Other retailer or direct manufacturer programs where relevant</li>
-      </ul>
-
-      <h2 className="text-xl font-semibold">FTC Compliance</h2>
-      <p>
-        This disclosure is provided in line with FTC endorsement and advertising guidance.
-      </p>
-
-      <h2 className="text-xl font-semibold">Contact</h2>
-      <p>Email: <a className="text-cyan-700 underline" href="mailto:editorial@sciaticaspot.com">editorial@sciaticaspot.com</a></p>
-    </div>
+    <main className="mx-auto max-w-3xl px-5 py-12">
+      <h1 className="text-4xl font-bold">Commerce Policy</h1>
+      <p className="mt-6 text-lg leading-8">Sciatica Spot does not use retailer affiliate links and does not earn commissions from product purchases.</p>
+      <p className="mt-4 leading-7">Product mentions are provided for general informational context only. Readers should independently evaluate suitability, current details, and safety with qualified professionals where appropriate.</p>
+    </main>
   );
 }

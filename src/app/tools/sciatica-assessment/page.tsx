@@ -193,7 +193,7 @@ export default function SciaticaAssessmentPage() {
             "@context": "https://schema.org",
             "@type": "Article",
             headline: "Sciatica Self-Assessment Tool — Check Your Symptoms",
-            author: { "@type": "Person", name: "Dr. Emma Clarke" },
+            author: { "@type": "Organization", name: "Sciatica Spot Editorial Team" },
             datePublished: "2025-06-01",
             dateModified: "2026-03-01",
             publisher: {
@@ -201,7 +201,7 @@ export default function SciaticaAssessmentPage() {
               name: "Sciatica Spot",
               url: "https://sciaticaspot.com",
             },
-            description: "Answer 6 questions to assess your sciatica symptoms and get personalised guidance on next steps for pain relief.",
+            description: "This site does not use retailer affiliate links or earn referral commissions.",
           }),
         }}
       />
@@ -217,11 +217,11 @@ export default function SciaticaAssessmentPage() {
           </p>
 
           <p className="text-center text-sm text-gray-500 mb-2">
-            By Dr. Emma Clarke, Physiotherapist | Last updated March 2026
+            By Editorial Team| Last updated March 2026
           </p>
 
           <p className="text-center text-xs text-gray-400 mb-8">
-            This page contains affiliate links. We may earn a commission at no extra cost to you.
+            This site does not use retailer affiliate links.
           </p>
 
           <div className="bg-yellow-50 border border-yellow-200 rounded-lg p-4 mb-6">
@@ -298,25 +298,6 @@ export default function SciaticaAssessmentPage() {
                 </ul>
               </div>
 
-              <div className="flex flex-wrap gap-3 mb-6">
-                <a
-                  href="https://www.amazon.com/s?k=lumbar+support+pillow+sciatica&tag=theforge05-20"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="bg-orange-500 text-white px-4 py-2 rounded-lg font-semibold hover:bg-orange-600 inline-block"
-                >
-                  Shop Lumbar Support Pillows &rarr;
-                </a>
-                <a
-                  href="https://www.amazon.com/s?k=tens+machine+back+pain+relief&tag=theforge05-20"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="bg-orange-500 text-white px-4 py-2 rounded-lg font-semibold hover:bg-orange-600 inline-block"
-                >
-                  Shop TENS Machines for Pain Relief &rarr;
-                </a>
-              </div>
-
               <button
                 onClick={() => { setStep(0); setAnswers({}); }}
                 className="w-full py-3 bg-teal-600 text-white rounded-lg font-medium hover:bg-teal-700 transition-colors"
@@ -347,8 +328,8 @@ export default function SciaticaAssessmentPage() {
               <a href="/piriformis-syndrome-vs-sciatica" className="block text-teal-600 hover:text-teal-800 hover:underline font-medium">
                 Piriformis Syndrome vs Sciatica — How to Tell the Difference &rarr;
               </a>
-              <a href="https://plantarfasciitisguides.com" className="block text-teal-600 hover:text-teal-800 hover:underline font-medium">
-                Plantar Fasciitis Recovery Guide &rarr;
+              <a href="/best-sciatica-exercises-to-avoid" className="block text-teal-600 hover:text-teal-800 hover:underline font-medium">
+                Sciatica Exercises to Avoid and Safe Alternatives &rarr;
               </a>
             </div>
           </section>

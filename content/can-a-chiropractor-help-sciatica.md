@@ -4,8 +4,7 @@ meta_description: "Can a chiropractor help sciatica? We review the latest clinic
 slug: "can-a-chiropractor-help-sciatica"
 datePublished: 2026-03-17
 dateModified: "2026-03-17"
-author: "Dr. James Harrington, DPT, Spine Specialist"
-faq_schema: >
+author: "Sciatica Spot Editorial Team"
   {
     "@context": "https://schema.org",
     "@type": "FAQPage",
@@ -60,7 +59,6 @@ faq_schema: >
       }
     ]
   }
-article_schema: >
   {
     "@context": "https://schema.org",
     "@type": "Article",
@@ -68,7 +66,7 @@ article_schema: >
     "description": "We review the latest clinical evidence on spinal manipulation for sciatic nerve pain, plus when to go and when to avoid it.",
     "author": {
       "@type": "Person",
-      "name": "Dr. James Harrington, DPT, Spine Specialist"
+      "name": "Sciatica Spot Editorial Team"
     },
     "publisher": {
       "@type": "Organization",
@@ -87,7 +85,7 @@ article_schema: >
 
 # Can a Chiropractor Help Sciatica? (What the Evidence Says 2026)
 
-<video autoplay muted loop playsinline poster="/images/articles/can-a-chiropractor-help-sciatica-video-thumb.jpg" style="width:100%;border-radius:8px;margin:1.5rem 0;">
+<video class="w-full rounded-lg my-6" preload="metadata" controls muted poster="/images/articles/can-a-chiropractor-help-sciatica-video-thumb.jpg" style="width:100%;border-radius:8px;margin:1.5rem 0;">
   <source src="/videos/can-a-chiropractor-help-sciatica-demo.mp4" type="video/mp4">
 </video>
 
@@ -309,13 +307,13 @@ Night-time pain is one of the most disruptive aspects of sciatica. The position 
 
 Certain products can provide meaningful relief between appointments:
 
-- **Foam roller for piriformis and glute release** — a high-density foam roller helps release tension in the muscles surrounding the sciatic nerve. Regular use between chiropractic visits can extend the benefits of treatment. [Check price on Amazon](https://www.amazon.com/s?k=high+density+foam+roller+for+back+pain&tag=theforge05-20)
+- **Foam roller for piriformis and glute release** — a high-density foam roller helps release tension in the muscles surrounding the sciatic nerve. Regular use between chiropractic visits can extend the benefits of treatment. Retail availability varies
 
-- **Lumbar support cushion for sitting** — if you work at a desk or drive frequently, a contoured lumbar support cushion maintains the natural curve of your lower back and reduces pressure on the lumbar discs. [Check price on Amazon](https://www.amazon.com/s?k=lumbar+support+cushion+for+office+chair&tag=theforge05-20)
+- **Lumbar support cushion for sitting** — if you work at a desk or drive frequently, a contoured lumbar support cushion maintains the natural curve of your lower back and reduces pressure on the lumbar discs. Retail availability varies
 
-- **Sciatic nerve pillow (knee pillow)** — specifically designed to keep your hips aligned during sleep, reducing overnight nerve irritation. [Check price on Amazon](https://www.amazon.com/s?k=knee+pillow+for+sciatica+nerve+pain+relief&tag=theforge05-20)
+- **Sciatic nerve pillow (knee pillow)** — specifically designed to keep your hips aligned during sleep, reducing overnight nerve irritation. Retail availability varies
 
-- **TENS unit for home pain relief** — transcutaneous electrical nerve stimulation can provide temporary pain relief between treatment sessions. Portable units are affordable and easy to use. [Check price on Amazon](https://www.amazon.com/s?k=TENS+unit+for+back+and+leg+pain&tag=theforge05-20)
+- **TENS unit for home pain relief** — transcutaneous electrical nerve stimulation can provide temporary pain relief between treatment sessions. Portable units are affordable and easy to use. Retail availability varies
 
 ### Apply Ice and Heat Strategically
 
