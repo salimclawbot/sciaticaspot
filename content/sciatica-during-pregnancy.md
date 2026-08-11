@@ -8,8 +8,6 @@ author: "Sciatica Spot Editorial Team"
 category: "Pregnancy & Sciatica"
 ---
 
-# Sciatica During Pregnancy: Safe Treatments and Relief
-
 **Sciatica during pregnancy is one of the most common yet under-discussed discomforts expectant mothers face. Affecting up to one in three pregnant women, this shooting nerve pain can range from a mild annoyance to a debilitating condition. The good news: safe, effective treatments exist for every trimester — no medication required.**
 
 By Sciatica Spot Editorial Team

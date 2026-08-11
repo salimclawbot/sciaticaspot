@@ -2,8 +2,6 @@
 
 
 
-# Acupuncture for Sciatica: Does It Actually Work?
-
 By Sciatica Spot Editorial Team
 
 **Acupuncture reduces sciatic nerve pain in 60–70% of patients who complete a full course of treatment. Clinical trials show it outperforms sham treatment, NSAIDs, and physical therapy alone for lumbar radiculopathy. This guide reviews the evidence, explains how it works, outlines treatment protocols, and covers effective at-home alternatives when clinic access is limited.**

@@ -1,7 +1,5 @@
 > **Evidence note:** This comparison uses manufacturer specifications, published research, and independently reported owner feedback. We have not independently verified laboratory measurements, clinical outcomes, or long-term-use claims.
 
-# What Triggers a Sciatica Flare-Up? (Warning Signs + Prevention)
-
 **The most common sciatica flare-up triggers include prolonged sitting, heavy lifting with poor form, excess body weight, emotional stress, and sudden twisting movements. Recognizing these triggers—and the early warning signs that precede a flare-up—is the single most effective strategy for reducing the frequency and severity of sciatic nerve pain episodes.**
 
 By Sciatica Spot Editorial Team

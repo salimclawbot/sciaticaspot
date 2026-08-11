@@ -7,10 +7,6 @@ author: "Sciatica Spot Editorial Team"
 image: '/images/sciatica-exercises-to-avoid-hero.jpg'
 ---
 
-# Sciatica Exercises to Avoid: What Makes It Worse
-
-
-
 ![Sciatica Exercises To Avoid — top picks for 2026](/images/sciatica-exercises-to-avoid/exercises-to-avoid.jpg)
 
 **If you have sciatica, certain exercises can make your pain significantly worse. Standing toe touches, traditional sit-ups, double leg lifts, and heavy barbell squats compress the sciatic nerve or increase disc pressure, turning a manageable flare into weeks of agony. Knowing which movements to avoid is just as important as knowing what helps.**

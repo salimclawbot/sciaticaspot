@@ -14,8 +14,6 @@ og_site_name: "SciaticaSpot"
 twitter_card: "summary_large_image"
 ---
 
-# Sciatica Stretches for Immediate Relief (With Photos)
-
 **If you woke up with shooting pain down your leg or feel that familiar sciatic nerve tingle creeping into your buttock, these five stretches — done correctly and in the right order — can start bringing relief within minutes. This photo-illustrated guide walks you through each movement step by step, explains exactly why it works, and tells you how long to hold it for maximum benefit.**
 
 Sciatica affects up to 40% of adults at some point in their lives, according to the National Institutes of Health, and the burning, tingling, or electric-shock sensation it causes can make sitting, walking, and even sleeping feel unbearable. The good news: targeted stretching is one of the most evidence-backed first-line treatments for sciatic nerve pain caused by muscle tension and nerve compression. In this guide, you'll learn five research-informed stretches with photo references, proper form cues, and a clear progression to use throughout your day.

@@ -7,8 +7,6 @@ date: "2026-03-12"
 category: "Exercises & Stretches"
 ---
 
-# Best Sciatica Pain Relief Exercises (2026) — Physiotherapist's Guide
-
 > **Evidence note:** This comparison uses manufacturer specifications, published research, and independently reported owner feedback. We have not independently verified laboratory measurements, clinical outcomes, or long-term-use claims.
 
 ---

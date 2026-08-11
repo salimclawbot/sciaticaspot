@@ -9,8 +9,6 @@ category: "Product Reviews"
   {"@context":"https://schema.org","@type":"Article","headline":"Best Seat Cushions for Sciatica (2026) — Tested & Ranked","description":"The best seat cushions for sciatica relief in 2026, tested and ranked. Reduce nerve pain while sitting with these top-rated picks.","author":{"@type":"Person","name": "Sciatica Spot Editorial Team","jobTitle":"Physiotherapist","url":"https://sciaticaspot.com/author/dr-james-harlow"},"publisher":{"@type":"Organization","name":"Sciatica Spot","url":"https://sciaticaspot.com"},"datePublished":"2026-03-12","dateModified":"2026-03-12","mainEntityOfPage":{"@type":"WebPage","@id":"https://sciaticaspot.com/best-seat-cushions-for-sciatica-2026"},"image":"https://sciaticaspot.com/images/best-seat-cushions-sciatica-2026.jpg"}
 ---
 
-# Best Seat Cushions for Sciatica (2026) — Tested & Ranked
-
 <video class="w-full rounded-lg my-6" preload="metadata" controls muted poster="/images/articles/best-seat-cushions-for-sciatica-2026-video-thumb.jpg" style="width:100%;border-radius:8px;margin:1.5rem 0;">
   <source src="/videos/best-seat-cushions-for-sciatica-2026-demo.mp4" type="video/mp4">
 </video>

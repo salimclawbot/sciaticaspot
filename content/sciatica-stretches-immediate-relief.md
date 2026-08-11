@@ -1,9 +1,5 @@
 > **Evidence note:** This comparison uses manufacturer specifications, published research, and independently reported owner feedback. We have not independently verified laboratory measurements, clinical outcomes, or long-term-use claims.
 
-# Sciatica Stretches for Immediate Relief: 10 Moves That Work (2026)
-
-
-
 By Sciatica Spot Editorial Team
 
 **Sciatica stretches relieve nerve compression and muscle tension within 30 seconds to 5 minutes. The most effective moves are the pigeon pose, standing figure-4, supine sciatic stretch, and hamstring stretch — targeting the piriformis muscle and lower back tension. Do these stretches 2–3 times daily, holding each for 30–60 seconds. Most people report 40–60% pain reduction within the first week of consistent practice.**

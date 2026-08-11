@@ -7,8 +7,6 @@ dateModified: "2026-03-24"
 author: "Sciatica Spot Editorial Team"
 ---
 
-# Does Walking Help Sciatica? (How Much and How Often)
-
 By Sciatica Spot Editorial Team
 
 *This article is for informational purposes only. Consult a healthcare provider for personal diagnosis and treatment.*

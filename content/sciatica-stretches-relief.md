@@ -8,8 +8,6 @@ tags: ["sciatica", "stretches", "back pain relief", "physical therapy", "sciatic
 image: "/images/articles/sciatica-stretches-immediate-relief-hero.jpg"
 ---
 
-# Sciatica Stretches for Immediate Relief (With Photos)
-
 **Sciatica nerve pain affects up to 40% of adults at some point in their lives, but targeted stretches can provide meaningful relief in as little as 10 minutes. Eight evidence-based stretches — including the piriformis figure-4, knee-to-chest hug, cat-cow, and sciatic nerve flossing — decompress the lower spine, lengthen tight muscles, and reduce nerve irritation. Performing these stretches 2–3 times daily, combined with proper posture habits, helps most people see improvement within 1–2 weeks.**
 
 By Sciatica Spot Editorial Team

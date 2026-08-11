@@ -7,8 +7,6 @@ dateModified: "2026-03-21"
 author: "Sciatica Spot Editorial Team"
 ---
 
-# How Long Does Sciatica Last? (Recovery Timeline)
-
 By Sciatica Spot Editorial Team
 
 *This article is for informational purposes only. Consult a healthcare provider for diagnosis and treatment.*

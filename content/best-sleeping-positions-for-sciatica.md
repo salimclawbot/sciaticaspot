@@ -51,8 +51,6 @@ source_path: /Users/openclaw/sciaticaspot/best-sleeping-positions-for-sciatica
 </head>
 <body>
 
-# Best Sleeping Positions for Sciatica (2026)
-
 **The best sleeping positions for sciatica involve lying on your back with a pillow under your knees or on your unaffected side with a pillow between your knees. Both positions maintain neutral spinal alignment, reduce pressure on the sciatic nerve, and can decrease overnight pain scores by up to 35% according to clinical research.**
 
 By Sciatica Spot Editorial Team

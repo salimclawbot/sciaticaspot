@@ -83,8 +83,6 @@ author: "Sciatica Spot Editorial Team"
   }
 ---
 
-# Can a Chiropractor Help Sciatica? (What the Evidence Says 2026)
-
 <video class="w-full rounded-lg my-6" preload="metadata" controls muted poster="/images/articles/can-a-chiropractor-help-sciatica-video-thumb.jpg" style="width:100%;border-radius:8px;margin:1.5rem 0;">
   <source src="/videos/can-a-chiropractor-help-sciatica-demo.mp4" type="video/mp4">
 </video>

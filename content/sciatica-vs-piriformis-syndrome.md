@@ -9,10 +9,6 @@ category: "Condition Guides"
   {"@context":"https://schema.org","@type":"Article","headline":"Sciatica vs Piriformis Syndrome: Key Differences","description":"Sciatica vs piriformis syndrome: how to tell the difference, diagnostic tests, pain patterns, and treatment for each condition.","author":{"@type":"Person","name": "Sciatica Spot Editorial Team","jobTitle":"Physical Therapist","url":"https://sciaticaspot.com/author/dr-rachel-thompson"},"publisher":{"@type":"Organization","name":"Sciatica Spot","url":"https://sciaticaspot.com"},"datePublished":"2026-03-23","dateModified":"2026-03-23","mainEntityOfPage":{"@type":"WebPage","@id":"https://sciaticaspot.com/sciatica-vs-piriformis-syndrome"},"image":"https://sciaticaspot.com/images/articles/sciatica-vs-piriformis-syndrome/sciatic-nerve-anatomy.jpg"}
 ---
 
-# Sciatica vs Piriformis Syndrome: Key Differences
-
-
-
 By Sciatica Spot Editorial Team
 
 **Sciatica and piriformis syndrome cause nearly identical symptoms — pain and tingling radiating from the buttock down the leg — but have completely different causes. Sciatica originates at the spine from a herniated disc or bone spur compressing the sciatic nerve root. Piriformis syndrome originates in the buttock, where the piriformis muscle compresses the sciatic nerve as it passes through or under the muscle. Treatment is fundamentally different for each. Misdiagnosis leads to months of ineffective treatment.**

@@ -2,8 +2,6 @@
 
 
 
-# Sciatica Home Treatment: 7-Day Relief Plan (2026)
-
 <video class="w-full rounded-lg my-6" preload="metadata" controls muted poster="/images/articles/sciatica-home-treatment-7-day-plan-video-thumb.jpg" style="width:100%;border-radius:8px;margin:1.5rem 0;">
   <source src="/videos/sciatica-home-treatment-7-day-plan-demo.mp4" type="video/mp4">
 </video>

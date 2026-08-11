@@ -9,8 +9,6 @@ category: "Sciatica Relief"
 image: "/images/articles/sciatica-vs-piriformis-syndrome/sciatica-pain-areas.jpg"
 ---
 
-# Sciatica From Sitting Too Long: Causes, Relief & Prevention (2026)
-
 **Prolonged sitting raises lumbar disc pressure by up to 90%, tightens the piriformis muscle over the sciatic nerve, and shortens hip flexors that tilt the pelvis forward. The result is the burning, shooting leg pain of a sciatica flare-up. Most desk workers can break this cycle with correct seated posture, regular movement breaks, and targeted daily stretches.**
 
 By Sciatica Spot Editorial Team

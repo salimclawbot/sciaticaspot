@@ -12,8 +12,6 @@ target_domain: "sciaticaspot.com"
 image: "/images/articles/best-mattress-for-sciatica.jpg"
 ---
 
-# Best Mattress for Sciatica (2026)
-
 *Last updated: April 2026*
 
 !Person sleeping comfortably on a supportive mattress in a serene bedroom setting
