@@ -17,8 +17,13 @@ export default function Footer() {
           </ul>
         </div>
         <div>
-          <p className="font-semibold text-slate-900">Contact</p>
-          <p className="mt-2">hello@sciaticaspot.com</p>
+          <p className="font-semibold text-slate-900">Info</p>
+          <ul className="mt-2 space-y-1">
+            <li><Link href="/about" className="hover:text-cyan-700">About</Link></li>
+            <li><Link href="/contact" className="hover:text-cyan-700">Contact</Link></li>
+            <li><Link href="/privacy" className="hover:text-cyan-700">Privacy Policy</Link></li>
+            <li><Link href="/editorial-guidelines" className="hover:text-cyan-700">Editorial Guidelines</Link></li>
+          </ul>
         </div>
       </div>
       <div className="border-t border-cyan-100 py-4 text-center text-xs text-slate-500">© {new Date().getFullYear()} Sciatica Spot</div>
