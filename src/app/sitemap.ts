@@ -3,7 +3,8 @@ import { getAllSlugs } from "@/lib/articles";
 
 export default function sitemap(): MetadataRoute.Sitemap {
   const baseUrl = "https://sciaticaspot.com";
-  const slugs = getAllSlugs();
+  const redirectingSlugs = new Set(["best-sciatica-pain-relief-exercises-2026", "best-sitting-position-for-sciatica", "best-sleeping-positions-for-sciatica"]);
+  const slugs = getAllSlugs().filter((slug) => !redirectingSlugs.has(slug));
 
   return [
     { url: baseUrl, lastModified: new Date() },
