@@ -3,6 +3,7 @@ import { Metadata } from "next";
 import { notFound } from "next/navigation";
 import { getArticle, getAllSlugs } from "@/lib/articles";
 import SciaticaVideo from "@/components/SciaticaVideo";
+import { getArticleVisual } from "@/lib/article-visuals";
 import {
   buildKeywords,
   buildFaqSchema,
@@ -45,6 +46,7 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
 
   const title = normalizeMetaTitle(article.title);
   const description = normalizeMetaDescription(article.description);
+  const visual = getArticleVisual(article.slug, title);
 
   return {
     title,
@@ -55,7 +57,7 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
       title,
       description,
       url: `https://sciaticaspot.com/${article.slug}`,
-      images: [{ url: "https://sciaticaspot.com/editorial-hero.png", width: 1200, height: 630, alt: title }],
+      images: [{ url: `https://sciaticaspot.com${visual.src}`, width: 1536, height: 1024, alt: visual.alt }],
       type: "article",
       siteName: "Sciatica Spot",
     },
@@ -63,7 +65,7 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
       card: "summary_large_image",
       title,
       description,
-      images: ["https://sciaticaspot.com/editorial-hero.png"],
+      images: [`https://sciaticaspot.com${visual.src}`],
     },
   };
 }
@@ -103,12 +105,14 @@ function FaqSection({ items, slug }: { items: { question: string; answer: string
 export default async function ArticlePage({ params }: PageProps) {
   const article = await getArticle(params.slug);
   if (!article) notFound();
+  const visual = getArticleVisual(article.slug, article.title);
 
   const articleSchema = {
     "@context": "https://schema.org",
     "@type": "Article",
     headline: normalizeMetaTitle(article.title),
     description: normalizeMetaDescription(article.description),
+    image: `https://sciaticaspot.com${visual.src}`,
     author: { "@type": "Organization", name: "Sciatica Spot Editorial Team" },
     publisher: {
       "@type": "Organization",
@@ -151,7 +155,7 @@ export default async function ArticlePage({ params }: PageProps) {
         </div>
       </header>
       <figure className="my-7 overflow-hidden rounded-2xl border border-slate-200 bg-slate-50 shadow-sm">
-        <img src="/editorial-hero.png" alt={article.title} className="aspect-[16/9] w-full object-cover" width="1536" height="864" fetchPriority="high" />
+        <img src={visual.src} alt={visual.alt} className="aspect-[3/2] w-full object-cover" width="1536" height="1024" fetchPriority="high" />
       </figure>
 
 
@@ -165,7 +169,7 @@ export default async function ArticlePage({ params }: PageProps) {
       )}
 
       <div
-        className="prose prose-slate max-w-none rounded-2xl border border-slate-200 bg-white p-2"
+        className="prose prose-slate max-w-none rounded-2xl border border-slate-200 bg-white p-4 shadow-sm sm:p-8"
         dangerouslySetInnerHTML={{ __html: html }}
       />
 
