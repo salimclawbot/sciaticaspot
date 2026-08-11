@@ -130,14 +130,14 @@ That said, newer micro-coil and pocketed coil innerspring mattresses with thick 
 
 | Mattress Model | Type | Firmness | Pressure Relief | Spinal Support | Cooling | Best For | Approx. Price |
 |---|---|---|---|---|---|---|---|
-| Saatva Classic | Hybrid | Medium-Firm (5-7) | Excellent | Excellent | Good | All sleep positions | $1,499–$2,599 |
-| Nectar Premier Copper | All-Foam | Medium (6) | Excellent | Very Good | Very Good | Side sleepers, hot sleepers | $999–$1,699 |
-| Purple Mattress | Hyper-Elastic Polymer | Medium (6) | Excellent | Good | Excellent | Hot sleepers, combo sleepers | $1,699–$2,999 |
-| WinkBed | Hybrid | Multiple options | Excellent | Excellent | Very Good | All positions, heavier individuals | $1,199–$1,999 |
-| Idle Sleep Gel Latex | Latex Hybrid | Medium-Firm (6.5) | Excellent | Excellent | Excellent | Eco-conscious, pressure-point pain | $1,498–$2,498 |
-| Helix Midnight Luxe | Hybrid | Medium (6) | Very Good | Very Good | Very Good | Customized support options | $1,495–$2,295 |
-| Casper Wave Hybrid | Hybrid | Medium (6) | Excellent | Excellent | Very Good | Sciatica with hip/pelvic pain | $2,045–$2,795 |
-| Loom & Leaf | All-Foam (Memory) | Medium (5-6) | Excellent | Very Good | Moderate | Budget-conscious memory foam fans | $899–$1,299 |
+| Saatva Classic | Hybrid | Medium-Firm (5-7) | Excellent | Excellent | Good | All sleep positions | current cost varies |
+| Nectar Premier Copper | All-Foam | Medium (6) | Excellent | Very Good | Very Good | Side sleepers, hot sleepers | current cost varies |
+| Purple Mattress | Hyper-Elastic Polymer | Medium (6) | Excellent | Good | Excellent | Hot sleepers, combo sleepers | current cost varies |
+| WinkBed | Hybrid | Multiple options | Excellent | Excellent | Very Good | All positions, heavier individuals | current cost varies |
+| Idle Sleep Gel Latex | Latex Hybrid | Medium-Firm (6.5) | Excellent | Excellent | Excellent | Eco-conscious, pressure-point pain | current cost varies |
+| Helix Midnight Luxe | Hybrid | Medium (6) | Very Good | Very Good | Very Good | Customized support options | current cost varies |
+| Casper Wave Hybrid | Hybrid | Medium (6) | Excellent | Excellent | Very Good | Sciatica with hip/pelvic pain | current cost varies |
+| Loom & Leaf | All-Foam (Memory) | Medium (5-6) | Excellent | Very Good | Moderate | Budget-conscious memory foam fans | current cost varies |
 
 !Side-by-side comparison of eight top mattresses for sciatica
 
@@ -195,13 +195,13 @@ A 10-year minimum warranty is standard for quality mattresses. Look specifically
 
 ### Step 5: Budget Wisely
 
-A quality mattress for sciatica costs between $900 and $3,000 at retail. Avoid mattresses under $500, as they typically use lower-density foams that compress and lose support quickly — exactly the opposite of what sciatica sufferers need. Think of this as an investment in your health: a mattress that reduces your pain by even 20% will pay for itself many times over through improved sleep quality, reduced medication use, and better daytime function.
+A quality mattress for sciatica costs between current cost varies and current cost varies at retail. Avoid mattresses under current cost varies as they typically use lower-density foams that compress and lose support quickly — exactly the opposite of what sciatica sufferers need. Think of this as an investment in your health: a mattress that reduces your pain by even 20% will pay for itself many times over through improved sleep quality, reduced medication use, and better daytime function.
 
 ### Step 6: Pair with the Right Pillow and Base
 
 A mattress alone cannot solve sciatica if the rest of your sleep setup is wrong. Your pillow must support the natural curve of your cervical spine. If you sleep on your side, a thick enough pillow to fill the gap between your ear and shoulder is essential. If you sleep on your back, a thin pillow prevents your head from being pushed too far forward. The base matters too: a solid platform bed or quality adjustable base keeps the mattress performing as designed, while a sagging box spring can undermine even the best mattress.
 
-For more guidance on optimizing your full sleep setup, read our complete guide to [sleep positions for sciatica relief](/sleep-positions-for-sciatica-relief).
+For more guidance on optimizing your full sleep setup, read our complete guide to [sleep positions for sciatica relief](/best-sleeping-position-for-sciatica).
 
 ---
 

@@ -95,7 +95,7 @@ Heat works by relaxing the erector spinae muscles, gluteal muscles, and hamstrin
 
 Heat also has a neurological benefit: warm receptors in the skin can inhibit pain transmission through the gate control theory mechanism. When warmth-sensitive nerve fibres are activated, they can partially block pain signals from the smaller pain fibres carrying the sciatica signal. This is why a warm shower can sometimes provide the first real relief someone with chronic sciatica has felt in days.
 
-To understand which exercises pair well with heat therapy, see our article on the [best exercises for sciatica](/best-sciatica-exercises).
+To understand which exercises pair well with heat therapy, see our article on the [best exercises for sciatica](/sciatica-exercises).
 
 <!-- NANO_BANANA_PROMPT: Photo of a microwavable heating pad being applied to someone's lower back while they sit in an ergonomic chair. Warm, comfortable home setting. alt="Heating pad applied to lower back for sciatica muscle tension relief" -->
 
@@ -162,7 +162,7 @@ Proper application of cold therapy is critical. Done incorrectly, ice can cause 
 - Stop using cold therapy if it increases your pain after three applications and consult a healthcare provider
 - Avoid very cold packs that are below 0 degrees C (32 degrees F) — a standard ice pack at approximately -5 degrees C to -10 degrees C is sufficient
 
-If you are looking for a proper ice pack product, see our recommendation in the [sciatica home remedies guide](/sciatica-home-remedies).
+If you are looking for a proper ice pack product, see our recommendation in the [sciatica home remedies guide](/sciatica-home-treatment-7-day-plan).
 
 <!-- NANO_BANANA_PROMPT: How-to photo showing proper cold therapy application — ice pack wrapped in thin towel being placed on lower back by the person themselves. Step-by-step visual. alt="How to properly apply cold therapy for sciatica — ice pack wrapped in towel on lower back" -->
 
@@ -187,7 +187,7 @@ Heat is generally simpler to apply safely than cold, but there are important con
 - Do not use heat on areas with broken skin, open wounds, or active swelling
 - Discontinue and consult a doctor if heat causes increased pain, redness, or skin changes
 
-For a full conservative treatment approach combining heat with stretching, see our detailed [sciatica treatment guide](/sciatica-treatment-options).
+For a full conservative treatment approach combining heat with stretching, see our detailed [sciatica treatment guide](/sciatica-surgery-when-necessary).
 
 <!-- NANO_BANANA_PROMPT: Product photo of an electric heating pad with auto shut-off feature, shown on a flat surface with remote control visible. Clean white background product shot. alt="Electric heating pad with auto shut-off for safe sciatica heat therapy application" -->
 
@@ -217,7 +217,7 @@ A bag of rice microwaved too long can be 60 degrees C or hotter — hot enough t
 
 Both cold and heat are **symptomatic treatments**. They manage pain and inflammation but do not address the underlying structural cause of sciatica. If your sciatica persists beyond 2-3 weeks despite consistent temperature therapy and gentle movement, seek medical evaluation. You may need imaging, physical therapy, or other interventions.
 
-For more detail on when to seek professional care, see our guide to [when to see a doctor for sciatica](/when-to-see-a-doctor-for-sciatica).
+For more detail on when to seek professional care, see our guide to [when to see a doctor for sciatica](/sciatica-surgery-when-is-it-necessary).
 
 <!-- NANO_BANANA_PROMPT: Educational illustration showing 5 common mistakes people make with heat and cold therapy for sciatica — icons for each mistake with a cross mark and correct action shown below. Clean infographic style on white background. alt="Five common mistakes to avoid when using cold and heat therapy for sciatica" -->
 

@@ -110,7 +110,7 @@ After testing 18 cushions across daily commutes and long-distance drives, here a
 | 4 | Dreamer Car Seat Cushion | Best for long drives | 8.4/10 | $$ |
 | 5 | FORTEM Car Seat Cushion | Best for larger vehicles | 8.2/10 | $ |
 
-*Price key: $ = under $35 | $$ = $35–$60 | $$$ = $60+*
+*Price key: $ = under current cost varies | $$ = current cost varies | $$$ = current cost varies+*
 
 <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:1.5rem;margin:2rem 0;">
 
@@ -183,7 +183,7 @@ Purple's proprietary grid elastomer is not foam — it is a hyper-elastic polyme
 - Supports up to 300 lbs without bottoming out
 
 **Cons:**
-- Highest price point in our lineup ($60+)
+- Highest price point in our lineup (current cost varies+)
 - Heavier than foam alternatives (3.5 lbs vs. typical 1.5 to 2 lbs)
 - The grid texture is unusual and some users need a week to adjust
 - No integrated strap system — relies solely on non-slip base
@@ -339,7 +339,7 @@ Retail availability varies
 | **Best vehicle type** | All | Sedans | All | Bucket seats | Trucks/SUVs |
 | **Price range** | $$$ | $$ | $ | $$ | $ |
 
-*Price key: $ = under $35 | $$ = $35–$60 | $$$ = $60+*
+*Price key: $ = under current cost varies | $$ = current cost varies | $$$ = current cost varies+*
 
 
 ![Infographic comparing five car seat cushions across key sciatica relief metrics](/images/articles/car-cushion-comparison-infographic.png)

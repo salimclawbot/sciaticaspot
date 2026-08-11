@@ -225,7 +225,7 @@ Available in Soft, Medium, Medium Hybrid, and Firm versions, the Medium Hybrid (
 
 ### 7. Nectar Premier — Best Budget-Friendly Option
 
-Not everyone can invest $2,000 or more in a mattress, and the Nectar Premier proves that effective sciatica relief does not require a premium price tag. This all-foam mattress features a quilted cooling cover, gel memory foam comfort layer, and a supportive high-density polyfoam base. At approximately 6.5 on the firmness scale, it hits the medium-firm target.
+Not everyone can invest current cost varies or more in a mattress, and the Nectar Premier proves that effective sciatica relief does not require a premium price tag. This all-foam mattress features a quilted cooling cover, gel memory foam comfort layer, and a supportive high-density polyfoam base. At approximately 6.5 on the firmness scale, it hits the medium-firm target.
 
 The Nectar Premier does not have the zoned lumbar support or advanced coil systems of higher-priced competitors, but its 3-inch gel memory foam comfort layer provides solid pressure relief for the hips and shoulders. For sciatica patients on a budget — especially those under 200 lbs — it delivers meaningful improvement over a worn-out or unsuitable mattress at a fraction of the cost. The 365-night trial and forever warranty add peace of mind.
 
@@ -251,13 +251,13 @@ The Nectar Premier does not have the zoned lumbar support or advanced coil syste
 
 | Mattress | Type | Firmness | Trial Period | Warranty | Price Range (Queen) | Best For |
 |---|---|---|---|---|---|---|
-| **Saatva Classic** | Innerspring Hybrid | 3 / 6 / 8 | 365 nights | 15 years | $1,395–$1,995 | Overall sciatica relief |
-| **Purple Hybrid** | Polymer Grid Hybrid | 6.5 | 100 nights | 10 years | $1,799–$2,699 | Hot sleepers with sciatica |
-| **Casper Wave Hybrid** | Foam/Coil Hybrid | 6 | 100 nights | 10 years | $1,995–$2,695 | Side sleepers with sciatica |
-| **Helix Midnight Luxe** | Foam/Coil Hybrid | 6 | 100 nights | 15 years | $1,373–$2,149 | Customizable fit |
-| **Bear Elite Hybrid** | Foam/Coil Hybrid | 6.5 | 120 nights | Lifetime | $1,522–$2,316 | Active/recovery-focused |
-| **Tempur-Pedic ProAdapt** | Memory Foam / Hybrid | 5–8 | 90 nights | 10 years | $2,499–$3,499 | Deep pressure relief |
-| **Nectar Premier** | All-Foam | 6.5 | 365 nights | Forever | $849–$1,299 | Budget sciatica relief |
+| **Saatva Classic** | Innerspring Hybrid | 3 / 6 / 8 | 365 nights | 15 years | current cost varies | Overall sciatica relief |
+| **Purple Hybrid** | Polymer Grid Hybrid | 6.5 | 100 nights | 10 years | current cost varies | Hot sleepers with sciatica |
+| **Casper Wave Hybrid** | Foam/Coil Hybrid | 6 | 100 nights | 10 years | current cost varies | Side sleepers with sciatica |
+| **Helix Midnight Luxe** | Foam/Coil Hybrid | 6 | 100 nights | 15 years | current cost varies | Customizable fit |
+| **Bear Elite Hybrid** | Foam/Coil Hybrid | 6.5 | 120 nights | Lifetime | current cost varies | Active/recovery-focused |
+| **Tempur-Pedic ProAdapt** | Memory Foam / Hybrid | 5–8 | 90 nights | 10 years | current cost varies | Deep pressure relief |
+| **Nectar Premier** | All-Foam | 6.5 | 365 nights | Forever | current cost varies | Budget sciatica relief |
 
 ---
 

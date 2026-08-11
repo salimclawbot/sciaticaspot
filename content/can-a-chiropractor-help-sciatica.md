@@ -230,7 +230,7 @@ Choosing between providers can be confusing. Here is how they compare across key
 | **Prescribe medication** | No | No | Yes |
 | **Surgical referral** | Can refer to orthopedic or neurosurgeon | Can refer to orthopedic or neurosurgeon | Yes |
 | **Evidence base for sciatica** | Moderate-to-strong for disc-related sciatica | Strong for chronic sciatica and prevention | Strong for acute pain management |
-| **Cost per session (approx.)** | $50–$150 | $75–$200 | $100–$300 (with insurance variable) |
+| **Cost per session (approx.)** | current cost varies | current cost varies | current cost varies (with insurance variable) |
 | **Insurance coverage** | Covered by most plans with visit limits | Covered by most plans | Covered by most plans |
 
 **The bottom line:** These providers are not mutually exclusive. Many patients achieve the best results by combining chiropractic care for acute symptom relief with physiotherapy exercises for long-term prevention, and GP oversight for medication management and diagnostic imaging when needed.

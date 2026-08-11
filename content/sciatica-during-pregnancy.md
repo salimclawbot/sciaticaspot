@@ -251,11 +251,11 @@ The following products can complement your exercise and treatment routine. Each 
 <table>
 <thead><tr><th>Product</th><th>Best For</th><th>Price Range</th><th>Rating</th></tr></thead>
 <tbody>
-<tr><td>Boppy Side Sleeper Pillow</td><td>Sleep support & hip alignment</td><td>$30–$45</td><td>⭐⭐⭐⭐⭐</td></tr>
-<tr><td>Babymoov Dream Belt</td><td>Nighttime belly support</td><td>$35–$50</td><td>⭐⭐⭐⭐½</td></tr>
-<tr><td>OPTP PRO-ROLLER (Soft)</td><td>Piriformis & glute release</td><td>$25–$40</td><td>⭐⭐⭐⭐</td></tr>
-<tr><td>Gabrialla Maternity Belt</td><td>Daytime walking support</td><td>$30–$55</td><td>⭐⭐⭐⭐½</td></tr>
-<tr><td>TheraPearl Hot/Cold Pack</td><td>Heat & cold therapy</td><td>$10–$20</td><td>⭐⭐⭐⭐⭐</td></tr>
+<tr><td>Boppy Side Sleeper Pillow</td><td>Sleep support & hip alignment</td><td>current cost varies</td><td>⭐⭐⭐⭐⭐</td></tr>
+<tr><td>Babymoov Dream Belt</td><td>Nighttime belly support</td><td>current cost varies</td><td>⭐⭐⭐⭐½</td></tr>
+<tr><td>OPTP PRO-ROLLER (Soft)</td><td>Piriformis & glute release</td><td>current cost varies</td><td>⭐⭐⭐⭐</td></tr>
+<tr><td>Gabrialla Maternity Belt</td><td>Daytime walking support</td><td>current cost varies</td><td>⭐⭐⭐⭐½</td></tr>
+<tr><td>TheraPearl Hot/Cold Pack</td><td>Heat & cold therapy</td><td>current cost varies</td><td>⭐⭐⭐⭐⭐</td></tr>
 </tbody>
 </table>
 </div>

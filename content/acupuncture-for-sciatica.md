@@ -121,14 +121,14 @@ How does acupuncture compare to other first-line and second-line sciatica treatm
 
 | Treatment | Pain Reduction | Time to Benefit | Duration of Effect | Cost (full course) | Evidence Quality |
 |-----------|---------------|-----------------|-------------------|-------------------|-----------------|
-| Acupuncture (8–12 sessions) | 55–65% | 2–4 weeks | 3–6 months | $750–$1,800 | High |
-| NSAIDs (ibuprofen/naproxen) | 25–35% | 1–3 days | Symptom-dependent | $20–$60/month | High |
-| Physiotherapy (8–12 sessions) | 40–55% | 3–6 weeks | 6–12 months | $800–$2,000 | High |
-| Epidural steroid injection | 50–70% | 3–7 days | 6–12 weeks | $1,500–$3,000 | Moderate-High |
-| Chiropractic (10 sessions) | 30–45% | 2–4 weeks | 1–3 months | $500–$1,200 | Moderate |
-| Acupressure mat (home use) | 20–35% | 1–2 weeks | Ongoing with use | $30–$80 one-time | Moderate |
-| Massage therapy (8 sessions) | 30–40% | 1–2 weeks | 1–3 months | $600–$1,200 | Moderate |
-| Surgery (microdiscectomy) | 70–90% | Immediate-2 weeks | Long-term | $15,000–$50,000 | High |
+| Acupuncture (8–12 sessions) | 55–65% | 2–4 weeks | 3–6 months | current cost varies | High |
+| NSAIDs (ibuprofen/naproxen) | 25–35% | 1–3 days | Symptom-dependent | current cost varies | High |
+| Physiotherapy (8–12 sessions) | 40–55% | 3–6 weeks | 6–12 months | current cost varies | High |
+| Epidural steroid injection | 50–70% | 3–7 days | 6–12 weeks | current cost varies | Moderate-High |
+| Chiropractic (10 sessions) | 30–45% | 2–4 weeks | 1–3 months | current cost varies | Moderate |
+| Acupressure mat (home use) | 20–35% | 1–2 weeks | Ongoing with use | current cost varies one-time | Moderate |
+| Massage therapy (8 sessions) | 30–40% | 1–2 weeks | 1–3 months | current cost varies | Moderate |
+| Surgery (microdiscectomy) | 70–90% | Immediate-2 weeks | Long-term | current cost varies | High |
 
 </div>
 
@@ -176,10 +176,10 @@ If you have completed 6 sessions and experienced less than 15% improvement in pa
 
 The cost of acupuncture for sciatica varies significantly by location, practitioner experience, and session format:
 
-- **Initial consultation + treatment:** $100–$200 (typically longer — 60–90 minutes)
-- **Follow-up sessions:** $75–$150 per session (45–60 minutes)
-- **Full 10-session course:** $750–$1,800 at full rate
-- **Community acupuncture clinics:** $25–$50 per session (group setting; no privacy, but same clinical benefit for uncomplicated cases)
+- **Initial consultation + treatment:** current cost varies (typically longer — 60–90 minutes)
+- **Follow-up sessions:** current cost varies per session (45–60 minutes)
+- **Full 10-session course:** current cost varies at full rate
+- **Community acupuncture clinics:** current cost varies per session (group setting; no privacy, but same clinical benefit for uncomplicated cases)
 
 ### Insurance Coverage
 
@@ -308,7 +308,7 @@ You cannot perform traditional needle acupuncture at home safely — it requires
 
 ### How much does acupuncture for sciatica cost?
 
-Acupuncture sessions for sciatica typically cost $75–$150 per session in the United States. A full 10–12 session course costs $750–$1,800. Many health insurance plans now partially cover acupuncture, particularly when prescribed by a physician for pain management. Medicare covers up to 20 acupuncture sessions per year for chronic low back pain. Without insurance, expect to pay full rate — which makes at-home alternatives like acupressure mats ($30–$80) an attractive complement or starting point.
+Acupuncture sessions for sciatica typically cost current cost varies per session in the United States. A full 10–12 session course costs current cost varies. Many health insurance plans now partially cover acupuncture, particularly when prescribed by a physician for pain management. Medicare covers up to 20 acupuncture sessions per year for chronic low back pain. Without insurance, expect to pay full rate — which makes at-home alternatives like acupressure mats (current cost varies) an attractive complement or starting point.
 
 ### Are there risks or side effects of acupuncture for sciatica?
 

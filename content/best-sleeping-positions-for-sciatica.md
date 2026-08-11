@@ -260,13 +260,13 @@ An often-overlooked detail: if you use a knee pillow but let your ankles rest di
 
 | Pillow Type | Best For | Sleep Position | Sciatica Pain Relief | Stays in Place | Price Range |
 |---|---|---|---|---|---|
-| **Contoured memory foam knee pillow** | Disc herniation sciatica | Side-lying | <span class="rating">&#9733;&#9733;&#9733;&#9733;&#9733;</span> 9/10 | Excellent | $20–$40 |
-| **Cylindrical knee bolster** | General sciatica | Back-lying | <span class="rating">&#9733;&#9733;&#9733;&#9733;&#9733;</span> 9/10 | Good | $15–$35 |
-| **Full-length body pillow** | Side sleepers who shift | Side-lying | <span class="rating">&#9733;&#9733;&#9733;&#9733;</span> 8/10 | Excellent | $30–$70 |
-| **Wedge pillow (leg elevation)** | Acute flare-ups | Back-lying, legs elevated | <span class="rating">&#9733;&#9733;&#9733;&#9733;</span> 8/10 | Excellent | $35–$60 |
-| **Standard rectangular pillow** | Budget option | Any | <span class="rating">&#9733;&#9733;&#9733;</span> 6/10 | Poor | $5–$15 |
-| **Inflatable travel knee pillow** | Travel, hotel stays | Side or back | <span class="rating">&#9733;&#9733;&#9733;</span> 6/10 | Fair | $10–$20 |
-| **Adjustable fill pillow (buckwheat)** | Custom firmness needs | Side-lying | <span class="rating">&#9733;&#9733;&#9733;&#9733;</span> 7/10 | Good | $25–$50 |
+| **Contoured memory foam knee pillow** | Disc herniation sciatica | Side-lying | <span class="rating">&#9733;&#9733;&#9733;&#9733;&#9733;</span> 9/10 | Excellent | current cost varies |
+| **Cylindrical knee bolster** | General sciatica | Back-lying | <span class="rating">&#9733;&#9733;&#9733;&#9733;&#9733;</span> 9/10 | Good | current cost varies |
+| **Full-length body pillow** | Side sleepers who shift | Side-lying | <span class="rating">&#9733;&#9733;&#9733;&#9733;</span> 8/10 | Excellent | current cost varies |
+| **Wedge pillow (leg elevation)** | Acute flare-ups | Back-lying, legs elevated | <span class="rating">&#9733;&#9733;&#9733;&#9733;</span> 8/10 | Excellent | current cost varies |
+| **Standard rectangular pillow** | Budget option | Any | <span class="rating">&#9733;&#9733;&#9733;</span> 6/10 | Poor | current cost varies |
+| **Inflatable travel knee pillow** | Travel, hotel stays | Side or back | <span class="rating">&#9733;&#9733;&#9733;</span> 6/10 | Fair | current cost varies |
+| **Adjustable fill pillow (buckwheat)** | Custom firmness needs | Side-lying | <span class="rating">&#9733;&#9733;&#9733;&#9733;</span> 7/10 | Good | current cost varies |
 
 <div class="key-takeaway">
 
@@ -306,7 +306,7 @@ The mattress industry does not use a standardized firmness scale, which makes sh
 
 ### The Mattress Topper Solution
 
-If replacing your mattress is not immediately feasible, a 7–10 cm memory foam or latex topper can transform a too-firm mattress into one that is appropriate for sciatica. This is a cost-effective interim solution ($80–$200 vs. $800–$2,000 for a new mattress). However, a topper cannot fix a sagging mattress — if your mattress has visible body impressions deeper than 3 cm, it needs replacement.
+If replacing your mattress is not immediately feasible, a 7–10 cm memory foam or latex topper can transform a too-firm mattress into one that is appropriate for sciatica. This is a cost-effective interim solution (current cost varies vs. current cost varies for a new mattress). However, a topper cannot fix a sagging mattress — if your mattress has visible body impressions deeper than 3 cm, it needs replacement.
 
 ---
 

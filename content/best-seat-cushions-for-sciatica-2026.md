@@ -111,7 +111,7 @@ Not all cushions are created equal. The following features separate effective sc
 | 6 | TravelMate Gel-Enhanced Memory Foam | Car seats | 8.1/10 | $$ |
 | 7 | Aylio Coccyx Orthopedic Comfort Foam | Wheelchair use | 7.9/10 | $ |
 
-*Price key: $ = under $35 | $$ = $35–$60 | $$$ = $60+*
+*Price key: $ = under current cost varies | $$ = current cost varies | $$$ = current cost varies+*
 
 
 ![Cushion effectiveness ranked — memory foam coccyx design leads on every clinical metric](/images/articles/seat-cushion-comparison-infographic.jpg)

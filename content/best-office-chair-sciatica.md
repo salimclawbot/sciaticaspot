@@ -16,7 +16,7 @@
 - [What to Look for in a Chair for Sciatica](#what-to-look-for)
 - [Top 5 Best Office Chairs for Sciatica (2026)](#top-5-chairs)
 - [How to Adjust Any Chair for Sciatica Relief](#how-to-adjust)
-- [Budget Options Under $300](#budget-options)
+- [Budget Options Under current cost varies](#budget-options)
 - [Frequently Asked Questions](#frequently-asked-questions)
 - [Sources & Methodology](#sources-and-methodology)
 
@@ -157,14 +157,14 @@ Movement variety is best. Alternate every 20–30 minutes. If forced to choose, 
 
 ---
 
-## Budget Options Under $300 for Sciatica {#budget-options}
+## Budget Options Under current cost varies for Sciatica {#budget-options}
 
 <!-- IMG: Budget office chair options for sciatica showing affordable ergonomic alternatives -->
-![Budget office chairs for sciatica under $300 showing SIHOO, FlexiSpot, and other affordable ergonomic options](/images/articles/best-office-chair-sciatica-anatomy.jpg)
+![Budget office chairs for sciatica under current cost varies showing SIHOO, FlexiSpot, and other affordable ergonomic options](/images/articles/best-office-chair-sciatica-anatomy.jpg)
 
-Premium ergonomic chairs (Herman Miller, Steelcase) are excellent but cost $800–$2,000. For sciatica sufferers on a tighter budget, several options deliver meaningful ergonomic features at under $300:
+Premium ergonomic chairs (Herman Miller, Steelcase) are excellent but cost current cost varies. For sciatica sufferers on a tighter budget, several options deliver meaningful ergonomic features at under current cost varies:
 
-### What You Can Expect Under $300
+### What You Can Expect Under current cost varies
 
 At this price point, you can find:
 - Adjustable lumbar support (height, though often not depth)
@@ -180,15 +180,15 @@ What you typically sacrifice:
 
 ### Recommended Budget Picks
 
-**SIHOO M57** (~$200): Our top budget pick. Offers 3-way lumbar adjustment (height, depth, and firmness toggle), waterfall seat edge, and adjustable armrests. Build quality is acceptable for its price point; the mesh breathes reasonably well. Some users find the lumbar padding slightly firmer than ideal for acute sciatica — if in a flare-up, add a thin gel pad.
+**SIHOO M57** (~current cost varies): Our top budget pick. Offers 3-way lumbar adjustment (height, depth, and firmness toggle), waterfall seat edge, and adjustable armrests. Build quality is acceptable for its price point; the mesh breathes reasonably well. Some users find the lumbar padding slightly firmer than ideal for acute sciatica — if in a flare-up, add a thin gel pad.
 
-**FlexiSpot BackSupport BS13** (~$250): Slightly more expensive but adds a 4D armrest system (height, width, depth, pivot) that is difficult to find at this price. The lumbar support is not as adjustable as the SIHOO but the seat cushion quality is higher — thicker foam that holds its shape better over 12+ months.
+**FlexiSpot BackSupport BS13** (~current cost varies): Slightly more expensive but adds a 4D armrest system (height, width, depth, pivot) that is difficult to find at this price. The lumbar support is not as adjustable as the SIHOO but the seat cushion quality is higher — thicker foam that holds its shape better over 12+ months.
 
-**Office Star ProGrid** (~$180): A mesh back chair that offers good airflow (important for all-day use, as heat buildup increases muscle tension). Lumbar support is fixed height, which is the main limitation. Use a separate lumbar pillow to position correctly.
+**Office Star ProGrid** (~current cost varies): A mesh back chair that offers good airflow (important for all-day use, as heat buildup increases muscle tension). Lumbar support is fixed height, which is the main limitation. Use a separate lumbar pillow to position correctly.
 
 ### The Case for a Certified Refurbished Premium Chair
 
-One option worth considering at the $300–$500 range: certified refurbished Herman Miller Aeron or Steelcase Leap chairs. These sell for $300–$500 from authorized refurbishers and retain the full ergonomic adjustability of new models. The main risk is foam/mesh condition — ask specifically about seat cushion condition before buying.
+One option worth considering at the current cost varies range: certified refurbished Herman Miller Aeron or Steelcase Leap chairs. These sell for current cost varies from authorized refurbishers and retain the full ergonomic adjustability of new models. The main risk is foam/mesh condition — ask specifically about seat cushion condition before buying.
 
 ---
 

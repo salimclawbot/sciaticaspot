@@ -189,11 +189,11 @@ Regardless of which surgery you have, long-term success depends on maintaining a
 - Regular core and back-strengthening exercises
 - Maintaining a healthy body weight
 - Practising good posture, particularly during prolonged sitting
-- Using appropriate lumbar support when seated — consider a quality [ergonomic seat cushion for sciatica](/best-seat-cushions-for-sciatica) if you spend long hours at a desk
+- Using appropriate lumbar support when seated — consider a quality [ergonomic seat cushion for sciatica](/best-seat-cushions-for-sciatica-2026) if you spend long hours at a desk
 - Avoiding smoking, which impairs bone healing and disc health
 - Regular movement breaks if your work is sedentary
 
-For more detail on seated comfort during recovery and beyond, see our guide to [best seat cushions for sciatica](/best-seat-cushions-for-sciatica).
+For more detail on seated comfort during recovery and beyond, see our guide to [best seat cushions for sciatica](/best-seat-cushions-for-sciatica-2026).
 
 ---
 
@@ -238,11 +238,11 @@ Never start, stop, or change medication without consulting your doctor, particul
 Small changes to how you move and position your body throughout the day can meaningfully reduce sciatic nerve irritation:
 
 - **Sitting posture** — avoid slumping; sit with your hips at 90 degrees, feet flat on the floor, and lumbar support behind your lower back
-- **Workstation setup** — if you work at a desk, ensure your monitor is at eye level and your chair supports your lower back. Consider a [standing desk guide](/best-standing-desk-for-sciatica) if you find sitting exacerbates your pain
+- **Workstation setup** — if you work at a desk, ensure your monitor is at eye level and your chair supports your lower back. Consider a [standing desk guide](/best-office-chair-sciatica) if you find sitting exacerbates your pain
 - **Sleeping position** — if you experience sciatica at night, our guide to [best sleeping positions for sciatica](/best-sleeping-positions-for-sciatica) has practical adjustments that can help
 - **Weight management** — additional body weight increases mechanical load on the lumbar discs and facet joints
 
-For a comprehensive programme of stretches and exercises, see our guide to [best sciatica pain relief exercises](/best-sciatica-pain-relief-exercises).
+For a comprehensive programme of stretches and exercises, see our guide to [best sciatica pain relief exercises](/sciatica-exercises).
 
 ---
 

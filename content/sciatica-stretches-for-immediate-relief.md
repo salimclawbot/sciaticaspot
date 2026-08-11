@@ -342,8 +342,8 @@ Complete the standing hamstring stretch and revisit the knee-to-chest and pirifo
 ## Internal Links to Related Articles {#internal-links}
 
 - [/best-mattress-for-sciatica](/best-mattress-for-sciatica) — Choosing the right mattress can complement stretching by maintaining proper spinal alignment during sleep
-- [/sciatica-ice-or-heat](/sciatica-ice-or-heat) — Learn when to use cold therapy versus heat therapy to enhance your stretching routine
-- [/sciatica-in-pregnancy](/sciatica-in-pregnancy) — Special considerations for managing sciatic nerve pain during pregnancy with safe stretches
+- [/cold-vs-heat-therapy-for-sciatica](/cold-vs-heat-therapy-for-sciatica) — Learn when to use cold therapy versus heat therapy to enhance your stretching routine
+- [/sciatica-during-pregnancy](/sciatica-during-pregnancy) — Special considerations for managing sciatic nerve pain during pregnancy with safe stretches
 
 ---
 

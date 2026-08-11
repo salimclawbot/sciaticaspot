@@ -578,7 +578,7 @@ Call your doctor or go to the emergency room if you experience:
 - You're **unsure which stretches are appropriate** for your specific condition
 - You have a **known disc herniation, stenosis, or spondylolisthesis** — a PT can customize your program
 
-For additional pain management strategies beyond stretching, explore our guides on [acupuncture for sciatica](/acupuncture-for-sciatica) and our comprehensive [sciatica home treatment 7-day relief plan](/sciatica-home-treatment-7-day-relief-plan). If you spend long hours at a desk, the right [office chair for sciatica](/best-office-chair-sciatica) can prevent flare-ups between stretch sessions.
+For additional pain management strategies beyond stretching, explore our guides on [acupuncture for sciatica](/acupuncture-for-sciatica) and our comprehensive [sciatica home treatment 7-day relief plan](/sciatica-home-treatment-7-day-plan). If you spend long hours at a desk, the right [office chair for sciatica](/best-office-chair-sciatica) can prevent flare-ups between stretch sessions.
 
 If you're also experiencing tailbone pain and sciatica, the coccyx cushion recommendations in that guide complement the seated stretches described here.
 
