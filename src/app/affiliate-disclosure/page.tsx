@@ -4,6 +4,20 @@ export const metadata: Metadata = {
   title: "Commerce Policy",
   description: "Read Sciatica Spot’s clear non-commercial policy, including editorial independence, external references, and the site’s current zero-affiliate-link boundary.",
   alternates: { canonical: "/affiliate-disclosure" },
+  openGraph: {
+    title: "Commerce Policy | Sciatica Spot",
+    description: "How Sciatica Spot maintains editorial independence and its current policy of using no retailer affiliate links.",
+    url: "https://sciaticaspot.com/affiliate-disclosure",
+    siteName: "Sciatica Spot",
+    type: "website",
+    images: [{ url: "https://sciaticaspot.com/editorial-hero.png", width: 1200, height: 630, alt: "Sciatica Spot commerce policy" }],
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "Commerce Policy | Sciatica Spot",
+    description: "How Sciatica Spot maintains editorial independence and its current policy of using no retailer affiliate links.",
+    images: ["https://sciaticaspot.com/editorial-hero.png"],
+  },
 };
 
 export default function CommercePolicyPage() {
