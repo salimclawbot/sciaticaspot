@@ -21,6 +21,14 @@ export interface Article {
 }
 
 const CONTENT_DIR = path.join(process.cwd(), "content");
+const REDIRECTED_SLUGS = new Set([
+  "sciatica-stretches-for-immediate-relief",
+  "sciatica-stretches-immediate-relief",
+  "sciatica-surgery-when-is-it-necessary",
+  "best-mattress-for-sciatica-2026",
+  "best-sleeping-position-for-sciatica",
+  "sciatica-stretches-relief",
+]);
 
 function extractSchemaField(raw: string, fieldName: string): string | null {
   // Extract JSON schema from single-quoted YAML field
@@ -148,7 +156,7 @@ export async function getArticle(slug: string): Promise<Article | null> {
 export function getAllSlugs(): string[] {
   if (!fs.existsSync(CONTENT_DIR)) return [];
   return fs.readdirSync(CONTENT_DIR)
-    .filter((f) => f.endsWith(".md"))
+    .filter((f) => f.endsWith(".md") && !REDIRECTED_SLUGS.has(f.replace(/\.md$/, "")))
     .map((f) => f.replace(/\.md$/, ""));
 }
 
