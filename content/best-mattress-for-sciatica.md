@@ -111,7 +111,7 @@ Available in three firmness levels — Plush Soft (3), Luxury Firm (6), and Firm
 - Higher price point than many online brands
 - Not compressed/shipped in a box
 
-**[Retail availability varies](#)**
+**Retail availability varies**
 
 ---
 
@@ -132,7 +132,7 @@ What sets the Purple Hybrid apart for sciatica patients is its temperature neutr
 - Heavier than all-foam competitors
 - Premium pricing
 
-**[Retail availability varies](#)**
+**Retail availability varies**
 
 ---
 
@@ -153,7 +153,7 @@ The AirScape perforated foam top layer promotes cooling, while the gel pods posi
 - May feel too soft for strict back sleepers over 230 lbs
 - 100-night trial (shorter than some competitors)
 
-**[Retail availability varies](#)**
+**Retail availability varies**
 
 ---
 
@@ -174,7 +174,7 @@ The pocketed coil base enhances breathability and provides responsive support, w
 - Cooling cover upgrade adds cost
 - Pillow top may compress over time
 
-**[Retail availability varies](#)**
+**Retail availability varies**
 
 ---
 
@@ -195,7 +195,7 @@ The mattress uses copper-infused memory foam for pressure relief and antimicrobi
 - Less well-known brand than some competitors
 - Mid-to-premium pricing
 
-**[Retail availability varies](#)**
+**Retail availability varies**
 
 ![Person side sleeping on the Bear Elite Hybrid mattress with sciatica support callouts](/images/bear-elite-hybrid-sciatica.jpg)
 
@@ -219,7 +219,7 @@ Available in Soft, Medium, Medium Hybrid, and Firm versions, the Medium Hybrid (
 - Slower response time makes repositioning harder
 - 90-night trial (shortest on this list)
 
-**[Retail availability varies](#)**
+**Retail availability varies**
 
 ---
 
@@ -241,7 +241,7 @@ The Nectar Premier does not have the zoned lumbar support or advanced coil syste
 - Edge support is weaker than coil-based competitors
 - May not support sleepers over 230 lbs adequately
 
-**[Retail availability varies](#)**
+**Retail availability varies**
 
 ![Budget versus premium mattress comparison graphic for sciatica shoppers](/images/budget-vs-premium-mattress-sciatica.jpg)
 
