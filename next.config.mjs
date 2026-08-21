@@ -17,11 +17,6 @@ const nextConfig = {
   async redirects() {
     return [
       {
-        source: "/best-sleeping-positions-for-sciatica",
-        destination: "/best-sleeping-position-for-sciatica",
-        permanent: true,
-      },
-      {
         source: "/best-sciatica-pain-relief-exercises-2026",
         destination: "/sciatica-exercises",
         permanent: true,
